@@ -1,0 +1,221 @@
+{
+  "status": "published",
+  "type": "a-distancia",
+  "description": "Nova Vers\u00e3o - 08/2014\r\nCom banco de quest\u00f5es",
+  "title": " Matem\u00e1tica Financeira - Uso da HP12C",
+  "expiration_date": "31/12/2019 00:00:00",
+  "activity": {
+    "knowledge_area": "20|MATEMATICA E ESTATISTICA",
+    "visibility": "None",
+    "methodology": "3|A DISTANCIA",
+    "activity": "01371000|Matem\u00c3\u00a1tica Financeira",
+    "concentration_area": "187|MATEMATICA",
+    "modality": "12|TREINAMENTO"
+  },
+  "quiz": {
+    "number_of_random_questions": 10,
+    "signature_manager": false,
+    "title": "Avalia\u00e7\u00e3o",
+    "grading_scale": [
+      {
+        "grade": "Parab\u00e9ns!",
+        "gradeinfo": "",
+        "score": "70"
+      },
+      {
+        "grade": "Revise o conte\u00fado e tente novamente.",
+        "gradeinfo": "",
+        "score": ""
+      }
+    ],
+    "instant_feedback": true,
+    "questions": [
+      [
+        {
+          "alternatives": [
+            {
+              "answer": "<p>R$ 2.400,00</p>",
+              "correct": true
+            },
+            {
+              "answer": "<p>R$ 2.300,00</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>R$ 2.500,00</p>",
+              "correct": false
+            }
+          ],
+          "title": "<p>Beatriz aplicou em Fundo de Investimentos no Banco X e resgatou R$2.438,40. A quota variou 1,6%.\n<br/>Qual o valor aplicado?</p> "
+        },
+        {
+          "alternatives": [
+            {
+              "answer": "<p>7,05%</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>9,32%</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>8,70%</p>",
+              "correct": true
+            }
+          ],
+          "title": "<p>Raphael descontou uma NP no Banco X \u00e0 taxa de desconto de 6% ao m\u00eas por 40 dias.\n<br/>O custo efetivo do per\u00edodo foi de?</p> "
+        },
+        {
+          "alternatives": [
+            {
+              "answer": "<p>R$ 4.155,12</p>",
+              "correct": true
+            },
+            {
+              "answer": "<p>R$ 4.165,32</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>R$ 4.150,19</p>",
+              "correct": false
+            }
+          ],
+          "title": "<p>Luis fez uma aplica\u00e7\u00e3o de R$ 4.080,00 no Banco X por 31 dias, a juros compostos, \u00e0 taxa de 23,6% ao ano.\n<br/>Quanto resgatou?</p> "
+        },
+        {
+          "alternatives": [
+            {
+              "answer": "<p>15,24%</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>14,52%</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>15,09%</p>",
+              "correct": true
+            }
+          ],
+          "title": "<p>As lojas Fractal est\u00e3o com a seguinte promo\u00e7\u00e3o: \u00c0 vista com 18% de desconto, ou a prazo, ?sem juros?, em 4 presta\u00e7\u00f5es mensais iguais, sendo a primeira no ato da compra.\n<br/>Qual a taxa mensal de juros que est\u00e3o praticando?</p> "
+        },
+        {
+          "alternatives": [
+            {
+              "answer": "<p>R$ 22.500,00</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>R$ 23.800,00</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>R$ 24.000,00</p>",
+              "correct": true
+            }
+          ],
+          "title": "<p>Marcelo aplicou por um m\u00eas em Caderneta de Poupan\u00e7a e resgatou R$ 24.421,50. A TR foi 1,25%.\n<br/>Qual o valor aplicado?</p> "
+        },
+        {
+          "alternatives": [
+            {
+              "answer": "<p>31,92% e 6,75%</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>32,92% e 5,25%</p>",
+              "correct": true
+            },
+            {
+              "answer": "<p>33,85% e 6,25%</p>",
+              "correct": false
+            }
+          ],
+          "title": "<p>A taxa equivalente anual a 2,4% ao m\u00eas e a taxa mensal proporcional a 0,175% ao dia s\u00e3o respectivamente:</p> "
+        },
+        {
+          "alternatives": [
+            {
+              "answer": "<p>R$ 665,60</p>",
+              "correct": true
+            },
+            {
+              "answer": "<p>R$ 668,00</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>R$ 666,60</p>",
+              "correct": false
+            }
+          ],
+          "title": "<p>A CIA da Luz descontou , no Banco X, um border\u00f4 cujo o prazo de vencimento era 32 dias \u00e0 taxa de desconto de 3,9% ao m\u00eas. O valor do border\u00f4 era de R$ 16.000,00.\n<br/>Qual o valor do desconto?</p> "
+        },
+        {
+          "alternatives": [
+            {
+              "answer": "<p>5,0%</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>4,0%</p>",
+              "correct": true
+            },
+            {
+              "answer": "<p>3,5%</p>",
+              "correct": false
+            }
+          ],
+          "title": "<p>Jo\u00e3o aplicou R$ 4.000,00 no Banco X.   Sacou R$ 2.160,00 ap\u00f3s um m\u00eas e R$ 2.163,20 ap\u00f3s 3 meses.\n<br/>Qual a IRR desta aplica\u00e7\u00e3o?</p> "
+        },
+        {
+          "alternatives": [
+            {
+              "answer": "<p>R$ 5.764,40</p>",
+              "correct": true
+            },
+            {
+              "answer": "<p>R$ 5.974,40</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>R$ 5.647,40</p>",
+              "correct": false
+            }
+          ],
+          "title": "<p>S\u00f4nia tomou um empr\u00e9stimo de CDC no Banco X para pagar em 3 presta\u00e7\u00f5es mensais e iguais de R$ 2.400,00. O banco cobrou uma taxa  de 12% ao m\u00eas.\n<br/>O valor financiado foi:</p> "
+        },
+        {
+          "alternatives": [
+            {
+              "answer": "<p>1,23%</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>1,45%</p>",
+              "correct": false
+            },
+            {
+              "answer": "<p>1,54%</p>",
+              "correct": true
+            }
+          ],
+          "title": "<p>Zeca aplicou em CDB no Banco X por 32 dias \u00e0 taxa anual de 18,8%.\n<br/>Qual a taxa no per\u00edodo?</p> "
+        }
+      ]
+    ],
+    "directions": "<p align=\"left\">Chegou a hora de voc\u00ea mostrar o que aprendeu! <br/></p>\n<p align=\"left\"><br/></p>\n<p align=\"left\">\u00c9 necess\u00e1rio que voc\u00ea esteja com a sua HP-12C e tenha dispon\u00edvel alguns minutos para realizar a prova.<br/></p>",
+    "random_order": true,
+    "allow_repetition": true,
+    "one_question_per_page": false
+  },
+  "learningmodule_folder": "",
+  "published_date": "22/06/2016 13:13:00",
+  "scorm": {
+    "folder": "/opt/zope298/courses/matematica-financeira-20131216/",
+    "title": "Matem\u00e1tica Financeira 20131216"
+  },
+  "max_number_attempt_assessment": [
+    "1"
+  ],
+  "id": "matematica-financeira"
+}
