@@ -1,0 +1,358 @@
+[
+    {
+        "name": "corneltek/getoptionkit",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/c9s/GetOptionKit.git",
+            "reference": "3fd84905bb13d713477f1356beac1f9f9367ddcf"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/c9s/GetOptionKit/zipball/3fd84905bb13d713477f1356beac1f9f9367ddcf",
+            "reference": "3fd84905bb13d713477f1356beac1f9f9367ddcf",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "corneltek/phpunit-testmore": "dev-master",
+            "satooshi/php-coveralls": "^1"
+        },
+        "time": "2016-07-18 10:26:16",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.5.x-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "GetOptionKit\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Yo-An Lin",
+                "email": "cornelius.howl@gmail.com"
+            }
+        ],
+        "description": "Powerful command-line option toolkit",
+        "homepage": "http://github.com/c9s/GetOptionKit"
+    },
+    {
+        "name": "twig/twig",
+        "version": "v1.18.2",
+        "version_normalized": "1.18.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/twigphp/Twig.git",
+            "reference": "e8e6575abf6102af53ec283f7f14b89e304fa602"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/twigphp/Twig/zipball/e8e6575abf6102af53ec283f7f14b89e304fa602",
+            "reference": "e8e6575abf6102af53ec283f7f14b89e304fa602",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.7"
+        },
+        "time": "2015-06-06 23:31:24",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.18-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Twig_": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com",
+                "homepage": "http://fabien.potencier.org",
+                "role": "Lead Developer"
+            },
+            {
+                "name": "Armin Ronacher",
+                "email": "armin.ronacher@active-4.com",
+                "role": "Project Founder"
+            },
+            {
+                "name": "Twig Team",
+                "homepage": "http://twig.sensiolabs.org/contributors",
+                "role": "Contributors"
+            }
+        ],
+        "description": "Twig, the flexible, fast, and secure template language for PHP",
+        "homepage": "http://twig.sensiolabs.org",
+        "keywords": [
+            "templating"
+        ]
+    },
+    {
+        "name": "moodlehq/moodle-mod_newmodule",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/moodlehq/moodle-mod_newmodule.git",
+            "reference": "e1f112be8842291259ece87de3000cd5f0e18711"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/moodlehq/moodle-mod_newmodule/archive/master.zip",
+            "reference": "e1f112be8842291259ece87de3000cd5f0e18711",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "jamiepratt/moodle-qtype_TEMPLATE",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/jamiepratt/moodle-qtype_TEMPLATE",
+            "reference": "bf2b7bc641c1db5c4889e4cc78ee3c2225398871"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/jamiepratt/moodle-qtype_TEMPLATE/archive/master.zip",
+            "reference": "bf2b7bc641c1db5c4889e4cc78ee3c2225398871",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "moodlehq/moodle-local_wstemplate",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/moodlehq/moodle-local_wstemplate",
+            "reference": "add2ad0949e72f025c0aad36c4b822e8c6479d3b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/moodlehq/moodle-local_wstemplate/archive/master.zip",
+            "reference": "add2ad0949e72f025c0aad36c4b822e8c6479d3b",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "danielneis/moodle-enrol_newenrol",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/danielneis/moodle-enrol_newenrol",
+            "reference": "master"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/danielneis/moodle-enrol_newenrol/archive/master.zip",
+            "reference": "master",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "danielneis/moodle-block_newblock",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/danielneis/moodle-block_newblock.git",
+            "reference": "1fc89fb0845ad282426140feeb6bc3653efd1d7f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/danielneis/moodle-block_newblock/archive/master.zip",
+            "reference": "1fc89fb0845ad282426140feeb6bc3653efd1d7f",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "danielneis/moodle-gradereport_newgradereport",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/danielneis/moodle-gradereport_newgradereport",
+            "reference": "691f53a15de352c3fe25da03c001a97a76b18358"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/danielneis/moodle-gradereport_newgradereport/archive/master.zip",
+            "reference": "691f53a15de352c3fe25da03c001a97a76b18358",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "yetanotherape/diff-match-patch",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/yetanotherape/diff-match-patch",
+            "reference": "0726dbb4e59e68574326821c174013cf6fdfe20e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/yetanotherape/diff-match-patch/archive/master.zip",
+            "reference": "0726dbb4e59e68574326821c174013cf6fdfe20e",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "danielneis/moodle-gradeexport_newgradeexport",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/danielneis/moodle-gradeexport_newgradeexport",
+            "reference": "4d13e3f6e9f4f53d54d6e8ad348278248968412d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/danielneis/moodle-gradeexport_newgradeexport/archive/master.zip",
+            "reference": "4d13e3f6e9f4f53d54d6e8ad348278248968412d",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "danielneis/moodle-message_newprocessor",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/danielneis/moodle-message_newprocessor",
+            "reference": "e2b82f0776b13a30a79f4f20de89d597a15f58c5"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/danielneis/moodle-message_newprocessor/archive/master.zip",
+            "reference": "e2b82f0776b13a30a79f4f20de89d597a15f58c5",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "danielneis/moodle-availability_newavailability",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/danielneis/moodle-availability_newavailability",
+            "reference": "43198d6736931213ad223c8fd05881749baac22c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/danielneis/moodle-availability_newavailability/archive/master.zip",
+            "reference": "43198d6736931213ad223c8fd05881749baac22c",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    },
+    {
+        "name": "symfony/finder",
+        "version": "v2.8.9",
+        "version_normalized": "2.8.9.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/finder.git",
+            "reference": "60804d88691e4a73bbbb3035eb1d9f075c5c2c10"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/finder/zipball/60804d88691e4a73bbbb3035eb1d9f075c5c2c10",
+            "reference": "60804d88691e4a73bbbb3035eb1d9f075c5c2c10",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.9"
+        },
+        "time": "2016-07-26 08:02:44",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.8-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Component\\Finder\\": ""
+            },
+            "exclude-from-classmap": [
+                "/Tests/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony Finder Component",
+        "homepage": "https://symfony.com"
+    },
+    {
+        "name": "danielneis/moodle-local_newlocal",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/danielneis/moodle-local_newlocal",
+            "reference": "b9596bdd37963d312069a048c8d315c7592c1c24"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/danielneis/moodle-local_newlocal/archive/master.zip",
+            "reference": "b9596bdd37963d312069a048c8d315c7592c1c24",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "source"
+    }
+]
