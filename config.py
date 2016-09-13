@@ -14,9 +14,11 @@ MOODLE_CMD = 'moosh -n -p %s'%(MOODLE_PATH)
 
 JSON_DEFAULT_FILE = '/tmp/quiz.xml'
 
-REMOTE_SSH_SERVER = '172.17.0.2'
+REMOTE_SSH_SERVER = '172.17.0.3'
 REMOTE_SSH_USER = 'root'
 # REMOTE_SSH_PASS = '132768'
+# ssh-keygen
+# ssh-copy-id root@endereco
 
 ####
 # PROD

@@ -1,19 +1,19 @@
-from paramiko import SSHClient, AutoAddPolicy
+import paramiko
 from scp import SCPClient
 from config import *
 import os
 
 
-def createSSHClient(server, port, user):
-    client = SSHClient()
+def create_ssh_client():
+    client = paramiko.SSHClient()
     client.load_system_host_keys()
-    client.set_missing_host_key_policy(AutoAddPolicy())
+    client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
     client.connect(REMOTE_SSH_SERVER, 22, REMOTE_SSH_USER)
     return client
 
 
 def create_folder(folder):
-    ssh = createSSHClient('172.17.0.2', 22, 'root')
+    ssh = create_ssh_client()
     scp = SCPClient(ssh.get_transport())
 
     # folder , repository/scorm

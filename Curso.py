@@ -32,7 +32,7 @@ class Curso:
 
     def add(self):
         # CREATE CURSO
-        print 'Adicionando curso %s' % self.title
+        print 'adicionando curso %s' % self.title
         if not self.curso_exists():
             self.curso_id = self.command_execute(self.course_create_command())
         else:
