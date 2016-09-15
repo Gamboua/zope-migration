@@ -13,14 +13,14 @@ class Activity:
         pass
 
     def command_execute(self, command):
-        output = subprocess.Popen(['' + command], stdout=subprocess.PIPE, shell=True).communicate()
+        output = subprocess.Popen(['' + command.encode('utf-8')], stdout=subprocess.PIPE, shell=True).communicate()
         return output[0].replace('\n', '')
 
     def activity_create_command(self, options):
         cmd = '%s activity-add %s %s %s' % (
             MOODLE_CMD, options, self.type, self.curso.curso_id
         )
-        print cmd
+        print cmd.encode('utf-8')
         return cmd
 
 
