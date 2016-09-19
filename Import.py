@@ -41,6 +41,6 @@ def import_questions(questions):
         for item in lists:
             root.append(create_question_element(item))
 
-    with open(JSON_DEFAULT_FILE, 'w') as f:
+    with open(QUESTIONS_XML, 'w') as f:
         obj = etree.ElementTree(root)
         obj.write(f, pretty_print=True)

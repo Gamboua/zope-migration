@@ -1,41 +1,25 @@
 ####
-# DEV
-
-DB_HOST = 'localhost'
-DB_USER = 'postgres'
-DB_PASSWORD = '123456'
-DB_NAME = 'moodle31'
-DB_PORT = 5432
-
-MOODLE_PATH = '/var/www/html/moodle3.1/moodle'
-SCORM_FILE_DEFAULT_PATH = '/var/www/html/moodle3.1/moodledata/repository/scorm/'
-
-MOODLE_CMD = 'moosh -n -p %s'%(MOODLE_PATH)
-
-JSON_DEFAULT_FILE = '/tmp/quiz.xml'
-
-REMOTE_SSH_SERVER = '172.17.0.3'
-REMOTE_SSH_USER = 'root'
-# REMOTE_SSH_PASS = '132768'
-# ssh-keygen
-# ssh-copy-id root@endereco
+# MOODLE CONFIGURATION
+MOODLE_ROOT = '/var/www/html/moodle3.1/moodle/'
+MOODLE_SCORM_REPOSITORY = '/var/www/html/moodle3.1/moodledata/repository/scorm/'
+MOODLE_SCORM_TEMP = '/tmp/'
+MOOSH_COMMAND = 'moosh -n -p %s' % MOODLE_ROOT
 
 ####
-# PROD
+# DATABASE CONFIGURATION
+BASE = 'moodle31'
+HOST = 'localhost'
+USER = 'postgres'
+PASS = '123456'
+PORT = '5432'
 
-# DB_HOST = 'moodleead.ccjjwnnc8smp.us-east-1.rds.amazonaws.com'
-# DB_USER = 'moodleead'
-# DB_PASSWORD = '4Linux2015EAD'
-# DB_NAME = 'moodleng'
-# DB_PORT = 5432
-#
-# MOODLE_PATH = '/srv/www/moodleng'
-# SCORM_FILE_DEFAULT_PATH = '/tmp/files/'
-#
-# MOODLE_CMD = 'moosh -n -p %s'%(MOODLE_PATH)
-#
-# JSON_DEFAULT_FILE = '/tmp/quiz.xml'
-#
-# REMOTE_SSH_SERVER = '172.17.0.2'
-# REMOTE_SSH_USER = 'root'
-# REMOTE_SSH_PASS = '132768'
+####
+# ENVIRONMENT
+JSON_FILE_PATH = 'with_questions.json'
+QUESTIONS_XML = '/tmp/quiz.xml'
+
+####
+# SCORM SERVER
+REMOTE_SCORM_SERVER = '172.17.0.3'
+REMOTE_SCORM_USER = 'root'
+REMOTE_SCORM_PORT = 22
