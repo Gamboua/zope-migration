@@ -1,7 +1,6 @@
 import paramiko
 from scp import SCPClient
 from config import *
-import os
 
 
 def create_ssh_client():
@@ -12,22 +11,13 @@ def create_ssh_client():
     return client
 
 
-def create_folder(folder):
+def create_folder():
     ssh = create_ssh_client()
     scp = SCPClient(ssh.get_transport())
 
-    # folder , repository/scorm
-    os.makedirs(folder)
-    scp.get(
-        '%simsmanifest.xml' % folder,
-        folder
-    )
-    print 'imsmanifest.xml criado'
-    scp.get(
-            folder[:-1],
-            '/var/www/html/moodle3.1/moodledata/repository/scorm/',
-            recursive=True
-    )
-    print 'conteudo do scorm copiado'
+    print scp
 
     scp.close()
+
+
+create_folder()

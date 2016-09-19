@@ -20,7 +20,7 @@ class Activity:
         cmd = '%s activity-add %s %s %s' % (
             MOODLE_CMD, options, self.type, self.curso.curso_id
         )
-        print cmd.encode('utf-8:')
+        print cmd.encode('utf-8')
         return cmd
 
 
