@@ -1,36 +1,38 @@
-# Migração ZoDB p/ Moodle
 ![4|Linux](http://certificados.4linux.com.br/logo-top.png)
-## Moodle config
+##Migração ZoDB p/ Moodle
+### Moodle config
 Para que a migração funcione, alguns parâmetros no moodle devem ser configurados antes.
-### Categorias
+#### Categorias
 Dashboard > Site administration > Courses > Add a Category
-* Categoria
-** Category name: Unidades de negócio
-** Parent: Top
-** Category ID number: 3
-* Categoria
-** Category name: Gestão de conhecimento
-** Parent: Top
-** Category ID number: 9
-* Categoria
-** Category name: Unidades funcionais
-** Parent: Top
-** Category ID number: 6
-* Categoria
- ** Category name: Liderança
-** Parent: Top
-** Category ID number: 5
+- Parent: Top
+- Category name: Unidades de negócio
+- Category ID number: 3
+
+
+- Parent: Top
+- Category name: Gestão de conhecimento
+- Category ID number: 9
+
+
+- Parent: Top
+- Category name: Unidades funcionais
+- Category ID number: 6
+
+
+- Parent: Top
+- Category name: Liderança
+- Category ID number: 5
 
 ### Cursos
 Dashboard > Site administration > Courses > Course default settings
-
 - Course format
   - Format: Topics format
   - Number of sections: 0
 
 - Completion tracking
   - Completion tracking: Yes
-## Scorm
+
+### Scorm
 Dashboard > Site administration > Plugins > Activity modules > Scorm Package
 - Default display settings
     - Display courses structure on entry page: Yes
@@ -39,11 +41,13 @@ Dashboard > Site administration > Plugins > Activity modules > Scorm Package
     - Disable preview mode: Yes
     - Display course structure in player: Disabled
     - Display attempts status: No
-## Questions
+
+### Questions
 Dashboard > Site administration > Plugins > Activity modules > Quiz
 - Automatically start a new page: After adding 10 questions
 - Use a 'secure' popup window for attempts: Full screen pop-up with some Javascript security
-## Repositório
+
+### Repositório
 Dashboard > Site administration > Plugins > Repositories > Manage repositories
 - File system: enabled and visible
     - Settings 
@@ -101,16 +105,18 @@ Parâmetros no arquivo do config.py
 - MOODLE_ROOT = Diretorio root do moodle
 - MOODLE_SCORM_REPOSITORY = Diretório do repositório Scorm dentro do moodledata
 - MOOSH_COMMAND = 'moosh -n -p %s' % MOODLE_ROOT
-######
+
 #### DATABASE
 - BASE = Nome da base
 - HOST = Host do banco
 - USER = Usuário do Banco
 - PASS = Senha da Base
 - PORT = Porta postgresql
+
 #### ENVIRONMENT
 - JSON_FILE_PATH = json da migração
 - QUESTIONS_XML = arquivo que será gerado pelo script de importação de questões
+
 #### SCORM
 - REMOTE_SCORM_SERVER = ip do servidor com pasta dos scorms
 - REMOTE_SCORM_USER = usuario de acesso
