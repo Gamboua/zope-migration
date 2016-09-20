@@ -1,38 +1,36 @@
 # Migração ZoDB p/ Moodle
-
 ![4|Linux](http://certificados.4linux.com.br/logo-top.png)
-
-### Moodle config
+## Moodle config
 Para que a migração funcione, alguns parâmetros no moodle devem ser configurados antes.
-##### Categorias
+### Categorias
 Dashboard > Site administration > Courses > Add a Category
-- Parent: Top
-- Category name: Unidades de negócio
-- Category ID number: 3
+* Categoria
+** Category name: Unidades de negócio
+** Parent: Top
+** Category ID number: 3
+* Categoria
+** Category name: Gestão de conhecimento
+** Parent: Top
+** Category ID number: 9
+* Categoria
+** Category name: Unidades funcionais
+** Parent: Top
+** Category ID number: 6
+* Categoria
+ ** Category name: Liderança
+** Parent: Top
+** Category ID number: 5
 
-
-- Parent: Top
-- Category name: Gestão de conhecimento
-- Category ID number: 9
-
-
-- Parent: Top
-- Category name: Unidades funcionais
-- Category ID number: 6
-
-
-- Parent: Top
-- Category name: Liderança
-- Category ID number: 5
-##### Cursos
+### Cursos
 Dashboard > Site administration > Courses > Course default settings
+
 - Course format
   - Format: Topics format
   - Number of sections: 0
 
 - Completion tracking
   - Completion tracking: Yes
-##### Scorm
+## Scorm
 Dashboard > Site administration > Plugins > Activity modules > Scorm Package
 - Default display settings
     - Display courses structure on entry page: Yes
@@ -41,11 +39,11 @@ Dashboard > Site administration > Plugins > Activity modules > Scorm Package
     - Disable preview mode: Yes
     - Display course structure in player: Disabled
     - Display attempts status: No
-##### Questions
+## Questions
 Dashboard > Site administration > Plugins > Activity modules > Quiz
 - Automatically start a new page: After adding 10 questions
 - Use a 'secure' popup window for attempts: Full screen pop-up with some Javascript security
-##### Repositório
+## Repositório
 Dashboard > Site administration > Plugins > Repositories > Manage repositories
 - File system: enabled and visible
     - Settings 
