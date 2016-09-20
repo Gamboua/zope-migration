@@ -1,25 +1,25 @@
 ####
 # MOODLE CONFIGURATION
-MOODLE_ROOT = '/var/www/html/moodle3.1/moodle/'
-MOODLE_SCORM_REPOSITORY = '/var/www/html/moodle3.1/moodledata/repository/scorm/'
-MOODLE_SCORM_TEMP = '/tmp/'
-MOOSH_COMMAND = 'moosh -n -p %s' % MOODLE_ROOT
+MOODLE_ROOT =
+MOODLE_SCORM_REPOSITORY =
+MOODLE_SCORM_TEMP =
+MOOSH_COMMAND =
 
 ####
 # DATABASE CONFIGURATION
-BASE = 'moodle31'
-HOST = 'localhost'
-USER = 'postgres'
-PASS = '123456'
-PORT = '5432'
+BASE =
+HOST =
+USER =
+PASS =
+PORT =
 
 ####
 # ENVIRONMENT
-JSON_FILE_PATH = 'with_questions.json'
-QUESTIONS_XML = '/tmp/quiz.xml'
+JSON_FILE_PATH =
+QUESTIONS_XML =
 
 ####
 # SCORM SERVER
-REMOTE_SCORM_SERVER = '172.17.0.3'
-REMOTE_SCORM_USER = 'root'
-REMOTE_SCORM_PORT = 22
+REMOTE_SCORM_SERVER =
+REMOTE_SCORM_USER =
+REMOTE_SCORM_PORT =
