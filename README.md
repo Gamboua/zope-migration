@@ -46,6 +46,7 @@ Dashboard > Site administration > Plugins > Activity modules > Scorm Package
 Dashboard > Site administration > Plugins > Activity modules > Quiz
 - Automatically start a new page: After adding 10 questions
 - Use a 'secure' popup window for attempts: Full screen pop-up with some Javascript security
+
 ### Repositório
 Dashboard > Site administration > Plugins > Repositories > Manage repositories
 - File system: enabled and visible
