@@ -1,10 +1,8 @@
-# Migração ZoDB p/ Moodle
-
 ![4|Linux](http://certificados.4linux.com.br/logo-top.png)
-
+##Migração ZoDB p/ Moodle
 ### Moodle config
 Para que a migração funcione, alguns parâmetros no moodle devem ser configurados antes.
-##### Categorias
+#### Categorias
 Dashboard > Site administration > Courses > Add a Category
 - Parent: Top
 - Category name: Unidades de negócio
