@@ -22,7 +22,8 @@ Dashboard > Site administration > Courses > Add a Category
 - Parent: Top
 - Category name: Liderança
 - Category ID number: 5
-##### Cursos
+
+### Cursos
 Dashboard > Site administration > Courses > Course default settings
 - Course format
   - Format: Topics format
@@ -30,7 +31,8 @@ Dashboard > Site administration > Courses > Course default settings
 
 - Completion tracking
   - Completion tracking: Yes
-##### Scorm
+
+### Scorm
 Dashboard > Site administration > Plugins > Activity modules > Scorm Package
 - Default display settings
     - Display courses structure on entry page: Yes
@@ -39,11 +41,12 @@ Dashboard > Site administration > Plugins > Activity modules > Scorm Package
     - Disable preview mode: Yes
     - Display course structure in player: Disabled
     - Display attempts status: No
-##### Questions
+
+### Questions
 Dashboard > Site administration > Plugins > Activity modules > Quiz
 - Automatically start a new page: After adding 10 questions
 - Use a 'secure' popup window for attempts: Full screen pop-up with some Javascript security
-##### Repositório
+### Repositório
 Dashboard > Site administration > Plugins > Repositories > Manage repositories
 - File system: enabled and visible
     - Settings 
@@ -101,16 +104,18 @@ Parâmetros no arquivo do config.py
 - MOODLE_ROOT = Diretorio root do moodle
 - MOODLE_SCORM_REPOSITORY = Diretório do repositório Scorm dentro do moodledata
 - MOOSH_COMMAND = 'moosh -n -p %s' % MOODLE_ROOT
-######
+
 #### DATABASE
 - BASE = Nome da base
 - HOST = Host do banco
 - USER = Usuário do Banco
 - PASS = Senha da Base
 - PORT = Porta postgresql
+
 #### ENVIRONMENT
 - JSON_FILE_PATH = json da migração
 - QUESTIONS_XML = arquivo que será gerado pelo script de importação de questões
+
 #### SCORM
 - REMOTE_SCORM_SERVER = ip do servidor com pasta dos scorms
 - REMOTE_SCORM_USER = usuario de acesso
