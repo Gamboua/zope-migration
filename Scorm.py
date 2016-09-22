@@ -21,7 +21,7 @@ class Scorm:
         return json.get(parameter) if parameter in json else None
 
     def scorm_add(self):
-        self.scorm_prepare()
+        self.scorm_import_folder()
         Command.command_execute(Command.activity_create_command(
             options=self.get_scorm_options(), type=self.type, id=self.course.id
         ))
@@ -36,9 +36,6 @@ class Scorm:
         params.append('--filepath %simsmanifest.xml' % self.folder)
 
         return ' '.join(params)
-
-    def scorm_prepare(self):
-        self.scorm_import_folder()
 
     def scorm_import_folder(self):
         client = paramiko.SSHClient()

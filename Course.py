@@ -19,7 +19,7 @@ class Course(DataBase):
         self.tags = self.get_tags()
 
     def course_add(self):
-        self.course_prepare()
+        self.course_exists()
         self.id = self.course_create()
         self.id = self.id[0].rstrip()
 
@@ -79,10 +79,6 @@ class Course(DataBase):
     def get_if_exists(self, parameter, json):
         return json.get(parameter) if parameter in json else None
 
-    def course_prepare(self):
-        # check if course exists
-        self.course_exists()
-
     def course_format_section(self):
         Command.command_execute(Command.course_format_command(self))
 
@@ -97,4 +93,4 @@ class Course(DataBase):
         course = self.fetch('mdl_course', "fullname ILIKE '%s'" % self.title, True)
 
         if course:
-            raise Exception('Curso ja existe')
+            raise Exception("Curso '%s' ja existe" % self.title.encode('utf-8'))

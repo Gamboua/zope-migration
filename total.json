@@ -1,0 +1,1745 @@
+{
+  "cursos": [
+    {
+      "status": "published",
+      "type": "a-distancia",
+      "description": "",
+      "title": "Fundamentos do Gerenciamento de Projetos - M\u00f3dulo I ",
+      "expiration_date": "31/12/2020 00:00:00",
+      "activity": {
+        "knowledge_area": "1|ADMINISTRACAO",
+        "visibility": "None",
+        "methodology": "3|A DISTANCIA",
+        "activity": "04135201|Gerenciamento de Projeto",
+        "concentration_area": "1|ADMINISTRACAO",
+        "modality": "12|TREINAMENTO"
+      },
+      "quiz": {
+        "number_of_random_questions": 10,
+        "signature_manager": false,
+        "title": "Avalia\u00e7\u00e3o",
+        "grading_scale": [
+          {
+            "grade": "Parab\u00e9ns",
+            "gradeinfo": "",
+            "score": "70"
+          },
+          {
+            "grade": "Revise o conte\u00fado e tente novamente",
+            "gradeinfo": "",
+            "score": ""
+          }
+        ],
+        "instant_feedback": true,
+        "questions": [
+          [
+            {
+              "alternatives": [
+                {
+                  "answer": "Os itens I e V s\u00e3o falsos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Todos os itens s\u00e3o verdadeiros.",
+                  "correct": false
+                },
+                {
+                  "answer": "Todos os itens s\u00e3o falsos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Apenas o item V \u00e9 falso.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens II, III e IV s\u00e3o falsos",
+                  "correct": true
+                }
+              ],
+              "title": "Julgue os itens abaixo e assinale a op\u00e7\u00e3o correta.\r\n\r\nI. A realiza\u00e7\u00e3o de projetos ao longo do tempo demandou das organiza\u00e7\u00f5es o aprimoramento das metodologias e da conceitua\u00e7\u00e3o de \"Gerenciamento de projeto\".\r\n\r\nII. O aprendizado com a realiza\u00e7\u00e3o de projetos tamb\u00e9m permitiu notar que eles n\u00e3o apresentam caracter\u00edsticas que sejam comuns a todos.\r\n\r\nIII. Projeto \u00e9 um esfor\u00e7o permanente empreendido para criar um produto, servi\u00e7o ou resultado exclusivo.\r\n\r\nIV. A realiza\u00e7\u00e3o de projetos para resolver determinados problemas se restringe a empreendimentos grandiosos.\r\n\r\nV. O crescimento da demanda por novos neg\u00f3cios e a competitividade do mercado faz com que as organiza\u00e7\u00f5es busquem estruturar suas a\u00e7\u00f5es em forma de projetos."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "2, 4, 1 e 3.",
+                  "correct": false
+                },
+                {
+                  "answer": "3, 1, 4 e 2.",
+                  "correct": false
+                },
+                {
+                  "answer": "1, 4, 3 e 2.",
+                  "correct": false
+                },
+                {
+                  "answer": "1, 4 , 2 e 3.",
+                  "correct": false
+                },
+                {
+                  "answer": "2, 1, 4 e 3.",
+                  "correct": true
+                }
+              ],
+              "title": "Enumere a segunda coluna de acordo com a primeira, em seguida, marque a op\u00e7\u00e3o que indica a seq\u00fc\u00eancia correta.\r\n\r\n1.Programa\r\n2.Projetos\r\n3.Subprojetos\r\n4.Portf\u00f3lio de projetos\r\n\r\n(    ) \u00e9 original, visando gerar um produto ou servi\u00e7o \u00fanico.\r\n(    ) \u00e9 um grupo de projetos gerenciados de forma coordenada, visando obter benef\u00edcios e controles que dificilmente seriam alcan\u00e7ados quando gerenciados isoladamente.\r\n(    ) refere-se a um conjunto de projetos ou programas e outros trabalhos, agrupados para facilitar o gerenciamento eficaz desses elementos a fim de atingir objetivos estrat\u00e9gicos de neg\u00f3cio.\r\n(    ) \u00e9 um subconjunto de um projeto maior que foi dividido para facilitar o seu gerenciamento, pode ser gerenciado por um membro da equipe, empresa externa, ou uma unidade funcional."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Determinar que o desligamento di\u00e1rio das luzes e aparelhos eletr\u00f4nicos ocorra a partir das 20h.",
+                  "correct": false
+                },
+                {
+                  "answer": "Utilizar o metr\u00f4 em vez de t\u00e1xi para deslocamentos de reuni\u00f5es de trabalho.",
+                  "correct": false
+                },
+                {
+                  "answer": "Uma proposta de redu\u00e7\u00e3o de 10% na realiza\u00e7\u00e3o de horas extras para os pr\u00f3ximos tr\u00eas meses.",
+                  "correct": true
+                },
+                {
+                  "answer": "O uso cont\u00ednuo de folhas de rascunho para produzir blocos de papel.",
+                  "correct": false
+                },
+                {
+                  "answer": "Utilizar copos de vidro que j\u00e1 existem na copa ao inv\u00e9s de copos de pl\u00e1stico.",
+                  "correct": false
+                }
+              ],
+              "title": "Gon\u00e7alves, o gerente de Projetos de uma empresa de produ\u00e7\u00e3o de softwares, precisa elaborar um projeto para diminuir os gastos em sua empresa. Auxilie Gon\u00e7alves, marcando a op\u00e7\u00e3o que corresponde a um projeto:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Gest\u00e3o de Projetos, somente no planejamento do projeto, dos resultados produzidos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gest\u00e3o funcional, nas atividades rotineiras para produzir produto ou servi\u00e7o \u00fanico, dos resultados produzidos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerenciamento de Projetos, nas atividades do projeto, dos resultados produzidos.",
+                  "correct": true
+                },
+                {
+                  "answer": "Gerenciamento de Projetos, somente no monitoramento e controle do projeto, dos resultados produzidos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerenciamento de Projetos, somente na execu\u00e7\u00e3o do projeto, dos resultados produzidos.",
+                  "correct": false
+                }
+              ],
+              "title": "_____________________ envolve a aplica\u00e7\u00e3o de conhecimentos, habilidades, ferramentas e t\u00e9cnicas _______________ a fim de atender aos seus requisitos. Al\u00e9m disso, visa garantir a internaliza\u00e7\u00e3o e a perenidade ____________."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "O \"Meu filho bem cuidado\" pode ser um projeto e \"Meu filho bem cuidado at\u00e9 os tr\u00eas\" e \"Meu filho bem cuidado dos tr\u00eas aos seis\" seus subprojetos.",
+                  "correct": true
+                },
+                {
+                  "answer": "O \"Meu filho bem cuidado\" \u00e9 um portf\u00f3lio e \"Meu filho bem cuidado at\u00e9 os tr\u00eas\" e \"Meu filho bem cuidado dos tr\u00eas aos seis\" comp\u00f5em outro portf\u00f3lio.",
+                  "correct": false
+                },
+                {
+                  "answer": "O \"Meu filho bem cuidado\" \u00e9 um subprograma e \"Meu filho bem cuidado at\u00e9 os tr\u00eas\" e  \"Meu filho bem cuidado dos tr\u00eas aos seis\" subprojetos.",
+                  "correct": false
+                },
+                {
+                  "answer": "O \"Meu filho bem cuidado\" \u00e9 com certeza um programa e \"Meu filho bem cuidado at\u00e9 os tr\u00eas\" e \"Meu filho bem cuidado dos tr\u00eas aos seis\" seus subprogramas.",
+                  "correct": false
+                },
+                {
+                  "answer": "O \"Meu filho bem cuidado\" \u00e9 um projeto e \"Meu filho bem cuidado at\u00e9 os tr\u00eas\" \u00e9 um programa e \"Meu filho bem cuidado dos tr\u00eas aos seis\" um subprojeto.",
+                  "correct": false
+                }
+              ],
+              "title": "Para a ONG em que Ademir \u00e9 volunt\u00e1rio, foi disponibilizada verba para atender m\u00e3es de comunidades carentes, que trabalham e n\u00e3o t\u00eam com quem deixar seus filhos pequenos. Ademir, que tamb\u00e9m \u00e9 Gerente de Projetos, lan\u00e7ou o \"Meu filho bem cuidado\", que tem como objetivo prover creches nessas comunidades  no prazo de tr\u00eas meses. Como foi identificada a necessidade de dividir o \"Meu filho bem cuidado\", foram criados o \"Meu filho bem cuidado at\u00e9 os tr\u00eas\", que atende crian\u00e7as de at\u00e9 tr\u00eas anos de idade e o \"Meu filho bem cuidado dos quatro aos seis\", que atende crian\u00e7as de at\u00e9 seis anos. Tendo como base este texto de apoio, marque a alternativa correta:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Administra\u00e7\u00e3o do restaurante tem\u00e1tico.",
+                  "correct": false
+                },
+                {
+                  "answer": "Fabrica\u00e7\u00e3o em s\u00e9rie de um novo carro comercial.",
+                  "correct": false
+                },
+                {
+                  "answer": "Manter e operar o sistema el\u00e9trico e de automa\u00e7\u00e3o de um pr\u00e9dio comercial.",
+                  "correct": false
+                },
+                {
+                  "answer": "Plantar e colher as safras.",
+                  "correct": false
+                },
+                {
+                  "answer": "Desenhar e construir um pr\u00e9dio comercial.",
+                  "correct": true
+                }
+              ],
+              "title": "Projetos t\u00eam um objetivo preciso, mensur\u00e1vel e resultado previs\u00edvel. Os processos (atividades cont\u00ednuas) s\u00e3o planejados a longo prazo, o controle pode mudar bastante durante o tempo. Assinale onde h\u00e1 um exemplo de projeto."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "o Plano de Gerenciamento do Tempo.",
+                  "correct": false
+                },
+                {
+                  "answer": "o Plano de Gerenciamento de Riscos.",
+                  "correct": true
+                },
+                {
+                  "answer": "o Plano de Gerenciamento das Aquisi\u00e7\u00f5es.",
+                  "correct": false
+                },
+                {
+                  "answer": "a EAP.",
+                  "correct": false
+                },
+                {
+                  "answer": "o Plano de Gerenciamento de RH.",
+                  "correct": false
+                }
+              ],
+              "title": "Florismar gerencia um projeto governamental e est\u00e1 elaborando um documento que demonstra como se dar\u00e3o os processos relativos ao gerenciamento das amea\u00e7as e oportunidades que podem ocorrer e afetar o desenvolvimento do projeto. O documento que Florismar est\u00e1 elaborando \u00e9:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "executar o Plano de Projeto, realizando tarefas, atividades e pacotes de trabalho.",
+                  "correct": true
+                },
+                {
+                  "answer": "atuar como integrador de todas as partes do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "coordenar a elabora\u00e7\u00e3o do Plano de projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "gerenciar o processo de encerramento do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "assegurar que a execu\u00e7\u00e3o e modifica\u00e7\u00f5es do projeto sejam desenvolvidas conforme planejadas.",
+                  "correct": false
+                }
+              ],
+              "title": "Assinale a \u00fanica op\u00e7\u00e3o que n\u00e3o expressa um papel atribu\u00eddo ao Gerente de projetos:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Gest\u00e3o de projetos, a organiza\u00e7\u00e3o funciona, realizando somente projetos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerenciamento de projetos, a organiza\u00e7\u00e3o somente planeja projetos, como organiza\u00e7\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gest\u00e3o Funcional, a organiza\u00e7\u00e3o funciona, como escrit\u00f3rio de projetos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerenciamento de projetos, a organiza\u00e7\u00e3o funciona, como organiza\u00e7\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gest\u00e3o Funcional, a organiza\u00e7\u00e3o funciona, como organiza\u00e7\u00e3o.",
+                  "correct": true
+                }
+              ],
+              "title": "Assinale a op\u00e7\u00e3o que completa as lacunas abaixo._____________________ corresponde \u00e0 forma pela qual _____________________, agrega valor a seus clientes e cumpre sua finalidade ______________________, rotineiramente. \u00c9 repetitiva, padronizada em passos, gerando o mesmo produto ou servi\u00e7o v\u00e1rias vezes."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Jos\u00e9 e Graciano n\u00e3o s\u00e3o stakeholders do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "Jos\u00e9 \u00e9 o cliente, Camila \u00e9 gerente funcional, Aline \u00e9 gerente do projeto e Graciano \u00e9 membro da equipe do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "Jos\u00e9 \u00e9 o patrocinador, Camila \u00e9 gerente funcional, Aline \u00e9 membro da equipe de projeto e Graciano \u00e9 o gerente de projetos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Jos\u00e9 \u00e9 o cliente, Camila \u00e9 a gerente do projeto, Aline \u00e9 membro da equipe do projeto e Graciano \u00e9 o patrocinador.",
+                  "correct": true
+                },
+                {
+                  "answer": "Jos\u00e9 \u00e9 patrocinador, Camila \u00e9 gerente do projeto, Aline \u00e9 gerente funcional e Graciano n\u00e3o \u00e9 stakeholder do projeto.",
+                  "correct": false
+                }
+              ],
+              "title": "JOS\u00c9 solicitou \u00e0 ag\u00eancia de Publicidade \"Publicitar\" uma campanha promocional para a linha de produtos de sua empresa. CAMILA, que faz parte do corpo gerencial da \u00e1rea de planejamento da \"Publicitar\", elaborou um projeto para esta campanha e o coordenar\u00e1. Uma de suas colaboradoras, ALINE, ficar\u00e1 respons\u00e1vel por uma das etapas operacionais do projeto, uma a\u00e7\u00e3o promocional. GRACIANO \u00e9 o diretor da \u00e1rea de atendimento da \"Publicitar\" e far\u00e1 o contato entre a equipe de projetos e JOS\u00c9, provendo apoio institucional para a execu\u00e7\u00e3o do projeto. A respeito dos stakeholders neste projeto, marque a alternativa correta:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Planejamento.",
+                  "correct": true
+                },
+                {
+                  "answer": "Execu\u00e7\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "Encerramento.",
+                  "correct": false
+                },
+                {
+                  "answer": "Inicia\u00e7\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "Monitoramento e Controle.",
+                  "correct": false
+                }
+              ],
+              "title": "A empresa Construir LTDA est\u00e1 elaborando, para um projeto de constru\u00e7\u00e3o de uma rodovia, o Plano de Gerenciamento do projeto, estabelecendo o escopo total do projeto definindo e refinando os seus objetivos e desenvolvendo o curso de a\u00e7\u00e3o necess\u00e1rio para alcan\u00e7ar esses objetivos. Este projeto est\u00e1 na fase de:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "atua\u00e7\u00e3o do gestor n\u00e3o tem prazo definido, defini\u00e7\u00e3o de objetivos, abrang\u00eancia definida, limite da dura\u00e7\u00e3o, recursos s\u00e3o alocados permanentemente e criar produto ou servi\u00e7o exclusivo.",
+                  "correct": false
+                },
+                {
+                  "answer": "atua\u00e7\u00e3o do gestor n\u00e3o tem prazo definido, defini\u00e7\u00e3o de objetivos, abrang\u00eancia definida, mant\u00e9m os processos produtivos estabelecidos, recursos s\u00e3o alocados permanentemente e criar solu\u00e7\u00f5es novas e ainda desconhecidas.",
+                  "correct": false
+                },
+                {
+                  "answer": "defini\u00e7\u00e3o das responsabilidades, defini\u00e7\u00e3o de objetivos, abrang\u00eancia definida, limite da dura\u00e7\u00e3o, recursos s\u00e3o alocados permanentemente e criar solu\u00e7\u00f5es novas e ainda desconhecidas.",
+                  "correct": false
+                },
+                {
+                  "answer": "defini\u00e7\u00e3o das responsabilidades, defini\u00e7\u00e3o de objetivos, abrang\u00eancia definida, limite da dura\u00e7\u00e3o, recursos alocados temporariamente e criar produto ou servi\u00e7o exclusivo.",
+                  "correct": true
+                },
+                {
+                  "answer": "defini\u00e7\u00e3o das responsabilidades, defini\u00e7\u00e3o de objetivos, abrang\u00eancia definida, linha de produ\u00e7\u00e3o gerando sempre o mesmo produto, recursos s\u00e3o alocados permanentemente e criar solu\u00e7\u00f5es novas e desconhecidas.",
+                  "correct": false
+                }
+              ],
+              "title": "Assinale a op\u00e7\u00e3o em que todos os itens s\u00e3o caracter\u00edsticas b\u00e1sicas de um projeto:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Pesquisar planta resistente a determinado tipo de praga.",
+                  "correct": false
+                },
+                {
+                  "answer": "Plantar e colher safras de arroz.",
+                  "correct": true
+                },
+                {
+                  "answer": "Desenhar e construir um pr\u00e9dio comercial.",
+                  "correct": false
+                },
+                {
+                  "answer": "A cria\u00e7\u00e3o de um novo modelo de carro.",
+                  "correct": false
+                },
+                {
+                  "answer": "Reda\u00e7\u00e3o de um livro.",
+                  "correct": false
+                }
+              ],
+              "title": "Os processos (atividades cont\u00ednuas) s\u00e3o planejados a longo prazo, o controle pode mudar bastante durante o tempo. Projetos t\u00eam um objetivo preciso, mensur\u00e1vel e resultado previs\u00edvel. Assinale a op\u00e7\u00e3o onde h\u00e1 um exemplo de atividade continua."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\u00c9 temporal, ou seja, acontece durante um per\u00edodo de tempo com in\u00edcio e fim definidos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os recursos s\u00e3o alocados temporariamente e desmobilizados ao seu t\u00e9rmino.",
+                  "correct": false
+                },
+                {
+                  "answer": "\u00c9 original, ou seja, gera um produto ou servi\u00e7o \u00fanico.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerar mudan\u00e7a nos processos produtivos estabelecidos, ou seja, \u00e9 desestabilizador da ordem.",
+                  "correct": false
+                },
+                {
+                  "answer": "Tend\u00eancia de manter uma rotina previs\u00edvel.",
+                  "correct": true
+                }
+              ],
+              "title": "Assinale a op\u00e7\u00e3o que descreve uma caracter\u00edstica da gest\u00e3o funcional que a diferencia do gerenciamento de projetos:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "I e II.",
+                  "correct": true
+                },
+                {
+                  "answer": "III e IV.",
+                  "correct": false
+                },
+                {
+                  "answer": "I e III.",
+                  "correct": false
+                },
+                {
+                  "answer": "I, II e III.",
+                  "correct": false
+                },
+                {
+                  "answer": "II e III.",
+                  "correct": false
+                }
+              ],
+              "title": "A editora Publica S.A. possui v\u00e1rias iniciativas estrat\u00e9gicas em seu Plano Estrat\u00e9gico, dentre as quais podemos citar: \r\n\r\nI.\"Ser uma empresa reconhecida como socialmente respons\u00e1vel perante seu p\u00fablico\".\r\n\r\nII.\"Desenvolver produtos com o m\u00e1ximo de economia\"\r\n\r\nIII.\"Aprimorar o conhecimento em gest\u00e3o de recursos humanos de seu corpo gerencial\".\r\n\r\nIV.\"Desenvolver produtos para o p\u00fablico infantil\"\r\n\r\nUm dos projetos da empresa consiste em publicar, dentro de um ano, um novo romance com material recicl\u00e1vel. Considerando que no ambiente organizacional, o planejamento estrat\u00e9gico orienta e prioriza as diversas iniciativas da organiza\u00e7\u00e3o, sendo um aspecto importante na cria\u00e7\u00e3o de um projeto, pode-se afirmar que este projeto est\u00e1 diretamente alinhado com as seguintes iniciativas estrat\u00e9gicas do Plano Estrat\u00e9gico da editora:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Conjunto de atividades de ciclo cont\u00ednuo para serem realizadas no \u00e2mbito de uma unidade organizacional, a fim de produzir diversas vezes um mesmo produto ou servi\u00e7o.",
+                  "correct": false
+                },
+                {
+                  "answer": "\u00c9 um processo que consiste em um grupo de atividades controladas e coordenadas empreendidas para alcance de um objetivo conforme requisitos espec\u00edficos, incluindo tempo, custo e recursos ilimitados.",
+                  "correct": false
+                },
+                {
+                  "answer": "\u00c9 um empreendimento de rotina com diversas atividades repetitivas e de ciclo cont\u00ednuo planejadas antecipadamente.",
+                  "correct": false
+                },
+                {
+                  "answer": "Conjunto de atividades ou medidas planejadas para serem realizadas com responsabilidade de execu\u00e7\u00e3o definida, a fim de alcan\u00e7ar determinados objetivos, dentro de uma abrang\u00eancia definida, num prazo de tempo limitado e com recursos espec\u00edficos para criar solu\u00e7\u00f5es novas.",
+                  "correct": true
+                },
+                {
+                  "answer": "S\u00e3o atividades cont\u00ednuas planejadas a longo prazo, o controle pode mudar bastante durante o tempo, sempre procurando novas oportunidades e, muitas vezes, outros resultados.",
+                  "correct": false
+                }
+              ],
+              "title": "Assinale a op\u00e7\u00e3o que corresponde \u00e0 defini\u00e7\u00e3o de projeto:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Apenas o item V \u00e9 falso.",
+                  "correct": true
+                },
+                {
+                  "answer": "Os itens I e II s\u00e3o falsos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens III, IV e V s\u00e3o falsos",
+                  "correct": false
+                },
+                {
+                  "answer": "Todos os itens s\u00e3o falsos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Todos os itens s\u00e3o verdadeiros.",
+                  "correct": false
+                }
+              ],
+              "title": "Julgue os itens abaixo e escolha a op\u00e7\u00e3o correta:\r\n\r\nI.Para identificar um projeto \u00e9 necess\u00e1rio considerar a pol\u00edtica organizacional, uma vez que a cria\u00e7\u00e3o depende da natureza do projeto, do estilo da equipe ou da organiza\u00e7\u00e3o executora dele. O planejamento estrat\u00e9gico orienta e prioriza as diversas iniciativas da organiza\u00e7\u00e3o, esse \u00e9 um aspecto importante na cria\u00e7\u00e3o de um projeto.\r\n\r\nII.O planejamento estrat\u00e9gico orienta e prioriza as diversas iniciativas da organiza\u00e7\u00e3o, esse \u00e9 um aspecto importante na cria\u00e7\u00e3o de um projeto: o alinhamento com o plano estrat\u00e9gico. \u00c9 importante observar a contribui\u00e7\u00e3o positiva dos objetivos do projeto no alcance das metas estrat\u00e9gicas definidas e os riscos inerentes ao projeto.\r\n\r\nIII.Partes Interessadas (stakeholders) geralmente s\u00e3o pessoas e organiza\u00e7\u00f5es, como clientes, patrocinadores, organiza\u00e7\u00f5es executoras e o p\u00fablico, que estejam ativamente envolvidas no projeto ou cujos interesses podem ser afetados de forma positiva ou negativa pelo projeto. \r\n\r\nIV.Algumas perguntas podem ajudar o gestor a descobrir o projeto real, dentre elas: Qual a necessidade real ou o prop\u00f3sito do que estamos tentando fazer?\r\n\r\nV.Para criar um projeto \u00e9 necess\u00e1rio somente definir, antes de aprov\u00e1-lo, o local onde a equipe de projeto ficar\u00e1, qual ser\u00e1 a remunera\u00e7\u00e3o do gerente e qual o nome do projeto."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Controle",
+                  "correct": false
+                },
+                {
+                  "answer": "Estrat\u00e9gico",
+                  "correct": true
+                },
+                {
+                  "answer": "Suporte",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerencial",
+                  "correct": false
+                },
+                {
+                  "answer": "Metodol\u00f3gico",
+                  "correct": false
+                }
+              ],
+              "title": "O escrit\u00f3rio de projetos de uma grande empresa de telemarketing atua identificando, priorizando e selecionando os projetos que devem ser executados na empresa. Desta forma, ele busca alinhar os projetos \u00e0 estrat\u00e9gia corporativa. Al\u00e9m disso, ministra cursos e palestras em Gerenciamento de Projetos, fornecendo educa\u00e7\u00e3o continuada aos gestores de projetos da empresa. \u00c9 poss\u00edvel afirmar que este escrit\u00f3rio de projetos \u00e9 do tipo:"
+            }
+          ]
+        ],
+        "directions": "\r\n<p>Avalia\u00e7\u00e3o</p>\r\n",
+        "random_order": true,
+        "allow_repetition": true,
+        "one_question_per_page": false
+      },
+      "learningmodule_folder": "\r\n<p></p>\r\n",
+      "published_date": "27/02/2015 10:23:00",
+      "scorm": {
+        "folder": "/opt/zope298/courses/fgp_m1_20150129/",
+        "title": "fgp_m1_20150129"
+      },
+      "max_number_attempt_assessment": [
+        "3"
+      ],
+      "id": "fgp-m1"
+    },
+    {
+      "status": "published",
+      "type": "a-distancia",
+      "description": "",
+      "title": "Fundamentos do Gerenciamento de Projetos - M\u00f3dulo II ",
+      "expiration_date": "31/12/2020 00:00:00",
+      "activity": {
+        "knowledge_area": "1|ADMINISTRACAO",
+        "visibility": "None",
+        "methodology": "3|A DISTANCIA",
+        "activity": "04135202|Gerenciamento de Projeto",
+        "concentration_area": "1|ADMINISTRACAO",
+        "modality": "12|TREINAMENTO"
+      },
+      "quiz": {
+        "number_of_random_questions": 10,
+        "signature_manager": false,
+        "title": "Avalia\u00e7\u00e3o",
+        "grading_scale": [
+          {
+            "grade": "Parab\u00e9ns",
+            "gradeinfo": "",
+            "score": "70.0"
+          },
+          {
+            "grade": "Revise o conte\u00fado e tente novamente",
+            "gradeinfo": "",
+            "score": ""
+          }
+        ],
+        "instant_feedback": true,
+        "questions": [
+          [
+            {
+              "alternatives": [
+                {
+                  "answer": "Possui as descri\u00e7\u00f5es dos \"pacotes de trabalho\", seu significado, podendo incluir outras informa\u00e7\u00f5es tais como: caracter\u00edsticas, funcionalidades do produto, entre outras.",
+                  "correct": false
+                },
+                {
+                  "answer": "Crit\u00e9rio de aceita\u00e7\u00e3o diz respeito ao que ser\u00e1 levado em considera\u00e7\u00e3o para formalizar a entrega do pacote de trabalho.",
+                  "correct": false
+                },
+                {
+                  "answer": "Crit\u00e9rio de aceita\u00e7\u00e3o diz respeito ao n\u00famero do elemento (pacote de trabalho) no desenho da EAP .",
+                  "correct": true
+                },
+                {
+                  "answer": "\u00c9 o documento que define e/ou descreve o produto a ser entregue para cada elemento da EAP e os respectivos crit\u00e9rios de aceita\u00e7\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "Eleva o grau de compreens\u00e3o do corpo gerencial sobre o projeto (significado, interdepend\u00eancias, marcos fundamentais, integra\u00e7\u00e3o dos componentes, criticidade)\r\n\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>A respeito do dicion\u00e1rio da EAP, assinale a op\u00e7\u00e3o incorreta.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "planejamento, restri\u00e7\u00f5es do projeto, mas que afetam o seu desempenho e implicam em fracasso no seu planejamento.",
+                  "correct": false
+                },
+                {
+                  "answer": "planejamento; restri\u00e7\u00f5es do projeto, mas que limitam o planejamento e implicam em risco para seu desenvolvimento.",
+                  "correct": false
+                },
+                {
+                  "answer": "planejamento; premissas do projeto, mas que afetam o planejamento e implicam em risco para seu desenvolvimento.",
+                  "correct": true
+                },
+                {
+                  "answer": "execu\u00e7\u00e3o; premissas do projeto, mas que afetam a execu\u00e7\u00e3o e implicam em risco para seu desenvolvimento.",
+                  "correct": false
+                },
+                {
+                  "answer": "execu\u00e7\u00e3o; premissas do projeto, mas que afetam o seu desempenho e implicam em risco para seu desenvolvimento.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Assinale a op\u00e7\u00e3o que completa o texto abaixo.Premissas em projetos s\u00e3o suposi\u00e7\u00f5es consideradas como verdadeiras, reais ou certas para fins de _______________. O Gerente do Projeto n\u00e3o tem ascend\u00eancia ou controle sobre os fatores considerados ____________________.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "reduzir as op\u00e7\u00f5es da equipe de gerenciamento do projeto, sem o car\u00e1ter impositivo.",
+                  "correct": false
+                },
+                {
+                  "answer": "impor condi\u00e7\u00f5es ao planejamento de um projeto;",
+                  "correct": true
+                },
+                {
+                  "answer": "obrigar a equipe do projeto a trabalhar de maneira normatizada buscando as alternativas j\u00e1 adotadas em outros projetos.",
+                  "correct": false
+                },
+                {
+                  "answer": "ser consideradas como verdadeiras e que se n\u00e3o ocorrerem podem colocar em risco o projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "fazer com que sejam acatadas solu\u00e7\u00f5es para o projeto que estejam fora do escopo do projeto.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Assinale a op\u00e7\u00e3o correta. Restri\u00e7\u00f5es s\u00e3o limita\u00e7\u00f5es que podem afetar o desempenho do projeto. S\u00e3o fatores que podem:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "F, V, F, V e V.",
+                  "correct": false
+                },
+                {
+                  "answer": "V, F, V, F e V.",
+                  "correct": false
+                },
+                {
+                  "answer": "V, V, F, F e F.",
+                  "correct": false
+                },
+                {
+                  "answer": "F, F, V, V e F.",
+                  "correct": false
+                },
+                {
+                  "answer": "V, F, V, F e F.",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Roberto gerencia um projeto governamental e est\u00e1 elaborando um documento em que consta o que segue:</p>\r\n<p><br /></p>\r\n<p>\"O processo de contrata\u00e7\u00e3o se prolongar al\u00e9m do previsto no Cronograma\". Probabilidade: 4, Impacto: 5.</p>\r\n<p><br /></p>\r\n<p>A respeito do que consta no documento, julgue as afirmativas abaixo:</p>\r\n<p><br /></p>\r\n<ul>\r\n<li>\r\n<p>( \u00a0\u00a0)\u00a0Roberto est\u00e1 elaborando o Plano de Gerenciamento de Riscos.</p>\r\n</li>\r\n<li>\r\n<p>(\u00a0 \u00a0)\u00a0Roberto est\u00e1 elaborando, com certeza, o Plano de Gerenciamento de Recursos Humanos.</p>\r\n</li>\r\n<li>\r\n<p>( \u00a0\u00a0)\u00a0\"O processo de contrata\u00e7\u00e3o se prolongar al\u00e9m do previsto no Cronograma\" \u00e9 um risco identificado.</p>\r\n</li>\r\n<li>\r\n<p>(\u00a0 \u00a0)\u00a0Para o bom andamento do projeto, deve-se fomentar a ocorr\u00eancia de \"O processo de contrata\u00e7\u00e3o se prolongar al\u00e9m do previsto no Cronograma\".</p>\r\n</li>\r\n<li>\r\n<p>(\u00a0 \u00a0)\u00a0Em uma escala de 1 a 5, sendo 1 \"baixo\" e 5 \"muito alto\", pode-se afirmar que \u00e9 baixa a probabilidade de ocorr\u00eancia de \"O processo de contrata\u00e7\u00e3o se prolongar al\u00e9m do previsto no Cronograma\".</p>\r\n</li></ul>\r\n<p><br /></p>\r\n<p>A sequ\u00eancia correta:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "A\u00e7\u00f5es de planejamento, a\u00e7\u00f5es de certifica\u00e7\u00e3o e a\u00e7\u00f5es de risco",
+                  "correct": false
+                },
+                {
+                  "answer": "A\u00e7\u00f5es de controle, a\u00e7\u00f5es de risco e testes de valida\u00e7\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "A\u00e7\u00f5es de remanejamento, a\u00e7\u00f5es de gerenciamento de metas e fechamento de contratos.",
+                  "correct": false
+                },
+                {
+                  "answer": "A\u00e7\u00f5es de planejamento, a\u00e7\u00f5es recursais e de cumprimento de prazos.",
+                  "correct": false
+                },
+                {
+                  "answer": "A\u00e7\u00f5es corretivas, a\u00e7\u00f5es preventivas e solicita\u00e7\u00f5es de reparo.",
+                  "correct": true
+                }
+              ],
+              "title": "Assinale a alternativa correta:\r\n\r\nO gerente de projetos, em conjunto com sua equipe, orienta o desempenho das atividades planejadas e gerencia as diversas interfaces t\u00e9cnicas e organizacionais que existem dentro do projeto, garantindo a implementa\u00e7\u00e3o de:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "escopo, cronograma, cronograma.",
+                  "correct": false
+                },
+                {
+                  "answer": "cronograma, escopo, escopo.",
+                  "correct": false
+                },
+                {
+                  "answer": "tempo, cronograma, escopo.",
+                  "correct": true
+                },
+                {
+                  "answer": "cronograma, escopo, tempo.",
+                  "correct": false
+                },
+                {
+                  "answer": "cronograma, tempo, prazo.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Escolha a op\u00e7\u00e3o que cont\u00e9m as palavras que completam a frase abaixo:\r\n<br />\r\n<br />O controle de _____________ gerencia as mudan\u00e7as efetuadas no ____________. Geralmente, mudan\u00e7as no ____________________ impactar\u00e3o o cronograma e, consequentemente, revis\u00f5es dever\u00e3o ser realizadas neste instrumento de gerenciamento do projeto.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "E, M, E, E,  E, M, M e E.",
+                  "correct": false
+                },
+                {
+                  "answer": "M, E, M, M, E, M, E e M.",
+                  "correct": false
+                },
+                {
+                  "answer": "E, M, M, E, M, E, E e M.",
+                  "correct": false
+                },
+                {
+                  "answer": "M, E, E, M, M, E, M e E.",
+                  "correct": true
+                },
+                {
+                  "answer": "M, E, M, M, M, E, M e E.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Em cada fase abaixo, marque E, para Entrega e M, para marcos:</p>\r\n<p><br /></p>\r\n<ul>\r\n<li>\r\n<p>Fase - Estudo de viabilidade</p>\r\n</li>\r\n<li>\r\n<p>(  ) Decis\u00e3o de prosseguir</p>\r\n</li>\r\n<li>\r\n<p>(  ) Relat\u00f3rio de viabilidade</p>\r\n</li></ul>\r\n<p><br /></p>\r\n<ul>\r\n<li>\r\n<p>Fase - Contrata\u00e7\u00e3o</p>\r\n</li>\r\n<li>\r\n<p>(  ) Contratos assinados</p>\r\n</li>\r\n<li>\r\n<p>(  )Assinatura dos contratos</p>\r\n</li></ul>\r\n<p><br /></p>\r\n<ul>\r\n<li>\r\n<p>Fase - Implanta\u00e7\u00e3o</p>\r\n</li>\r\n<li>\r\n<p>(  ) In\u00edcio da utiliza\u00e7\u00e3o do sistema</p>\r\n</li>\r\n<li>\r\n<p>(  ) Implanta\u00e7\u00e3o - piloto e nas demais unidades</p>\r\n</li></ul>\r\n<p><br /></p>\r\n<ul>\r\n<li>\r\n<p>Fase - Fechamento</p>\r\n</li>\r\n<li>\r\n<p>(  ) Aceita\u00e7\u00e3o da solu\u00e7\u00e3o</p>\r\n</li>\r\n<li>\r\n<p>(  ) Relat\u00f3rio final do desempenho da solu\u00e7\u00e3o implantada</p>\r\n</li></ul>\r\n<p><br /></p>\r\n<p>A sequ\u00eancia correta \u00e9:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Os itens II e III e IV s\u00e3o verdadeiros.",
+                  "correct": true
+                },
+                {
+                  "answer": "Os itens I, IV e V s\u00e3o verdadeiros.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens III e V s\u00e3o verdadeiros.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens I, II e III s\u00e3o verdadeiros.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens IV e V s\u00e3o verdadeiros.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>A respeito do planejamento do projeto, julgue os itens abaixo e assinale a op\u00e7\u00e3o correta.</p>\r\n<p><br /></p>\r\n<ol type=\"I\">\r\n<li>\r\n<p>I. \u00c9 um processo din\u00e2mico que ocorre durante todo o ciclo de vida do projeto, por\u00e9m n\u00e3o se sobrep\u00f5e aos processos de execu\u00e7\u00e3o e controle. <br /></p>\r\n</li>\r\n<li>\r\n<p>II. Os processos envolvidos no planejamento do projeto tamb\u00e9m visam definir o escopo do projeto.</p>\r\n</li>\r\n<li>\r\n<p>III. Os processos envolvidos no planejamento do projeto tamb\u00e9m visam refinar os objetivos e desenvolver o curso de a\u00e7\u00e3o necess\u00e1rio a fim de alcan\u00e7ar os objetivos para os quais o projeto foi criado.</p>\r\n</li>\r\n<li>\r\n<p>IV. O esfor\u00e7o do planejamento deve ser adequado \u00e0 necessidade de cada projeto.</p>\r\n</li>\r\n<li>\r\n<p>V.Quanto maior e mais complexo for um projeto, menor deve ser o detalhamento do planejamento e a quantidade de documentos a serem elaborados.</p>\r\n</li></ol>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "entregam o produto ou servi\u00e7o especificado conforme o or\u00e7amento utilizado.",
+                  "correct": false
+                },
+                {
+                  "answer": "entregam o produto ou servi\u00e7o especificado dentro do escopo e prazo que foi poss\u00edvel realizar o projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "entregam o produto ou servi\u00e7o especificado dentro do escopo, prazo, or\u00e7amento e com qualidade.",
+                  "correct": true
+                },
+                {
+                  "answer": "entregam o produto ou servi\u00e7o especificado conforme um plano de comunica\u00e7\u00e3o bem elaborado para divulgar resultados.",
+                  "correct": false
+                },
+                {
+                  "answer": "entregam o produto ou servi\u00e7o especificado com incremento de escopo para agradar o cliente, dentro do prazo, or\u00e7amento e com qualidade.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Assinale a op\u00e7\u00e3o que completa o texto abaixo.\r\n<br />\r\n<br />Uma consequ\u00eancia natural do equil\u00edbrio da tr\u00edplice restri\u00e7\u00e3o \u00e9 que projetos bem sucedidos s\u00e3o aqueles que ___________________________________________.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Caso o projeto tenha sido executado com a contrata\u00e7\u00e3o formal de produtos ou servi\u00e7os, os respectivos contratos devem ser cancelados e os custos devem ser direcionados para o centro de custos do Escrit\u00f3rio de Projetos.",
+                  "correct": true
+                },
+                {
+                  "answer": "O Relat\u00f3rio final do projeto deve apresentar, de forma clara e objetiva todos os resultados alcan\u00e7ados em termos de gerenciamento do projeto e de entregas realizadas.",
+                  "correct": false
+                },
+                {
+                  "answer": "Na finaliza\u00e7\u00e3o do projeto, o cliente/patrocinador deve dar aceite nos planos e resultados produzidos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Ao encerrar um projeto \u00e9 necess\u00e1rio realizar seu fechamento administrativo, com a\u00e7\u00f5es como, por exemplo, o encerramento de contas em sistemas cont\u00e1beis.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Sobre o encerramento do projeto, marque a alternativa incorreta:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "monitorar, fun\u00e7\u00e3o, processo",
+                  "correct": false
+                },
+                {
+                  "answer": "monitorar, papel, plano",
+                  "correct": false
+                },
+                {
+                  "answer": "controlar, objetivo, processo",
+                  "correct": false
+                },
+                {
+                  "answer": "gerenciar, objetivo, plano",
+                  "correct": true
+                },
+                {
+                  "answer": "controlar, fun\u00e7\u00e3o, plano",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Assinale a alternativa que completa a frase \"O processo de ______________ a execu\u00e7\u00e3o do projeto tem como _________________ fazer com que a equipe do projeto execute o _________________ de gerenciamento do projeto.\"</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "de parte do planejamento do projeto; compor o plano de Gerenciamento do Projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "do monitoramento e controle dos processos; compor o plano de Gerenciamento do Projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "das diversas partes do projeto; compor o plano de Gerenciamento do Projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "das diversas partes do projeto; compor um plano de Gerenciamento da Integra\u00e7\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "das diversas \u00e1reas de conhecimento; compor o plano de Gerenciamento do Projeto.",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Assinale a op\u00e7\u00e3o que completa o texto abaixo.</p>\r\n<p><br /></p>\r\n<p>Os planos auxiliares de Gerenciamento de Projeto detalham a forma de gerenciamento _____________________ (escopo, tempo, custo, qualidade, recursos humanos, comunica\u00e7\u00e3o, risco e aquisi\u00e7\u00e3o) e visam __________________________.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Escopo do produto \u00e9 o trabalho que precisa ser realizado para entregar as caracter\u00edsticas e fun\u00e7\u00f5es especificadas de um produto, servi\u00e7o ou resultado.",
+                  "correct": false
+                },
+                {
+                  "answer": "Escopo do produto caracteriza o trabalho a ser realizado durante o projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "Escopo do produto \u00e9 o trabalho fora dos limites do projeto a ser realizado pelas \u00e1reas funcionais da organiza\u00e7\u00e3o para entregar um produto, servi\u00e7o ou resultado com as caracter\u00edsticas e fun\u00e7\u00f5es especificadas",
+                  "correct": false
+                },
+                {
+                  "answer": "Escopo do produto \u00e9 uma caracter\u00edstica que demonstra todo o esfor\u00e7o para especificar um produto, servi\u00e7o ou resultado.",
+                  "correct": false
+                },
+                {
+                  "answer": "Escopo do produto s\u00e3o as caracter\u00edsticas e fun\u00e7\u00f5es que especificam o produto, servi\u00e7o ou resultado",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Assinale a op\u00e7\u00e3o que corresponde \u00e0 defini\u00e7\u00e3o de escopo de produto.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Escopo do projeto s\u00e3o as caracter\u00edsticas e fun\u00e7\u00f5es que demonstram o produto, servi\u00e7o ou resultado do projeto",
+                  "correct": false
+                },
+                {
+                  "answer": "Escopo do projeto \u00e9 a orienta\u00e7\u00e3o do trabalho a ser realizado para os requisitos funcionais que permitem entregar um produto, servi\u00e7o ou resultado do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "Escopo de projeto inclui todo o trabalho que n\u00e3o ser\u00e1 realizado pelo projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "Escopo do projeto \u00e9 o trabalho que precisa ser realizado para entregar um produto, servi\u00e7o ou resultado com as caracter\u00edsticas e fun\u00e7\u00f5es especificadas.",
+                  "correct": true
+                },
+                {
+                  "answer": "Escopo do projeto \u00e9 o objetivo final do projeto sem as caracter\u00edsticas e fun\u00e7\u00f5es especificadas.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Assinale a op\u00e7\u00e3o que corresponde \u00e0 defini\u00e7\u00e3o de escopo de projeto.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Somente a afirmativa II \u00e9 correta",
+                  "correct": true
+                },
+                {
+                  "answer": "Somente as afirmativas II e III s\u00e3o corretas.",
+                  "correct": false
+                },
+                {
+                  "answer": "Todas as afirmativas s\u00e3o corretas.",
+                  "correct": false
+                },
+                {
+                  "answer": "Somente as afirmativas I e II s\u00e3o corretas.",
+                  "correct": false
+                },
+                {
+                  "answer": "Somente a afirmativa III \u00e9 correta.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Julgue as afirmativas abaixo e marque a op\u00e7\u00e3o correta:</p>\r\n<p><br /></p>\r\n<ol>\r\n<li>\r\n<p>I. O prop\u00f3sito das avalia\u00e7\u00f5es intermedi\u00e1rias do projeto \u00e9 fazer uma an\u00e1lise do desempenho do projeto que \u00e9 executado, n\u00e3o podendo estas avalia\u00e7\u00f5es gerar recomenda\u00e7\u00f5es para outros projetos, tendo em vista o resultado exclusivo de um projeto.</p>\r\n</li>\r\n<li>\r\n<p>II. Para medir o grau de efetividade e a qualidade de um objetivo de um projeto, utilizam-se indicadores previamente estabelecidos ou posteriormente desenvolvidos.</p>\r\n</li>\r\n<li>\r\n<p>III. Mesmo em projetos de longa dura\u00e7\u00e3o, a avalia\u00e7\u00e3o se d\u00e1 somente uma vez, fornecendo subs\u00eddios para a decis\u00e3o de continuidade ou n\u00e3o do projeto.</p>\r\n</li></ol>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "V, V, F, V e V.",
+                  "correct": false
+                },
+                {
+                  "answer": "F, F, V, V e V.",
+                  "correct": false
+                },
+                {
+                  "answer": "F, V, F, V e V.",
+                  "correct": false
+                },
+                {
+                  "answer": "V, V, F, V e F.",
+                  "correct": true
+                },
+                {
+                  "answer": "V, F, F, V e F.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>A EAP de um projeto de constru\u00e7\u00e3o de casas populares apresenta, como alguns de seus ID (identificador da EAP), o que consta a seguir:</p>\r\n<p><br /></p>\r\n<ul>\r\n<li>\r\n<p>1.6 Instala\u00e7\u00f5es</p>\r\n</li>\r\n<li>\r\n<p>1.6.1 El\u00e9tricas</p>\r\n</li>\r\n<li>\r\n<p>1.6.2 Hidr\u00e1ulicas</p>\r\n</li>\r\n<li>\r\n<p>1.6.3 Sanit\u00e1rias</p>\r\n</li></ul>\r\n<p><br /></p>\r\n<p>A respeito desta estrutura, julgue as afirmativas que seguem:</p>\r\n<p><br /></p>\r\n<ul>\r\n<li>\r\n<p>( \u00a0) O ID 1.6 \u00e9 n\u00edvel mais alto na EAP que o ID 1.6.2.</p>\r\n</li>\r\n<li>\r\n<p>(\u00a0\u00a0) O ID 1.6.3 \u00e9 um pacote de trabalho.</p>\r\n</li>\r\n<li>\r\n<p>( \u00a0) O ID 1.6.2 \u00e9 n\u00edvel mais alto na EAP que o ID 1.6.</p>\r\n</li>\r\n<li>\r\n<p>( \u00a0) Considerando que o ID 1.6.2 \u00e9 o \u00faltimo n\u00edvel de decomposi\u00e7\u00e3o do trabalho a ser entregue, ele \u00e9 um pacote de trabalho.</p>\r\n</li>\r\n<li>\r\n<p>( \u00a0) O ID 1.6 \u00e9, com certeza, um pacote de trabalho.A sequ\u00eancia correta \u00e9:</p>\r\n</li></ul>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "controle, verifica\u00e7\u00e3o, o cronograma, da equipe, os stakeholders, os patrocinadores",
+                  "correct": false
+                },
+                {
+                  "answer": "monitoramento, controle, custos, da qualidade, a equipe, riscos.",
+                  "correct": true
+                },
+                {
+                  "answer": "controle, avalia\u00e7\u00e3o, o cronograma, da qualidade, os patrocinadores, os custos.",
+                  "correct": false
+                },
+                {
+                  "answer": "controle, avalia\u00e7\u00e3o, riscos, equipe, dos custos, o tempo",
+                  "correct": false
+                },
+                {
+                  "answer": "b.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Marque a op\u00e7\u00e3o cujas palavras completam a frase abaixo:\r\n<br />\r\n<br />Durante o ciclo de vida do projeto, os processos de _____________________ e __________________ identificam desvios no cronograma e inspecionam ________________, realizam a aferi\u00e7\u00e3o ___________________, gerenciam _____________________ do projeto, gerenciam as partes interessadas, monitoram e controlam _________________, administram contratos e relatam o desempenho do projeto.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Os itens II e V s\u00e3o verdadeiros",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens III e V s\u00e3o verdadeiros",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens I e IV s\u00e3o verdadeiros.",
+                  "correct": true
+                },
+                {
+                  "answer": "Os itens I, II e III s\u00e3o verdadeiros.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens I, IV e V s\u00e3o verdadeiros.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>A respeito do planejamento do escopo, julgue os itens abaixo e assinale a op\u00e7\u00e3o correta.</p>\r\n<p><br /></p>\r\n<ol type=\"I\">\r\n<li>\r\n<p>I. Visa assegurar que o projeto inclua todo o trabalho necess\u00e1rio e fa\u00e7a a previs\u00e3o das horas extras necess\u00e1rias  para terminar o projeto com sucesso.</p>\r\n</li>\r\n<li>\r\n<p>II. Est\u00e1 relacionado com a defini\u00e7\u00e3o e controle apenas do que est\u00e1 inclu\u00eddo no projeto.</p>\r\n</li>\r\n<li>\r\n<p>III. A neglig\u00eancia desse planejamento n\u00e3o gera dificuldades no gerenciamento do escopo, uma vez que a EAP apresenta todo o trabalho a ser realizado.</p>\r\n</li>\r\n<li>\r\n<p>IV.O detalhamento insuficiente do escopo pode resultar em perda de foco e dispers\u00e3o de esfor\u00e7os aplicados do desenvolvimento do projeto.</p>\r\n</li>\r\n<li>\r\n<p>V. Para esse planejamento n\u00e3o \u00e9 importante considerar o conjunto de stakeholders, visto que nesta fase deve ser avaliado o escopo do projeto.</p>\r\n</li></ol>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "1, 4, 3, 2, 6 e 5.",
+                  "correct": true
+                },
+                {
+                  "answer": "4, 1, 2, 3, 6 e 5.",
+                  "correct": false
+                },
+                {
+                  "answer": "4, 1, 3, 2, 6 e 5.",
+                  "correct": false
+                },
+                {
+                  "answer": "1, 4, 2, 3, 5 e 6.",
+                  "correct": false
+                },
+                {
+                  "answer": "1, 4, 2, 3, 6 e 5.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Enumere a segunda coluna de acordo com a primeira, em seguida, marque a op\u00e7\u00e3o que indica a sequ\u00eancia correta.</p>\r\n<p><br /></p>\r\n<ol>\r\n<li>\r\n<p>1.EAP.</p>\r\n</li>\r\n<li>\r\n<p>2.Plano de gerenciamento de riscos.</p>\r\n</li>\r\n<li>\r\n<p>3.Planejamento do tempo.</p>\r\n</li>\r\n<li>\r\n<p>4.Desenvolver o cronograma.</p>\r\n</li>\r\n<li>\r\n<p>5.Gerenciamento de aquisi\u00e7\u00f5es.</p>\r\n</li>\r\n<li>\r\n<p>6.Processos de gerenciamento da comunica\u00e7\u00e3o.</p>\r\n</li></ol>\r\n<p><br /></p>\r\n<ul type=\"none\">\r\n<li>\r\n<p>(  ) A Estrutura Anal\u00edtica de Projetos organiza e define o escopo total e representa o trabalho especificado na declara\u00e7\u00e3o do escopo do projeto aprovada.</p>\r\n</li>\r\n<li>\r\n<p>(  ) \u00c9 o processo de an\u00e1lise da sequ\u00eancia das atividades, suas dura\u00e7\u00f5es, recursos necess\u00e1rios e restri\u00e7\u00f5es que visam gerar o cronograma do projeto.</p>\r\n</li>\r\n<li>\r\n<p>(  ) Inclui os processos necess\u00e1rios para realizar o t\u00e9rmino do projeto no prazo determinado.</p>\r\n</li>\r\n<li>\r\n<p>(  ) Demonstra como os processos de gerenciamento do risco do projeto ser\u00e3o executados.</p>\r\n</li>\r\n<li>\r\n<p>(  ) Seu objetivo \u00e9 planejar como dever\u00e1 ser feita a gera\u00e7\u00e3o, coleta, armazenamento, controle e distribui\u00e7\u00e3o criteriosa das informa\u00e7\u00f5es, por meios adequados e no momento certo, \u00e0s partes interessadas do projeto.</p>\r\n</li>\r\n<li>\r\n<p>(  ) Engloba os processos para obter bens e servi\u00e7os fora da organiza\u00e7\u00e3o patrocinadora para atingir os objetivos do projeto.</p>\r\n</li></ul>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Solicita\u00e7\u00e3o de Mudan\u00e7as.",
+                  "correct": false
+                },
+                {
+                  "answer": "Plano de Gerenciamento do Tempo.",
+                  "correct": false
+                },
+                {
+                  "answer": "Plano de Gerenciamento da Qualidade.",
+                  "correct": true
+                },
+                {
+                  "answer": "Relato de Li\u00e7\u00f5es Aprendidas.",
+                  "correct": false
+                },
+                {
+                  "answer": "Plano de Gerenciamento das Aquisi\u00e7\u00f5es.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>No Projeto em que Rebeca trabalha, n\u00e3o h\u00e1 um documento que indique as caracter\u00edsticas desejadas e os m\u00e9todos de medi\u00e7\u00e3o/avalia\u00e7\u00e3o que ser\u00e3o utilizados para determinar como todos os produtos e processos realizados durante o projeto ser\u00e3o considerados entregues de forma satisfat\u00f3ria. Rebeca precisa, portanto, elaborar o seguinte documento:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "escopo, monitoramento, a qualidade, foi, alcan\u00e7ada e presidente.",
+                  "correct": false
+                },
+                {
+                  "answer": "projeto, avalia\u00e7\u00e3o, os contratos, foram, honrados, patrocinador.",
+                  "correct": false
+                },
+                {
+                  "answer": "plano de gerenciamento do projeto, controle, o or\u00e7amento, foi, utilizado e patrocinador.",
+                  "correct": false
+                },
+                {
+                  "answer": "projeto, controle, o escopo, foi, entregue e patrocinador.",
+                  "correct": true
+                },
+                {
+                  "answer": "plano do projeto, avalia\u00e7\u00e3o, escopo, foi, entregue e presidente.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Marque a op\u00e7\u00e3o cujas palavras completam a frase abaixo:</p>\r\n<p><br /></p>\r\n<p>O fechamento do _____________ acontece quando o processo de ____________ do desempenho indicar que ___________________ do projeto __________ totalmente _____________, ou quando o _______________ ou a ger\u00eancia da organiza\u00e7\u00e3o solicitar seu cancelamento.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "A, E, B, D e C.",
+                  "correct": false
+                },
+                {
+                  "answer": "A, E, D, B e C.",
+                  "correct": true
+                },
+                {
+                  "answer": "C, D, A, E e B.",
+                  "correct": false
+                },
+                {
+                  "answer": "E, A, D, C e B.",
+                  "correct": false
+                },
+                {
+                  "answer": "B, C, A, E e D.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Relacione a segunda coluna de acordo com a primeira, em rela\u00e7\u00e3o \u00e0 composi\u00e7\u00e3o do processo Li\u00e7\u00f5es Aprendidas em cinco subprocessos:</p>\r\n<p><br /></p>\r\n<p>1\u00aa coluna:</p>\r\n<p><br /></p>\r\n<ol type=\"A\" start=\"1\">\r\n<li>\r\n<p>(A) Coletar</p>\r\n</li>\r\n<li>\r\n<p>(B) Verificar</p>\r\n</li>\r\n<li>\r\n<p>(C) Armazenar</p>\r\n</li>\r\n<li>\r\n<p>(D) Disseminar</p>\r\n</li>\r\n<li>\r\n<p>(E) Reutilizar</p>\r\n</li></ol>\r\n<p><br /></p>\r\n<p>2\u00aa coluna:</p>\r\n<p><br /></p>\r\n<ul>\r\n<li>\r\n<p>( ) A equipe de projeto preenche um formul\u00e1rio padr\u00e3o ou \u00e9 entrevistada pela equipe do escrit\u00f3rio de projeto.</p>\r\n</li>\r\n<li>\r\n<p>( ) O gerente de projeto decide se usa ou n\u00e3o a recomenda\u00e7\u00e3o contida na li\u00e7\u00e3o aprendida.</p>\r\n</li>\r\n<li>\r\n<p>( ) Consiste em fazer as li\u00e7\u00f5es chegarem aos seus usu\u00e1rios potenciais.</p>\r\n</li>\r\n<li>\r\n<p>( ) Uma equipe de gerentes de projetos, selecionada pelo escrit\u00f3rio de projeto, valida a li\u00e7\u00e3o com foco na exatid\u00e3o, para uso posterior.</p>\r\n</li>\r\n<li>\r\n<p>( ) A guarda e manuten\u00e7\u00e3o de arquivos contendo li\u00e7\u00f5es aprendidas.</p>\r\n</li></ul>\r\n<p><br /></p>\r\n<p>A sequ\u00eancia correta \u00e9:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "A tr\u00edplice restri\u00e7\u00e3o se refere ao equil\u00edbrio das demandas de escopo, tempo e custo.",
+                  "correct": true
+                },
+                {
+                  "answer": "A tr\u00edplice restri\u00e7\u00e3o se refere ao equil\u00edbrio das demandas de aquisi\u00e7\u00f5es, tempo e riscos.",
+                  "correct": false
+                },
+                {
+                  "answer": "A tr\u00edplice restri\u00e7\u00e3o se refere ao equil\u00edbrio das demandas de comunica\u00e7\u00e3o, tempo e custo.",
+                  "correct": false
+                },
+                {
+                  "answer": "A tr\u00edplice restri\u00e7\u00e3o se refere ao equil\u00edbrio das demandas de escopo, aquisi\u00e7\u00f5es e custo.",
+                  "correct": false
+                },
+                {
+                  "answer": "A tr\u00edplice restri\u00e7\u00e3o se refere ao equil\u00edbrio das demandas de riscos, tempo e comunica\u00e7\u00e3o.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Assinale a op\u00e7\u00e3o que corresponde aos elementos constituintes da tr\u00edplice restri\u00e7\u00e3o:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "C, D, A e B.",
+                  "correct": false
+                },
+                {
+                  "answer": "D, A, B e C.",
+                  "correct": false
+                },
+                {
+                  "answer": "A, B, D e C.",
+                  "correct": false
+                },
+                {
+                  "answer": "B, D, C e A.",
+                  "correct": false
+                },
+                {
+                  "answer": "B, D, A e C.",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Preencha a segunda coluna de acordo com a primeira:</p>\r\n<p><br /></p>\r\n<p>1\u00aa coluna:</p>\r\n<p><br /></p>\r\n<ol type=\"A\">\r\n<li>\r\n<p>(A) Marco</p>\r\n</li>\r\n<li>\r\n<p>(B) Entrega</p>\r\n</li>\r\n<li>\r\n<p>(C) Relat\u00f3rio final</p>\r\n</li>\r\n<li>\r\n<p>(D) Li\u00e7\u00f5es aprendidas</p>\r\n</li></ol>\r\n<p><br /></p>\r\n<p>2\u00aa coluna:</p>\r\n<p><br /></p>\r\n<ul>\r\n<li>\r\n<p>(   ) Qualquer produto, resultado ou capacidade para realizar um servi\u00e7o exclusivo e verific\u00e1vel que deve ser produzido para terminar uma fase ou um projeto.</p>\r\n</li>\r\n<li>\r\n<p>(   ) Registro de informa\u00e7\u00f5es sobre as pr\u00e1ticas, problemas enfrentados e solu\u00e7\u00f5es adotadas, com intuito de gerar uma base de conhecimento para futuros projetos.</p>\r\n</li>\r\n<li>\r\n<p>(   ) Tem dura\u00e7\u00e3o igual a zero e n\u00e3o utiliza recursos.</p>\r\n</li>\r\n<li>\r\n<p>(   ) Para sua elabora\u00e7\u00e3o deve ser analisada toda a documenta\u00e7\u00e3o produzida para registros no ciclo de vida do projeto, incluindo os documentos de planejamento que estabeleceram a estrutura da medi\u00e7\u00e3o do desempenho.</p>\r\n</li></ul>\r\n<p><br /></p>\r\n<p>A sequ\u00eancia correta \u00e9:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "As aprova\u00e7\u00f5es relativas aos marcos s\u00e3o de origem interna, ou seja, a equipe de projeto \u00e9 que aprova as entregas de um determinado projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "Um marco apresenta a utiliza\u00e7\u00e3o de recursos, caso se fa\u00e7am necess\u00e1rios durante a execu\u00e7\u00e3o do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "Uma entrega \u00e9 qualquer produto, resultado ou capacidade para realizar um servi\u00e7o exclusivo e verific\u00e1vel, que deve ser produzida para terminar uma fase ou um projeto.",
+                  "correct": true
+                },
+                {
+                  "answer": "Um marco \u00e9 representado no cronograma como uma reuni\u00e3o com dura\u00e7\u00e3o de no m\u00e1ximo um dia.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Sobre marcos e entregas, marque a alternativa correta:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Somente a alternativa II est\u00e1 correta.",
+                  "correct": true
+                },
+                {
+                  "answer": "Todas as alternativas est\u00e3o corretas.",
+                  "correct": false
+                },
+                {
+                  "answer": "Todas as alternativas est\u00e3o incorretas.",
+                  "correct": false
+                },
+                {
+                  "answer": "As alternativas II e IV est\u00e3o corretas.",
+                  "correct": false
+                },
+                {
+                  "answer": "Somente a alternativa IV est\u00e1 correta.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Para a ONG em que Ademir \u00e9 volunt\u00e1rio, que atua na Comunidade Voa Beija Flor, foi disponibilizada verba para atender m\u00e3es desta comunidade, que trabalham e n\u00e3o t\u00eam com quem deixar seus filhos. Ademir, que tamb\u00e9m \u00e9 Gerente de Projetos, lan\u00e7ou o \"Meu filho bem cuidado\", que tem como objetivo prover, durante o per\u00edodo de dois anos, o atendimento em creches para os filhos de mulheres que comprovarem v\u00ednculo empregat\u00edcio, bem como resid\u00eancia na comunidade. Como foi identificada a necessidade de dividir o \"Meu filho bem cuidado\", foram criados o \"Meu filho bem cuidado at\u00e9 os tr\u00eas\", que atende crian\u00e7as de at\u00e9 tr\u00eas anos de idade em per\u00edodo integral e o \"Meu filho bem cuidado dos quatro aos seis\", que atende crian\u00e7as de quatro at\u00e9 seis anos em per\u00edodo parcial.</p>\r\n<p><br /></p>\r\n<p> A respeito dos conceitos relacionados a escopo do produto/servi\u00e7o, e tendo como base este texto de apoio, marque a alternativa correta:</p>\r\n<p><br /></p>\r\n<ol type=\"I\">\r\n<li>\r\n<p>I.\u00c9 escopo do produto/servi\u00e7o de \"Meu filho bem cuidado\" atender todas as m\u00e3es que moram em comunidades liminares.</p>\r\n</li>\r\n<li>\r\n<p>II.N\u00e3o \u00e9 escopo do produto/servi\u00e7o  de \"Meu filho bem cuidado\" atender m\u00e3es que moram em comunidades liminares, que trabalham e que t\u00eam filhos com idade a partir de sete anos.</p>\r\n</li>\r\n<li>\r\n<p>III.\u00c9 escopo do produto/servi\u00e7o de \"Meu filho bem cuidado dos quatro aos seis\" atender m\u00e3es que comprovem v\u00ednculo empregat\u00edcio, t\u00eam filhos com idade at\u00e9 seis anos e residem em comunidades liminares.</p>\r\n</li>\r\n<li>\r\n<p>IV.\u00c9 escopo do produto/servi\u00e7o de \"Meu filho bem cuidado at\u00e9 os tr\u00eas\", atender fam\u00edlias que apresentem crian\u00e7as de at\u00e9 tr\u00eas anos de idade que moram na Comunidade Voa Beija Flor.</p>\r\n</li></ol>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Desempenho, definitivamente, objetividade, tomadas de decis\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "Projeto, empiricamente, objetividade, dimens\u00f5es.",
+                  "correct": true
+                },
+                {
+                  "answer": "Desempenho, empiricamente, objetividade, tomadas de decis\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "Projeto, definitivamente, assertividade, dimens\u00f5es",
+                  "correct": false
+                },
+                {
+                  "answer": "Desempenho, de forma objetiva, assertividade, decis\u00f5es",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Marque a op\u00e7\u00e3o que cont\u00e9m as palavras que completam a frase abaixo:</p>\r\n<p><br /></p>\r\n<p>Os indicadores de _____________ s\u00e3o instrumentos de avalia\u00e7\u00e3o que permitem comprovar ____________________ e com _________________ a progress\u00e3o de uma ou v\u00e1rias _________________ de um projeto diante das metas estabelecidas.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "As afirma\u00e7\u00f5es I, II e III s\u00e3o restri\u00e7\u00f5es.",
+                  "correct": false
+                },
+                {
+                  "answer": "As afirma\u00e7\u00f5es II, IV e V s\u00e3o restri\u00e7\u00f5es.",
+                  "correct": true
+                },
+                {
+                  "answer": "As afirma\u00e7\u00f5es n\u00e3o s\u00e3o nem restri\u00e7\u00f5es nem premissas.",
+                  "correct": false
+                },
+                {
+                  "answer": "As afirma\u00e7\u00f5es II e V s\u00e3o premissas.",
+                  "correct": false
+                },
+                {
+                  "answer": "As afirma\u00e7\u00f5es I, III e IV s\u00e3o premissas.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>A respeito de restri\u00e7\u00f5es e premissas, um projeto para elabora\u00e7\u00e3o de Pacote promocional da empresa \"Fliperama Festas Infantis\" apresenta, em seu termo de abertura, as seguintes afirma\u00e7\u00f5es:</p>\r\n<p><br /></p>\r\n<ol type=\"I\">\r\n<li>\r\n<p>I. Haver\u00e1 pula-pula, piscina de bolinhas e brinquedoteca no sal\u00e3o de festas.</p>\r\n</li>\r\n<li>\r\n<p>II. Os brinquedos n\u00e3o podem ficar do lado de fora do sal\u00e3o devido \u00e0 possibilidade de chover.</p>\r\n</li>\r\n<li>\r\n<p>III. Haver\u00e1 monitores para cuidar das crian\u00e7as durante o evento.</p>\r\n</li>\r\n<li>\r\n<p>IV. O Pacote promocional pode ser de no m\u00ednimo R$ 2.000,00, a fim de n\u00e3o comprometer o lucro da empresa.</p>\r\n</li>\r\n<li>\r\n<p>V. O Pacote promocional \u00e9 para 60 convidados.</p>\r\n</li></ol>\r\n<p><br /></p>\r\n<p>A respeito destas afirma\u00e7\u00f5es, marque a op\u00e7\u00e3o correta:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Da avalia\u00e7\u00e3o, o monitoramento, externos, imparcialidade.",
+                  "correct": false
+                },
+                {
+                  "answer": "Da avalia\u00e7\u00e3o, o monitoramento, externos, acuracidade.",
+                  "correct": false
+                },
+                {
+                  "answer": "Da avalia\u00e7\u00e3o, o monitoramento, externos, acuracidade.",
+                  "correct": false
+                },
+                {
+                  "answer": "Do monitoramento, a avalia\u00e7\u00e3o, externos, imparcialidade.",
+                  "correct": true
+                },
+                {
+                  "answer": "Do monitoramento, a avalia\u00e7\u00e3o, internos, acuracidade",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Marque a op\u00e7\u00e3o que cont\u00e9m as palavras que completam a frase abaixo:\r\n<br />\r\n<br />Diferentemente ____________________, que consiste na atribui\u00e7\u00e3o t\u00edpica do gerente do projeto, \u00e9 recomend\u00e1vel que se realize _________________ com profissionais ______________ ao projeto, para se obter maior ___________________.</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "H\u00e1 somente quatro tipos de indicadores de projeto: impacto, efetividade, desempenho, de resultados.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os indicadores de resultados s\u00e3o medidos considerando os recursos empregados e o lucro obtido.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os indicadores de desempenho s\u00e3o medidos durante a vida de um projeto, tendo como alvo as atividades e os recursos, e sinalizam qual \u00e9 a tend\u00eancia do projeto, caso n\u00e3o exista nenhuma a\u00e7\u00e3o efetiva de altera\u00e7\u00e3o do curso atual.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os indicadores de efetividade medem os resultados dos objetivos propostos em um determinado per\u00edodo de tempo, ap\u00f3s a produ\u00e7\u00e3o dos resultados do projeto.",
+                  "correct": true
+                },
+                {
+                  "answer": "Os indicadores de impacto evidenciam se os resultados planejados foram alcan\u00e7ados ? pode-se citar o ROI (Return of  Investment), um indicador de prazo obtido ao final do projeto",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Marque a op\u00e7\u00e3o correta:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "4, 1, 4, 1, 2 e 3.",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>4, 1, 2, 3, 1 e 4.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "3, 1, 4, 4, 3 e 2.",
+                  "correct": false
+                },
+                {
+                  "answer": "4, 1, 2, 4, 1 e 3",
+                  "correct": false
+                },
+                {
+                  "answer": "3, 1, 2, 4, 1 e 4.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Enumere a segunda coluna de acordo com a primeira, em seguida, marque a op\u00e7\u00e3o que indica a sequ\u00eancia correta.</p>\r\n<p><br /></p>\r\n<div>\r\n<ol start=\"1\">\r\n<li>\r\n<p>1.Termo de abertura de projeto</p>\r\n</li>\r\n<li>\r\n<p>2.Marco</p>\r\n</li>\r\n<li>\r\n<p>3.Restri\u00e7\u00f5es</p>\r\n</li>\r\n<li>\r\n<p>4.Premissas</p>\r\n</li></ol>\r\n</div>\r\n<p><br /></p>\r\n<div>\r\n<ul>\r\n<li>\r\n<p>( ) O Gerente do Projeto n\u00e3o tem ascend\u00eancia ou controle sobre eles.</p>\r\n</li>\r\n<li>\r\n<p>( ) deve incluir, entre outros elementos, or\u00e7amento sumarizado do projeto.</p>\r\n</li>\r\n<li>\r\n<p>( ) \u00e9 utilizada como designa\u00e7\u00e3o de um ponto de controle em um cronograma, n\u00e3o \u00e9 uma atividade e n\u00e3o possui dura\u00e7\u00e3o.</p>\r\n</li>\r\n<li>\r\n<p>( ) limita a op\u00e7\u00e3o da equipe de projeto para um prazo estipulado, por exemplo, a implanta\u00e7\u00e3o deve ocorrer at\u00e9 dez/2015.</p>\r\n</li>\r\n<li>\r\n<p>( ) documento no qual a organiza\u00e7\u00e3o reconhece a exist\u00eancia de um Projeto.</p>\r\n</li>\r\n<li>\r\n<p>( ) s\u00e3o fatores considerados verdadeiros, reais ou certos para fins de planejamento.</p>\r\n</li></ul>\r\n</div>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "A execu\u00e7\u00e3o da comunica\u00e7\u00e3o no projeto deve considerar somente as seguintes formas e dimens\u00f5es: escrita, interna ao projeto, formal e vertical, posto que as demais formas e dimens\u00f5es comunicacionais n\u00e3o atendem \u00e0 formalidade necess\u00e1ria ao projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "A comunica\u00e7\u00e3o n\u00e3o interfere no ambiente do projeto, ou mesmo na motiva\u00e7\u00e3o da equipe.  \r\n\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "A comunica\u00e7\u00e3o, apesar de apresentar grande import\u00e2ncia para o projeto, n\u00e3o deriva de habilidades pessoais do gerente do projeto, mas somente do uso adequado de ferramentas de comunica\u00e7\u00e3o.",
+                  "correct": false
+                },
+                {
+                  "answer": "A distribui\u00e7\u00e3o de informa\u00e7\u00f5es por meio de ferramentas eletr\u00f4nicas deve levar em considera\u00e7\u00e3o o princ\u00edpio de que as informa\u00e7\u00f5es do projeto devem estar dispon\u00edveis no momento certo, no formato correto e consistente, com uso da metodologia apropriada e baseada no plano de comunica\u00e7\u00e3o do projeto.",
+                  "correct": true
+                },
+                {
+                  "answer": "N\u00e3o \u00e9 necess\u00e1rio que toda a documenta\u00e7\u00e3o do projeto seja arquivada, cabendo ao gerente do projeto decidir o que \u00e9 pertinente de arquivamento ou n\u00e3o.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p><i>Assinale a alternativa correta:</i></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Cronograma.",
+                  "correct": false
+                },
+                {
+                  "answer": "Plano de Gerenciamento da Comunica\u00e7\u00e3o.",
+                  "correct": true
+                },
+                {
+                  "answer": "EAP.",
+                  "correct": false
+                },
+                {
+                  "answer": "Plano de Gerenciamento da Qualidade.",
+                  "correct": false
+                },
+                {
+                  "answer": "Dicion\u00e1rio da EAP.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Houve uma reuni\u00e3o para definir a reprograma\u00e7\u00e3o de entregas do Projeto em que Anderson trabalha. Ele elaborou a ata de reuni\u00e3o, mas n\u00e3o sabe para quem deve envi\u00e1-la. O documento do projeto que Anderson deve consultar para dirimir sua d\u00favida \u00e9:</p>\r\n<p><br /></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Com base nos dados informados, \u00e9 poss\u00edvel afirmar que a altera\u00e7\u00e3o no projeto foi feita \u00e0 revelia da equipe do projeto, motivo pelo qual n\u00e3o h\u00e1 nenhum documento explicitando o motivo da mudan\u00e7a.",
+                  "correct": false
+                },
+                {
+                  "answer": "Pelo conte\u00fado do texto, pode ter ocorrido algum problema no cumprimento do que foi especificado no Plano de Gerenciamento da Comunica\u00e7\u00e3o do Projeto.",
+                  "correct": true
+                },
+                {
+                  "answer": "As informa\u00e7\u00f5es sobre o prazo de arquivamento dos documentos do projeto devem constar no Dicion\u00e1rio da EAP e n\u00e3o no Plano de Gerenciamento da Comunica\u00e7\u00e3o, portanto, Juliano pesquisou o documento errado.",
+                  "correct": false
+                },
+                {
+                  "answer": "Nenhum documento do projeto deve ser arquivado, pois isto compromete o sigilo do neg\u00f3cio.",
+                  "correct": false
+                },
+                {
+                  "answer": "\u00c9 correto o fato de Juliano n\u00e3o ter localizado nenhum documento relativo \u00e0 mudan\u00e7a no cronograma do projeto, visto que o prazo de arquivamento j\u00e1 expirou.",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Juliano n\u00e3o sabe o que ocorreu, h\u00e1 um ano, no projeto em que atua, que fez com que uma data de entrega no Cronograma fosse alterada. Conforme pesquisado por Juliano no Plano de Gerenciamento da Comunica\u00e7\u00e3o do Projeto, as atas de reuni\u00f5es e solicita\u00e7\u00f5es de mudan\u00e7a devem ser elaboradas e enviadas aos envolvidos nas delibera\u00e7\u00f5es e ao Gerente do Projeto. Al\u00e9m disso, devem ser arquivadas na pasta do projeto, que fica em um servidor, \u00e0 disposi\u00e7\u00e3o de todos os membros da equipe do projeto, at\u00e9 cinco anos ap\u00f3s seu t\u00e9rmino. Juliano pesquisou esta pasta, mas n\u00e3o localizou nenhum documento relativo \u00e0 mudan\u00e7a.</p>\r\n<p><br /></p>\r\n<p>De acordo com este contexto, marque a op\u00e7\u00e3o correta:</p>\r\n<p><br /></p>\r\n"
+            }
+          ]
+        ],
+        "directions": "",
+        "random_order": true,
+        "allow_repetition": true,
+        "one_question_per_page": false
+      },
+      "learningmodule_folder": "",
+      "published_date": "26/02/2015 16:53:00",
+      "scorm": {
+        "folder": "/opt/zope298/courses/fgp_mii_20150129/",
+        "title": "fgp_mii_20150129"
+      },
+      "max_number_attempt_assessment": [
+        "3"
+      ],
+      "id": "fgp-m2"
+    },
+    {
+      "status": "published",
+      "type": "a-distancia",
+      "description": "",
+      "title": "Gest\u00e3o Formal de Contratos",
+      "expiration_date": "31/12/2020 00:00:00",
+      "activity": {
+        "knowledge_area": "1|ADMINISTRACAO",
+        "visibility": "None",
+        "methodology": "3|A DISTANCIA",
+        "activity": "04160200|Gest\u00c3\u00a3o Formal de Contratos",
+        "concentration_area": "1|ADMINISTRACAO",
+        "modality": "12|TREINAMENTO"
+      },
+      "quiz": {
+        "number_of_random_questions": 10,
+        "signature_manager": false,
+        "title": "Gest\u00e3o Formal",
+        "grading_scale": [
+          {
+            "grade": "Voc\u00ea concluiu a avalia\u00e7\u00e3o com sucesso! Siga em frente com o seu desenvolvimento.",
+            "gradeinfo": "",
+            "score": "70"
+          },
+          {
+            "grade": "Voc\u00ea obteve um aproveitamento inferior a 70%. Recomendamos rever os conte\u00fados e realizar nova avalia\u00e7\u00e3o",
+            "gradeinfo": "",
+            "score": ""
+          }
+        ],
+        "instant_feedback": true,
+        "questions": [],
+        "directions": "\r\n<p>Prezado Participante,<br /><br />Esta \u00e9 a avalia\u00e7\u00e3o de aprendizagem do curso Gest\u00e3o Formal, composta de 10 quest\u00f5es relacionadas aos conte\u00fados abordados na a\u00e7\u00e3o educacional.<br />A avalia\u00e7\u00e3o \u00e9 um instrumento que poder\u00e1 auxili\u00e1-lo a verificar seu aproveitamento quanto aos estudos realizados, fornecendo tamb\u00e9m, \u00e0 Universidade CAIXA, insumos para analisar a efetividade de suas a\u00e7\u00f5es educacionais.<br /><br />\u00c9 necess\u00e1rio obter um aproveitamento m\u00ednimo de 70% para concluir o m\u00f3dulo e t\u00ea-lo registrado em seu curr\u00edculo.<br />Caso n\u00e3o obtenha o percentual m\u00ednimo indicado, voc\u00ea ser\u00e1 orientado a rever o conte\u00fado e a refazer a avalia\u00e7\u00e3o.<br /></p>\r\n",
+        "random_order": true,
+        "allow_repetition": true,
+        "one_question_per_page": false
+      },
+      "learningmodule_folder": "",
+      "published_date": "30/10/2015 13:10:00",
+      "scorm": {
+        "folder": "/opt/zope298/courses/gfc_20151028/",
+        "title": "gfc_20151028"
+      },
+      "max_number_attempt_assessment": [
+        "1"
+      ],
+      "id": "gestao-formal-de-contratos"
+    },
+    {
+      "status": "published",
+      "type": "a-distancia",
+      "description": "",
+      "title": "Identifica\u00e7\u00e3o de Clientes Datiloscopia e Grafoscopia",
+      "expiration_date": "31/12/2021 00:00:00",
+      "activity": {
+        "knowledge_area": "34|BANCARIA",
+        "visibility": "None",
+        "methodology": "3|A DISTANCIA",
+        "activity": "02672602|Identifica\u00c3\u00a7\u00c3\u00a3o de Clientes: Datiloscopia e Grafoscopia",
+        "concentration_area": "237|SERVICOS BANCARIOS",
+        "modality": "12|TREINAMENTO"
+      },
+      "quiz": {
+        "number_of_random_questions": 10,
+        "signature_manager": false,
+        "title": "Avalia\u00e7\u00e3o de Aprendizagem",
+        "grading_scale": [
+          {
+            "grade": "Parab\u00e9ns! Voc\u00ea foi aprovado!",
+            "gradeinfo": "",
+            "score": "70"
+          },
+          {
+            "grade": "Revise o conte\u00fado e tente novamente",
+            "gradeinfo": "",
+            "score": ""
+          }
+        ],
+        "instant_feedback": true,
+        "questions": [
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>I \u2013 Falsifica\u00e7\u00e3o com modelo \u00e0 vista; II \u2013 Falsifica\u00e7\u00e3o livre ou exercitada; III \u2013 Falsifica\u00e7\u00e3o sem imita\u00e7\u00e3o; IV \u2013 Falsifica\u00e7\u00e3o por decalque e V \u2013 Falsifica\u00e7\u00e3o\u00a0de mem\u00f3ria. <br /></p>\r\n",
+                "correct": true
+              },
+              {
+                "answer": "\r\n<p>IV \u2013 Falsifica\u00e7\u00e3o com modelo \u00e0 vista; II \u2013 Falsifica\u00e7\u00e3o livre ou exercitada; III \u2013 Falsifica\u00e7\u00e3o sem imita\u00e7\u00e3o; I \u2013 Falsifica\u00e7\u00e3o por decalque e V \u2013 Falsifica\u00e7\u00e3o por mem\u00f3ria. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>III \u2013 Falsifica\u00e7\u00e3o com modelo \u00e0 vista; II \u2013 Falsifica\u00e7\u00e3o livre ou exercitada; I \u2013 Falsifica\u00e7\u00e3o sem imita\u00e7\u00e3o; IV \u2013 Falsifica\u00e7\u00e3o por decalque e V \u2013 Falsifica\u00e7\u00e3o por mem\u00f3ria. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>II \u2013 Falsifica\u00e7\u00e3o com modelo \u00e0 vista; I \u2013 Falsifica\u00e7\u00e3o livre ou exercitada; III \u2013 Falsifica\u00e7\u00e3o sem imita\u00e7\u00e3o; IV \u2013 Falsifica\u00e7\u00e3o por decalque e V \u2013 Falsifica\u00e7\u00e3o por mem\u00f3ria. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>V \u2013 Falsifica\u00e7\u00e3o com modelo \u00e0 vista; II \u2013 Falsifica\u00e7\u00e3o livre ou exercitada; III \u2013 Falsifica\u00e7\u00e3o sem imita\u00e7\u00e3o; IV \u2013 Falsifica\u00e7\u00e3o por decalque e I \u2013 Falsifica\u00e7\u00e3o por mem\u00f3ria. <br /><br /></p>\r\n",
+                "correct": false
+              }
+            ],
+            "title": "\r\n<p align=\"left\">Teoricamente existem cinco modos de se falsificar a assinatura de outra pessoa: sem imita\u00e7\u00e3o, de mem\u00f3ria, com modelo \u00e0 vista (servil), por decalque e por imita\u00e7\u00e3o livre (exercitada). De acordo com essa afirmativa relacione as colunas abaixo:<br /><br /><br />I - S\u00e3o feitas por c\u00f3pia de um modelo dispon\u00edvel. Quando o imitador n\u00e3o possui boa capacidade de percep\u00e7\u00e3o, memoriza\u00e7\u00e3o e reprodu\u00e7\u00e3o (ou n\u00e3o teve tempo para treinar), ele pode reproduzir a firma da v\u00edtima como se fosse um desenho, alternando sua aten\u00e7\u00e3o entre a reprodu\u00e7\u00e3o da assinatura forjada e a observa\u00e7\u00e3o do modelo.<br />II -\u00a0 S\u00e3o feitas com base em um modelo, por\u00e9m depois de treinar exaustivamente, at\u00e9 que seja poss\u00edvel reproduzi-lo automaticamente, sem olhar para ele. Esta \u00e9 a modalidade imita\u00e7\u00e3o mais elaborada e, em tese, a que permite obter os melhores resultados.<br />III - Consiste no simples ato de assinar em nome de outra pessoa, sem que ao menos se tente imitar a morfologia de sua firma. Situa\u00e7\u00f5es dessa natureza ocorrem quando o fals\u00e1rio n\u00e3o conhece a assinatura de sua v\u00edtima \u2014 muitas vezes nem conhece a pessoa, apenas seu nome. <br />IV - Essas imita\u00e7\u00f5es sempre s\u00e3o feitas com base em um modelo, mas e podem ser de dois tipos: diretos e indiretos.<br />V - \u00c9 feita em ocasi\u00f5es em que se conhece razoavelmente bem a firma da v\u00edtima, mas n\u00e3o se disp\u00f5e nem mesmo de uma imagem dela para ser usada como modelo. Assim, o imitador tentar\u00e1 reproduzir as regi\u00f5es das quais tenha lembran\u00e7a, e improvisar\u00e1 naquelas em que sua mem\u00f3ria falhar. <br /></p>\r\n<p align=\"left\">(\u00a0 ) Falsifica\u00e7\u00e3o sem imita\u00e7\u00e3o<br />(\u00a0 ) Falsifica\u00e7\u00e3o de mem\u00f3ria<br />(\u00a0\u00a0) Falsifica\u00e7\u00e3o com modelo \u00e0 vista<br />(\u00a0 )\u00a0Falsifica\u00e7\u00e3o por decalque<br />(\u00a0 ) Falsifica\u00e7\u00e3o livre ou exercitada<br /></p>\r\n"
+          },
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>Quando falamos de Morfologia da Escrita nos referimos ao tamanho (altura e largura) dos Al\u00f3grafos.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>Os valores subjetivos s\u00e3o Grau de habilidade do Punho, Velocidade, Press\u00e3o, Dinamismo, Ritmo Gr\u00e1fico, Variabilidade e Grama.<br /><br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>O Grau de habilidade do punho escritor refere-se literalmente \u00e0 habilidade manual (gr\u00e1fica) desenvolvida por uma determinada pessoa.<br /></p>\r\n",
+                "correct": true
+              },
+              {
+                "answer": "\r\n<p>Quando o calibre diminui progressivamente, chamamos de Gladiolagem Negativa.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>Estrias e esqu\u00edrolas s\u00e3o classificadas como caracter\u00edsticas subjetivas.<br /></p>\r\n",
+                "correct": false
+              }
+            ],
+            "title": "\r\n<p>Marque a alternativa correta em rela\u00e7\u00e3o aos Elementos Discriminadores da Escrita:<br /></p>\r\n"
+          },
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>V, F, F, F, V.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>V, F, V, V, V.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>F, V, F, V, V.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>V, V, F, V, V. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>V, F, F, V, V.<br /></p>\r\n",
+                "correct": true
+              }
+            ],
+            "title": "\r\n<p align=\"left\">Quanto aos pontos b\u00e1sicos dos datilogramas, marque V ou F para as afirmativas abaixo:<br /><br />(\u00a0\u00a0 ) O travess\u00e3o \u00e9 uma pequena crista papilar, reta ou obl\u00edqua, que liga duas linhas paralelas.<br />(\u00a0\u00a0 ) A bifurca\u00e7\u00e3o \u00e9 uma pequena crista, formando, com a linha, uma esp\u00e9cie de arp\u00e3o.<br />(\u00a0\u00a0 ) A cortada \u00e9 identificada como um tra\u00e7o curto.<br />(\u00a0\u00a0 ) Na cicatriz, as cristas apresentam as extremidades recurvadas. <br />(\u00a0\u00a0 ) Datilogramas produzidos por dedos com les\u00f5es superficiais e tempor\u00e1rias, em que a pele poder\u00e1 se reconstituir e o desenho digital retornar \u00e0 sua forma original, n\u00e3o s\u00e3o classificados como cicatriz e sim dobra de pele. <br /></p>\r\n"
+          },
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>Caracter\u00edsticas de classe; caracter\u00edsticas individuais; grupo de indiv\u00edduos; membros desse grupo; divergir.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>Caracter\u00edsticas de classe; caracter\u00edsticas individuais; membros desse grupo; divergir grupo de indiv\u00edduos.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>Caracter\u00edsticas de classe; grupo de indiv\u00edduos; membros desse grupo; divergir; caracter\u00edsticas individuais.<br /></p>\r\n",
+                "correct": true
+              },
+              {
+                "answer": "\r\n<p>Caracter\u00edsticas individuais; grupo de indiv\u00edduos; membros desse grupo; divergir caracter\u00edsticas de classe.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>Caracter\u00edsticas de classe; caracter\u00edsticas individuais; grupo de indiv\u00edduos; divergir; membros desse grupo.<br /></p>\r\n",
+                "correct": false
+              }
+            ],
+            "title": "\r\n<p>Preencha as lacunas da senten\u00e7a utilizando as palavras abaixo:<br /><br />As _____________________s\u00e3o definidas como um conjunto de qualidades que s\u00e3o compartilhadas por um ____________________, podendo inclusive serem usadas para identificar os ______________________como pertencentes a ele, j\u00e1 o que delas _______________ poderiam ser consideradas como ____________________________, de maior ou menor freq\u00fc\u00eancia de ocorr\u00eancia.<br /><br /></p>\r\n"
+          },
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>Linhas pretas; cristas papilares; sulcos interpapilares; cristas.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>Sulcos interpapilares; linhas pretas; cristas papilares; cristas.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>Linhas pretas; cristas; sulcos interpapilares; cristas papilares.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>Linhas pretas; cristas papilares; cristas; sulcos interpapilares.<br /></p>\r\n",
+                "correct": true
+              },
+              {
+                "answer": "\r\n<p>Cristas papilares; cristas; sulcos interpapilares; linhas pretas.<br /></p>\r\n",
+                "correct": false
+              }
+            ],
+            "title": "\r\n<p>Preencha as lacunas da senten\u00e7a com as palavras abaixo:<br /><br />Na impress\u00e3o digital, o desenho que vemos formado pelas _________ corresponde \u00e0s __________; os intervalos que aparecem entre as _________ correspondem aos ________________. <br /></p>\r\n"
+          },
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>(I) Velocidade, (II) Perenidade e (III) Imutabilidade.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>(I) Imutabilidade, (II) Variabilidade e (III) Perenidade.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>(I) Invariabilidade, (II) Perenidade e (III) Imutabilidade.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>(I) Variabilidade, (II) Perenidade e (III) Imutabilidade.<br /></p>\r\n",
+                "correct": true
+              },
+              {
+                "answer": "\r\n<p>(I) Imutabilidade, (II) Perenidade e (III) Variabilidade.<br /></p>\r\n",
+                "correct": false
+              }
+            ],
+            "title": "\r\n<p align=\"left\">Marque as alternativas corretas, quanto \u00e0s caracter\u00edsticas dos desenhos das digitais.<br /><br />I - N\u00e3o se encontram dois desenhos digitais id\u00eanticos, nem na mesma pessoa.<br />II - Os desenhos digitais aparecem durante a vida fetal e permanecem no indiv\u00edduo at\u00e9 a decomposi\u00e7\u00e3o da mat\u00e9ria.<br />III - Os desenhos conservam-se iguais ao longo da vida, s\u00f3 alterando seu tamanho.</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">(\u00a0 ) Imutabilidade</p>\r\n<p align=\"left\">(\u00a0 ) Perenidade</p>\r\n<p align=\"left\">(\u00a0 ) Variabilidade<br /><br /></p>\r\n"
+          },
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>I \u2013 1\u00aa Lei do Grafismo; II \u2013 2\u00aa Lei do Grafismo; III \u2013 3\u00aa Lei do Grafismo e IV \u2013 4\u00aa Lei do Grafismo. <br /></p>\r\n",
+                "correct": true
+              },
+              {
+                "answer": "\r\n<p>I \u2013 4\u00aa Lei do Grafismo; II \u2013 3\u00aa Lei do Grafismo; III \u2013 1\u00aa Lei do Grafismo e IV \u2013 2\u00aa Lei do Grafismo. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>I \u2013 1\u00aa Lei do Grafismo; II \u2013 4\u00aa Lei do Grafismo; III \u2013 3\u00aa Lei do Grafismo e IV \u2013 2\u00aa Lei do Grafismo. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>I \u2013 2\u00aa Lei do Grafismo; II \u2013 1\u00aa Lei do Grafismo; III \u2013 4\u00aa Lei do Grafismo e IV \u2013 3\u00aa Lei do Grafismo. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>I \u2013 3\u00aa Lei do Grafismo; II \u2013 1\u00aa Lei do Grafismo; III \u2013 4\u00aa Lei do Grafismo e IV \u2013 3\u00aa Lei do Grafismo. <br /></p>\r\n",
+                "correct": false
+              }
+            ],
+            "title": "\r\n<p align=\"left\">Sobre as leis do grafismo, relacione as colunas abaixo:<br />\u00a0<br />I - \"O gesto gr\u00e1fico est\u00e1 sob influ\u00eancia direta do c\u00e9rebro. Sua forma n\u00e3o \u00e9 modificada pelo \u00f3rg\u00e3o escritor, se este funciona normalmente e se encontra suficientemente adaptado \u00e0 sua fun\u00e7\u00e3o\u201d.<br />II - \"Quando se escreve, o nosso \u201cEu\u201d est\u00e1 em a\u00e7\u00e3o, mas o sentimento quase inconsciente de que o \u201cEu\u201d age passa por alternativas cont\u00ednuas de intensidade e de enfraquecimento. Ele est\u00e1 em seu m\u00e1ximo de intensidade onde existe um esfor\u00e7o a fazer, isto \u00e9, nos in\u00edcios, e em seu m\u00ednimo onde o movimento escritural \u00e9 secundado pelo impulso adquirido, isto \u00e9, nas extremidades.\" <br />III - \"N\u00e3o se pode modificar voluntariamente, em dado momento, a pr\u00f3pria escrita natural, sen\u00e3o introduzindo no tra\u00e7ado a marca do esfor\u00e7o que se fez para obter a modifica\u00e7\u00e3o.\" <br />IV - \"O escritor que age sob circunst\u00e2ncia em que o ato de escrever \u00e9 particularmente dif\u00edcil tra\u00e7a instintivamente formas de letras que lhe s\u00e3o mais costumeiras ou mais simples, de esquema mais f\u00e1cil de ser constru\u00eddo.\"<br /><br />(\u00a0\u00a0 ) 1\u00aa Lei do Grafismo \u2013 Lei da subordina\u00e7\u00e3o dos gestos gr\u00e1ficos.</p>\r\n<p align=\"left\">(\u00a0\u00a0 ) 2\u00aa Lei do Grafismo \u2013 Lei do automatismo dos gestos gr\u00e1ficos.<br />(\u00a0\u00a0 ) 3\u00aa Lei do Grafismo \u2013 Lei dos disfarces e imita\u00e7\u00f5es lentas.</p>\r\n<p align=\"left\">(\u00a0\u00a0 ) 4\u00aa Lei do Grafismo \u2013 Lei da simplifica\u00e7\u00e3o do gesto gr\u00e1fico.<br /><br /></p>\r\n"
+          },
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>I \u2013 Presilha Interna; II \u2013 Verticilo; III \u2013 Arco e IV \u2013 Presilha Externa. <br /><br /></p>\r\n",
+                "correct": true
+              },
+              {
+                "answer": "\r\n<p>I \u2013 Presilha Interna; II \u2013 Verticilo; III \u2013 Presilha Externa e IV - Arco. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>I \u2013 Verticilo; II \u2013 Arco; III \u2013 Presilha Externa e IV \u2013 Presilha Interna. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>I \u2013 Arco; II \u2013 Verticilo; III \u2013 Presilha Externa e IV \u2013 Presilha Interna. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>I \u2013 Verticilo; II \u2013 Presilha Interna; III \u2013 Presilha Externa e IV \u2013 Arco. <br /></p>\r\n",
+                "correct": false
+              }
+            ],
+            "title": "\r\n<p align=\"left\">O Delta \u00e9 uma figura semelhante a um tri\u00e2ngulo, sendo formada por uma ou duas cristas papilares que se divergem em sentido contr\u00e1rio. Com base nos conhecimentos adquiridos relacione os tipos fundamentais \u00e0s suas descri\u00e7\u00f5es:</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">\u00a0 <br /></p>\r\n<p align=\"left\">I - \u00c9 o datilograma com um delta \u00e0 direita do observador, apresentando linhas que, partindo da esquerda, curvam-se e volta ou tendem a voltar ao lado de origem, formando la\u00e7adas.</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">II - \u00c9 o datilograma com um delta \u00e0 direita e outro \u00e0 esquerda do observador, tendo pelo menos uma linha livre e curva \u00e0 frente de cada delta.</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">III - \u00c9 o datilograma geralmente ad\u00e9tico, formado por linhas que atravessam o campo digital apresentando em sua trajet\u00f3ria formas mais ou menos paralelas abauladas ou altera\u00e7\u00f5es caracter\u00edsticas.</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">IV - \u00c9 o datilograma com um delta \u00e0 esquerda do observador, apresentando linhas que, partindo da direita, curvam-se e volta ou tendem a voltar ao lado de origem, formando la\u00e7adas.</p>\r\n<br />\r\n<p align=\"left\"><span><span>(\u00a0 )\u00a0\u00a0\u00a0</span></span>Arco</p>\r\n<p align=\"left\"><span><span>(\u00a0 )\u00a0\u00a0\u00a0</span></span>Verticilo</p>\r\n<p align=\"left\"><span><span>(\u00a0 )\u00a0\u00a0\u00a0</span></span>Presilha Externa</p>\r\n<p align=\"left\"><span><span>(\u00a0 )\u00a0\u00a0\u00a0</span></span>Presilha Interna</p>\r\n"
+          },
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>Mesmo havendo excesso de entintamento n\u00e3o \u00e9 preciso realizar nova coleta.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>A aus\u00eancia de delta n\u00e3o \u00e9 considerado um erro na coleta em papel.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>Na coleta de digitais pode ser utilizada almofada de carimbo visto que o resultado produzido \u00e9 de \u00f3tima qualidade.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>No entintamento do dedo pode ser feito o movimento de ida e volta sem preju\u00edzo, mas na coleta o giro deve ser realizado em um s\u00f3 sentido.<br /></p>\r\n",
+                "correct": true
+              },
+              {
+                "answer": "\r\n<p>Para coletar mais de uma vez a digital deve-se realizar apenas um entintamento.\u00a0 <br /></p>\r\n",
+                "correct": false
+              }
+            ],
+            "title": "\r\n<p>De acordo com os estudos realizados referentes \u00e0 coleta de digitais, marque a alternativa correta:<br /></p>\r\n"
+          },
+          {
+            "alternatives": [
+              {
+                "answer": "\r\n<p>V, F, F, F, V.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>V, V, F, V, V.<br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>V, F, F, V, V.<br /></p>\r\n",
+                "correct": true
+              },
+              {
+                "answer": "\r\n<p>F, V, F, V, V. <br /></p>\r\n",
+                "correct": false
+              },
+              {
+                "answer": "\r\n<p>V, F, V, V, V.<br /></p>\r\n",
+                "correct": false
+              }
+            ],
+            "title": "\r\n<p align=\"left\">Marque V ou F para as afirmativas abaixo, referente a confer\u00eancia r\u00e1pida de assinaturas:<br /><br />(\u00a0\u00a0 ) O roteiro m\u00ednimo para confer\u00eancias r\u00e1pidas de assinaturas possui tr\u00eas passos que devem ser realizados nesta ordem: An\u00e1lise da Morfologia, An\u00e1lise do Dinamismo, Identifica\u00e7\u00e3o da G\u00eanese Gr\u00e1fica.<br />(\u00a0\u00a0 ) Na coleta de padr\u00f5es gr\u00e1ficos deve ser mostrada a grafia padr\u00e3o para que o fornecedor tente imit\u00e1-las.<br />(\u00a0\u00a0 ) A Auto Falsifica\u00e7\u00e3o acontece quando o fraudador coloca v\u00edcios na escrita, algum tempo ap\u00f3s a sua execu\u00e7\u00e3o.<br />(\u00a0\u00a0 ) Para que exer\u00e7am satisfatoriamente sua fun\u00e7\u00e3o, os padr\u00f5es gr\u00e1ficos devem atender aos seguintes crit\u00e9rios: Autenticidade, Adequabilidade, Contemporaneidade, Espontaneidade, Quantidade.<br />(\u00a0\u00a0 ) As escritas alteradas intencionalmente podem ser classificadas da seguinte forma: o disfarce da grafia da pr\u00f3pria pessoa, do pr\u00f3prio punho escritor e a simula\u00e7\u00e3o da escrita de outra pessoa.<br /></p>\r\n"
+          }
+        ],
+        "directions": "\r\n<p>Prezado Aprendiz<br />\u00a0<br />Esta \u00e9 a avalia\u00e7\u00e3o de aprendizagem do curso \r\nB\u00e1sico de Identifica\u00e7\u00e3o de Clientes - Datiloscopia e Grafoscopia. Ela \u00e9 composta de 10 quest\u00f5es \r\nrelacionadas aos conte\u00fados abordados na a\u00e7\u00e3o educacional.<br />A avalia\u00e7\u00e3o\r\n \u00e9 um instrumento que poder\u00e1 auxili\u00e1-lo a verificar seu aproveitamento \r\nquanto aos estudos realizados, fornecendo tamb\u00e9m, \u00e0 Universidade CAIXA, \r\ninsumos para analisar a efetividade de suas a\u00e7\u00f5es educacionais.<br />\u00c9 necess\u00e1rio obter um aproveitamento m\u00ednimo de 70% para concluir o m\u00f3dulo e t\u00ea-lo registrado em seu curr\u00edculo. <br />Caso n\u00e3o obtenha o percentual m\u00ednimo indicado, voc\u00ea ser\u00e1 orientado a rever o conte\u00fado e a refazer a avalia\u00e7\u00e3o.</p>\r\n",
+        "random_order": true,
+        "allow_repetition": true,
+        "one_question_per_page": false
+      },
+      "learningmodule_folder": "",
+      "published_date": "23/03/2016 10:07:00",
+      "scorm": {
+        "folder": "/opt/zope298/courses/ib_20160322/",
+        "title": "ib_20160322"
+      },
+      "max_number_attempt_assessment": [
+        "3"
+      ],
+      "id": "identificacao-de-clientes-datiloscopia-e-grafoscopia"
+    }
+  ]
+}
