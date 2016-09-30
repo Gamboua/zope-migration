@@ -123,3 +123,4 @@ Parâmetros no arquivo do config.py
 - REMOTE_SCORM_PORT = porta de acesso
 
 Validar o acesso ssh da máquina moodle com o servidor de diretórios scorm.
+Fim
