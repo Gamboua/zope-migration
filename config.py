@@ -14,7 +14,7 @@ PORT = 5432
 
 ####
 # ENVIRONMENT
-JSON_FILE_PATH = 'with_questions.json'
+JSON_FILE_PATH = 'one_course.json'
 QUESTIONS_XML = '/tmp/quiz.xml'
 
 ####

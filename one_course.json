@@ -1,0 +1,29 @@
+{
+  "cursos": [
+    {
+      "status": "published",
+      "type": "a-distancia",
+      "description": "",
+      "title": "Videoaula O Estilo do Líder CAIXA",
+      "expiration_date": "01/01/2020 00:00:00",
+      "activity": {
+        "knowledge_area": "1|ADMINISTRACAO",
+        "visibility": "None",
+        "methodology": "3|A DISTANCIA",
+        "activity": "04145300|Videoaula O Estilo de LÃ­der CAIXA",
+        "concentration_area": "1|ADMINISTRACAO",
+        "modality": "12|TREINAMENTO"
+      },
+      "learningmodule_folder": "",
+      "published_date": "21/01/2014 13:43:00",
+      "scorm": {
+        "folder": "/opt/zope298/courses/video-estilo-2014-01-20/",
+        "title": "Video Estilo 2014/01/20"
+      },
+      "max_number_attempt_assessment": [
+        "1"
+      ],
+      "id": "videoaula-o-estilo-do-lider-caixa"
+    }
+  ]
+}
