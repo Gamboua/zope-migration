@@ -1,0 +1,197 @@
+diff --git a/lib/filestorage/file_storage.php b/lib/filestorage/file_storage.php
+index a5bc30c..daac31b 100644
+--- a/lib/filestorage/file_storage.php
++++ b/lib/filestorage/file_storage.php
+@@ -184,17 +184,16 @@ class file_storage {
+      *
+      * @param stored_file $file the file we want to preview
+      * @param string $format The desired format - e.g. 'pdf'. Formats are specified by file extension.
+-     * @param boolean $forcerefresh If true, the file will be converted every time (not cached).
+      * @return stored_file|bool false if unable to create the conversion, stored file otherwise
+      */
+-    public function get_converted_document(stored_file $file, $format, $forcerefresh = false) {
++    public function get_converted_document(stored_file $file, $format) {
+ 
+         $context = context_system::instance();
+         $path = '/' . $format . '/';
+         $conversion = $this->get_file($context->id, 'core', 'documentconversion', 0, $path, $file->get_contenthash());
+ 
+-        if (!$conversion || $forcerefresh) {
+-            $conversion = $this->create_converted_document($file, $format, $forcerefresh);
++        if (!$conversion) {
++            $conversion = $this->create_converted_document($file, $format);
+             if (!$conversion) {
+                 return false;
+             }
+@@ -260,7 +259,7 @@ class file_storage {
+     }
+ 
+     /**
+-     * Regenerate the test pdf and send it direct to the browser.
++     * If the test pdf has been generated correctly and send it direct to the browser.
+      */
+     public static function send_test_pdf() {
+         global $CFG;
+@@ -287,7 +286,7 @@ class file_storage {
+         }
+ 
+         // Convert the doc file to pdf and send it direct to the browser.
+-        $result = $fs->get_converted_document($testdocx, 'pdf', true);
++        $result = $fs->get_converted_document($testdocx, 'pdf');
+         readfile_accel($result, 'application/pdf', true);
+     }
+ 
+@@ -335,7 +334,7 @@ class file_storage {
+      * @param string $format The desired format - e.g. 'pdf'. Formats are specified by file extension.
+      * @return stored_file|bool false if unable to create the conversion, stored file otherwise
+      */
+-    protected function create_converted_document(stored_file $file, $format, $forcerefresh = false) {
++    protected function create_converted_document(stored_file $file, $format) {
+         global $CFG;
+ 
+         if (empty($CFG->pathtounoconv) || !file_is_executable(trim($CFG->pathtounoconv))) {
+@@ -355,9 +354,9 @@ class file_storage {
+         // Copy the file to the tmp dir.
+         $uniqdir = "core_file/conversions/" . uniqid($file->get_id() . "-", true);
+         $tmp = make_temp_directory($uniqdir);
+-        $ext = pathinfo($file->get_filename(), PATHINFO_EXTENSION);
++        $localfilename = $file->get_filename();
+         // Safety.
+-        $localfilename = $file->get_id() . '.' . $ext;
++        $localfilename = clean_param($localfilename, PARAM_FILE);
+ 
+         $filename = $tmp . '/' . $localfilename;
+         try {
+@@ -366,7 +365,7 @@ class file_storage {
+                 throw new file_exception('storedfileproblem', 'Could not copy file contents to temp file.');
+             }
+         } catch (file_exception $fe) {
+-            remove_dir($tmp);
++            remove_dir($uniqdir);
+             throw $fe;
+         }
+ 
+@@ -387,34 +386,25 @@ class file_storage {
+         chdir($tmp);
+         $result = exec($cmd, $output);
+         chdir($currentdir);
+-        touch($newtmpfile);
+-        if (filesize($newtmpfile) === 0) {
+-            remove_dir($tmp);
++        if (!file_exists($newtmpfile)) {
++            remove_dir($uniqdir);
+             // Cleanup.
+             return false;
+         }
+ 
+         $context = context_system::instance();
+-        $path = '/' . $format . '/';
+         $record = array(
+             'contextid' => $context->id,
+             'component' => 'core',
+             'filearea'  => 'documentconversion',
+             'itemid'    => 0,
+-            'filepath'  => $path,
++            'filepath'  => '/' . $format . '/',
+             'filename'  => $file->get_contenthash(),
+         );
+ 
+-        if ($forcerefresh) {
+-            $existing = $this->get_file($context->id, 'core', 'documentconversion', 0, $path, $file->get_contenthash());
+-            if ($existing) {
+-                $existing->delete();
+-            }
+-        }
+-
+         $convertedfile = $this->create_file_from_pathname($record, $newtmpfile);
+         // Cleanup.
+-        remove_dir($tmp);
++        remove_dir($uniqdir);
+         return $convertedfile;
+     }
+ 
+@@ -1469,6 +1459,7 @@ class file_storage {
+         $newrecord->license      = empty($filerecord->license) ? null : $filerecord->license;
+         $newrecord->status       = empty($filerecord->status) ? 0 : $filerecord->status;
+         $newrecord->sortorder    = $filerecord->sortorder;
++        $newrecord->referencefileid = $filerecord->referencefileid;
+ 
+         list($newrecord->contenthash, $newrecord->filesize, $newfile) = $this->add_file_to_pool($pathname);
+ 
+diff --git a/mod/quiz/tests/generator/lib.php b/mod/quiz/tests/generator/lib.php
+index db1703f..a922549 100644
+--- a/mod/quiz/tests/generator/lib.php
++++ b/mod/quiz/tests/generator/lib.php
+@@ -87,6 +87,8 @@ class mod_quiz_generator extends testing_module_generator {
+             'navmethod'              => QUIZ_NAVMETHOD_FREE,
+         );
+ 
++        $defaultquizsettings = array_merge($defaultquizsettings, $options);
++        
+         foreach ($defaultquizsettings as $name => $value) {
+             if (!isset($record->{$name})) {
+                 $record->{$name} = $value;
+diff --git a/mod/scorm/tests/generator/lib.php b/mod/scorm/tests/generator/lib.php
+index 9743597..e8ab3f1 100644
+--- a/mod/scorm/tests/generator/lib.php
++++ b/mod/scorm/tests/generator/lib.php
+@@ -40,7 +40,7 @@ class mod_scorm_generator extends testing_module_generator {
+         require_once($CFG->dirroot.'/mod/scorm/lib.php');
+         require_once($CFG->dirroot.'/mod/scorm/locallib.php');
+         $cfgscorm = get_config('scorm');
+-
++        
+         // Add default values for scorm.
+         $record = (array)$record + array(
+             'scormtype' => SCORM_TYPE_LOCAL,
+@@ -48,7 +48,7 @@ class mod_scorm_generator extends testing_module_generator {
+             'packagefilepath' => $CFG->dirroot.'/mod/scorm/tests/packages/singlescobasic.zip',
+             'packageurl' => '',
+             'updatefreq' => SCORM_UPDATE_NEVER,
+-            'popup' => 0,
++            'popup' => $cfgscorm->popup,
+             'width' => $cfgscorm->framewidth,
+             'height' => $cfgscorm->frameheight,
+             'skipview' => $cfgscorm->skipview,
+@@ -73,6 +73,8 @@ class mod_scorm_generator extends testing_module_generator {
+             'displayactivityname' => $cfgscorm->displayactivityname
+         );
+ 
++        $record = array_merge($record, $options);
++        
+         // The 'packagefile' value corresponds to the draft file area ID. If not specified, create from packagefilepath.
+         if (empty($record['packagefile']) && $record['scormtype'] === SCORM_TYPE_LOCAL) {
+             if (!isloggedin() || isguestuser()) {
+@@ -87,10 +89,18 @@ class mod_scorm_generator extends testing_module_generator {
+             $record['packagefile'] = file_get_unused_draft_itemid();
+ 
+             // Add actual file there.
+-            $filerecord = array('component' => 'user', 'filearea' => 'draft',
+-                    'contextid' => $usercontext->id, 'itemid' => $record['packagefile'],
+-                    'filename' => basename($record['packagefilepath']), 'filepath' => '/');
++            $filerecord = array(
++                'component' => 'user', 
++                'filearea' => 'draft',
++                'contextid' => $usercontext->id,
++                'itemid' => $record['packagefile'],
++                'filename' => basename($record['packagefilepath']),
++                'filepath' => '/',
++                'source' => $options['source'],
++                'referencefileid' => 1
++            );
+             $fs = get_file_storage();
++            
+             $fs->create_file_from_pathname($filerecord, $record['packagefilepath']);
+         }
+ 
+diff --git a/pluginfile.php b/pluginfile.php
+index 8cc0877..77e6d84 100644
+--- a/pluginfile.php
++++ b/pluginfile.php
+@@ -34,4 +34,6 @@ $relativepath = get_file_argument();
+ $forcedownload = optional_param('forcedownload', 0, PARAM_BOOL);
+ $preview = optional_param('preview', null, PARAM_ALPHANUM);
+ 
++$relativepath = pathinfo($relativepath, PATHINFO_EXTENSION) == 'js' ? strtolower($relativepath) : $relativepath ;
++
+ file_pluginfile($relativepath, $forcedownload, $preview);
