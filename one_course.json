@@ -4,26 +4,502 @@
       "status": "published",
       "type": "a-distancia",
       "description": "",
-      "title": "Videoaula O Estilo do Líder CAIXA",
-      "expiration_date": "01/01/2020 00:00:00",
+      "title": "Fundamentos do Gerenciamento de Projetos - Módulo I ",
+      "expiration_date": "31/12/2020 00:00:00",
       "activity": {
         "knowledge_area": "1|ADMINISTRACAO",
         "visibility": "None",
         "methodology": "3|A DISTANCIA",
-        "activity": "04145300|Videoaula O Estilo de LÃ­der CAIXA",
+        "activity": "04135201|Gerenciamento de Projeto",
         "concentration_area": "1|ADMINISTRACAO",
         "modality": "12|TREINAMENTO"
       },
-      "learningmodule_folder": "",
-      "published_date": "21/01/2014 13:43:00",
+      "quiz": {
+        "number_of_random_questions": 10,
+        "signature_manager": false,
+        "title": "Avaliação",
+        "grading_scale": [
+          {
+            "grade": "Parabéns",
+            "gradeinfo": "",
+            "score": "70"
+          },
+          {
+            "grade": "Revise o conteúdo e tente novamente",
+            "gradeinfo": "",
+            "score": ""
+          }
+        ],
+        "instant_feedback": true,
+        "questions": [
+          [
+            {
+              "alternatives": [
+                {
+                  "answer": "Os itens I e V são falsos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Todos os itens são verdadeiros.",
+                  "correct": false
+                },
+                {
+                  "answer": "Todos os itens são falsos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Apenas o item V é falso.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens II, III e IV são falsos",
+                  "correct": true
+                }
+              ],
+              "title": "Julgue os itens abaixo e assinale a opção correta.\r\n\r\nI. A realização de projetos ao longo do tempo demandou das organizações o aprimoramento das metodologias e da conceituação de \"Gerenciamento de projeto\".\r\n\r\nII. O aprendizado com a realização de projetos também permitiu notar que eles não apresentam características que sejam comuns a todos.\r\n\r\nIII. Projeto é um esforço permanente empreendido para criar um produto, serviço ou resultado exclusivo.\r\n\r\nIV. A realização de projetos para resolver determinados problemas se restringe a empreendimentos grandiosos.\r\n\r\nV. O crescimento da demanda por novos negócios e a competitividade do mercado faz com que as organizações busquem estruturar suas ações em forma de projetos."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "2, 4, 1 e 3.",
+                  "correct": false
+                },
+                {
+                  "answer": "3, 1, 4 e 2.",
+                  "correct": false
+                },
+                {
+                  "answer": "1, 4, 3 e 2.",
+                  "correct": false
+                },
+                {
+                  "answer": "1, 4 , 2 e 3.",
+                  "correct": false
+                },
+                {
+                  "answer": "2, 1, 4 e 3.",
+                  "correct": true
+                }
+              ],
+              "title": "Enumere a segunda coluna de acordo com a primeira, em seguida, marque a opção que indica a seqüência correta.\r\n\r\n1.Programa\r\n2.Projetos\r\n3.Subprojetos\r\n4.Portfólio de projetos\r\n\r\n(    ) é original, visando gerar um produto ou serviço único.\r\n(    ) é um grupo de projetos gerenciados de forma coordenada, visando obter benefícios e controles que dificilmente seriam alcançados quando gerenciados isoladamente.\r\n(    ) refere-se a um conjunto de projetos ou programas e outros trabalhos, agrupados para facilitar o gerenciamento eficaz desses elementos a fim de atingir objetivos estratégicos de negócio.\r\n(    ) é um subconjunto de um projeto maior que foi dividido para facilitar o seu gerenciamento, pode ser gerenciado por um membro da equipe, empresa externa, ou uma unidade funcional."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Determinar que o desligamento diário das luzes e aparelhos eletrônicos ocorra a partir das 20h.",
+                  "correct": false
+                },
+                {
+                  "answer": "Utilizar o metrô em vez de táxi para deslocamentos de reuniões de trabalho.",
+                  "correct": false
+                },
+                {
+                  "answer": "Uma proposta de redução de 10% na realização de horas extras para os próximos três meses.",
+                  "correct": true
+                },
+                {
+                  "answer": "O uso contínuo de folhas de rascunho para produzir blocos de papel.",
+                  "correct": false
+                },
+                {
+                  "answer": "Utilizar copos de vidro que já existem na copa ao invés de copos de plástico.",
+                  "correct": false
+                }
+              ],
+              "title": "Gonçalves, o gerente de Projetos de uma empresa de produção de softwares, precisa elaborar um projeto para diminuir os gastos em sua empresa. Auxilie Gonçalves, marcando a opção que corresponde a um projeto:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Gestão de Projetos, somente no planejamento do projeto, dos resultados produzidos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gestão funcional, nas atividades rotineiras para produzir produto ou serviço único, dos resultados produzidos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerenciamento de Projetos, nas atividades do projeto, dos resultados produzidos.",
+                  "correct": true
+                },
+                {
+                  "answer": "Gerenciamento de Projetos, somente no monitoramento e controle do projeto, dos resultados produzidos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerenciamento de Projetos, somente na execução do projeto, dos resultados produzidos.",
+                  "correct": false
+                }
+              ],
+              "title": "_____________________ envolve a aplicação de conhecimentos, habilidades, ferramentas e técnicas _______________ a fim de atender aos seus requisitos. Além disso, visa garantir a internalização e a perenidade ____________."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "O \"Meu filho bem cuidado\" pode ser um projeto e \"Meu filho bem cuidado até os três\" e \"Meu filho bem cuidado dos três aos seis\" seus subprojetos.",
+                  "correct": true
+                },
+                {
+                  "answer": "O \"Meu filho bem cuidado\" é um portfólio e \"Meu filho bem cuidado até os três\" e \"Meu filho bem cuidado dos três aos seis\" compõem outro portfólio.",
+                  "correct": false
+                },
+                {
+                  "answer": "O \"Meu filho bem cuidado\" é um subprograma e \"Meu filho bem cuidado até os três\" e  \"Meu filho bem cuidado dos três aos seis\" subprojetos.",
+                  "correct": false
+                },
+                {
+                  "answer": "O \"Meu filho bem cuidado\" é com certeza um programa e \"Meu filho bem cuidado até os três\" e \"Meu filho bem cuidado dos três aos seis\" seus subprogramas.",
+                  "correct": false
+                },
+                {
+                  "answer": "O \"Meu filho bem cuidado\" é um projeto e \"Meu filho bem cuidado até os três\" é um programa e \"Meu filho bem cuidado dos três aos seis\" um subprojeto.",
+                  "correct": false
+                }
+              ],
+              "title": "Para a ONG em que Ademir é voluntário, foi disponibilizada verba para atender mães de comunidades carentes, que trabalham e não têm com quem deixar seus filhos pequenos. Ademir, que também é Gerente de Projetos, lançou o \"Meu filho bem cuidado\", que tem como objetivo prover creches nessas comunidades  no prazo de três meses. Como foi identificada a necessidade de dividir o \"Meu filho bem cuidado\", foram criados o \"Meu filho bem cuidado até os três\", que atende crianças de até três anos de idade e o \"Meu filho bem cuidado dos quatro aos seis\", que atende crianças de até seis anos. Tendo como base este texto de apoio, marque a alternativa correta:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Administração do restaurante temático.",
+                  "correct": false
+                },
+                {
+                  "answer": "Fabricação em série de um novo carro comercial.",
+                  "correct": false
+                },
+                {
+                  "answer": "Manter e operar o sistema elétrico e de automação de um prédio comercial.",
+                  "correct": false
+                },
+                {
+                  "answer": "Plantar e colher as safras.",
+                  "correct": false
+                },
+                {
+                  "answer": "Desenhar e construir um prédio comercial.",
+                  "correct": true
+                }
+              ],
+              "title": "Projetos têm um objetivo preciso, mensurável e resultado previsível. Os processos (atividades contínuas) são planejados a longo prazo, o controle pode mudar bastante durante o tempo. Assinale onde há um exemplo de projeto."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "o Plano de Gerenciamento do Tempo.",
+                  "correct": false
+                },
+                {
+                  "answer": "o Plano de Gerenciamento de Riscos.",
+                  "correct": true
+                },
+                {
+                  "answer": "o Plano de Gerenciamento das Aquisições.",
+                  "correct": false
+                },
+                {
+                  "answer": "a EAP.",
+                  "correct": false
+                },
+                {
+                  "answer": "o Plano de Gerenciamento de RH.",
+                  "correct": false
+                }
+              ],
+              "title": "Florismar gerencia um projeto governamental e está elaborando um documento que demonstra como se darão os processos relativos ao gerenciamento das ameaças e oportunidades que podem ocorrer e afetar o desenvolvimento do projeto. O documento que Florismar está elaborando é:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "executar o Plano de Projeto, realizando tarefas, atividades e pacotes de trabalho.",
+                  "correct": true
+                },
+                {
+                  "answer": "atuar como integrador de todas as partes do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "coordenar a elaboração do Plano de projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "gerenciar o processo de encerramento do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "assegurar que a execução e modificações do projeto sejam desenvolvidas conforme planejadas.",
+                  "correct": false
+                }
+              ],
+              "title": "Assinale a única opção que não expressa um papel atribuído ao Gerente de projetos:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Gestão de projetos, a organização funciona, realizando somente projetos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerenciamento de projetos, a organização somente planeja projetos, como organização.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gestão Funcional, a organização funciona, como escritório de projetos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerenciamento de projetos, a organização funciona, como organização.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gestão Funcional, a organização funciona, como organização.",
+                  "correct": true
+                }
+              ],
+              "title": "Assinale a opção que completa as lacunas abaixo._____________________ corresponde à forma pela qual _____________________, agrega valor a seus clientes e cumpre sua finalidade ______________________, rotineiramente. É repetitiva, padronizada em passos, gerando o mesmo produto ou serviço várias vezes."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "José e Graciano não são stakeholders do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "José é o cliente, Camila é gerente funcional, Aline é gerente do projeto e Graciano é membro da equipe do projeto.",
+                  "correct": false
+                },
+                {
+                  "answer": "José é o patrocinador, Camila é gerente funcional, Aline é membro da equipe de projeto e Graciano é o gerente de projetos.",
+                  "correct": false
+                },
+                {
+                  "answer": "José é o cliente, Camila é a gerente do projeto, Aline é membro da equipe do projeto e Graciano é o patrocinador.",
+                  "correct": true
+                },
+                {
+                  "answer": "José é patrocinador, Camila é gerente do projeto, Aline é gerente funcional e Graciano não é stakeholder do projeto.",
+                  "correct": false
+                }
+              ],
+              "title": "JOSÉ solicitou à agência de Publicidade \"Publicitar\" uma campanha promocional para a linha de produtos de sua empresa. CAMILA, que faz parte do corpo gerencial da área de planejamento da \"Publicitar\", elaborou um projeto para esta campanha e o coordenará. Uma de suas colaboradoras, ALINE, ficará responsável por uma das etapas operacionais do projeto, uma ação promocional. GRACIANO é o diretor da área de atendimento da \"Publicitar\" e fará o contato entre a equipe de projetos e JOSÉ, provendo apoio institucional para a execução do projeto. A respeito dos stakeholders neste projeto, marque a alternativa correta:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Planejamento.",
+                  "correct": true
+                },
+                {
+                  "answer": "Execução.",
+                  "correct": false
+                },
+                {
+                  "answer": "Encerramento.",
+                  "correct": false
+                },
+                {
+                  "answer": "Iniciação.",
+                  "correct": false
+                },
+                {
+                  "answer": "Monitoramento e Controle.",
+                  "correct": false
+                }
+              ],
+              "title": "A empresa Construir LTDA está elaborando, para um projeto de construção de uma rodovia, o Plano de Gerenciamento do projeto, estabelecendo o escopo total do projeto definindo e refinando os seus objetivos e desenvolvendo o curso de ação necessário para alcançar esses objetivos. Este projeto está na fase de:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "atuação do gestor não tem prazo definido, definição de objetivos, abrangência definida, limite da duração, recursos são alocados permanentemente e criar produto ou serviço exclusivo.",
+                  "correct": false
+                },
+                {
+                  "answer": "atuação do gestor não tem prazo definido, definição de objetivos, abrangência definida, mantém os processos produtivos estabelecidos, recursos são alocados permanentemente e criar soluções novas e ainda desconhecidas.",
+                  "correct": false
+                },
+                {
+                  "answer": "definição das responsabilidades, definição de objetivos, abrangência definida, limite da duração, recursos são alocados permanentemente e criar soluções novas e ainda desconhecidas.",
+                  "correct": false
+                },
+                {
+                  "answer": "definição das responsabilidades, definição de objetivos, abrangência definida, limite da duração, recursos alocados temporariamente e criar produto ou serviço exclusivo.",
+                  "correct": true
+                },
+                {
+                  "answer": "definição das responsabilidades, definição de objetivos, abrangência definida, linha de produção gerando sempre o mesmo produto, recursos são alocados permanentemente e criar soluções novas e desconhecidas.",
+                  "correct": false
+                }
+              ],
+              "title": "Assinale a opção em que todos os itens são características básicas de um projeto:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Pesquisar planta resistente a determinado tipo de praga.",
+                  "correct": false
+                },
+                {
+                  "answer": "Plantar e colher safras de arroz.",
+                  "correct": true
+                },
+                {
+                  "answer": "Desenhar e construir um prédio comercial.",
+                  "correct": false
+                },
+                {
+                  "answer": "A criação de um novo modelo de carro.",
+                  "correct": false
+                },
+                {
+                  "answer": "Redação de um livro.",
+                  "correct": false
+                }
+              ],
+              "title": "Os processos (atividades contínuas) são planejados a longo prazo, o controle pode mudar bastante durante o tempo. Projetos têm um objetivo preciso, mensurável e resultado previsível. Assinale a opção onde há um exemplo de atividade continua."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "É temporal, ou seja, acontece durante um período de tempo com início e fim definidos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os recursos são alocados temporariamente e desmobilizados ao seu término.",
+                  "correct": false
+                },
+                {
+                  "answer": "É original, ou seja, gera um produto ou serviço único.",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerar mudança nos processos produtivos estabelecidos, ou seja, é desestabilizador da ordem.",
+                  "correct": false
+                },
+                {
+                  "answer": "Tendência de manter uma rotina previsível.",
+                  "correct": true
+                }
+              ],
+              "title": "Assinale a opção que descreve uma característica da gestão funcional que a diferencia do gerenciamento de projetos:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "I e II.",
+                  "correct": true
+                },
+                {
+                  "answer": "III e IV.",
+                  "correct": false
+                },
+                {
+                  "answer": "I e III.",
+                  "correct": false
+                },
+                {
+                  "answer": "I, II e III.",
+                  "correct": false
+                },
+                {
+                  "answer": "II e III.",
+                  "correct": false
+                }
+              ],
+              "title": "A editora Publica S.A. possui várias iniciativas estratégicas em seu Plano Estratégico, dentre as quais podemos citar: \r\n\r\nI.\"Ser uma empresa reconhecida como socialmente responsável perante seu público\".\r\n\r\nII.\"Desenvolver produtos com o máximo de economia\"\r\n\r\nIII.\"Aprimorar o conhecimento em gestão de recursos humanos de seu corpo gerencial\".\r\n\r\nIV.\"Desenvolver produtos para o público infantil\"\r\n\r\nUm dos projetos da empresa consiste em publicar, dentro de um ano, um novo romance com material reciclável. Considerando que no ambiente organizacional, o planejamento estratégico orienta e prioriza as diversas iniciativas da organização, sendo um aspecto importante na criação de um projeto, pode-se afirmar que este projeto está diretamente alinhado com as seguintes iniciativas estratégicas do Plano Estratégico da editora:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Conjunto de atividades de ciclo contínuo para serem realizadas no âmbito de uma unidade organizacional, a fim de produzir diversas vezes um mesmo produto ou serviço.",
+                  "correct": false
+                },
+                {
+                  "answer": "É um processo que consiste em um grupo de atividades controladas e coordenadas empreendidas para alcance de um objetivo conforme requisitos específicos, incluindo tempo, custo e recursos ilimitados.",
+                  "correct": false
+                },
+                {
+                  "answer": "É um empreendimento de rotina com diversas atividades repetitivas e de ciclo contínuo planejadas antecipadamente.",
+                  "correct": false
+                },
+                {
+                  "answer": "Conjunto de atividades ou medidas planejadas para serem realizadas com responsabilidade de execução definida, a fim de alcançar determinados objetivos, dentro de uma abrangência definida, num prazo de tempo limitado e com recursos específicos para criar soluções novas.",
+                  "correct": true
+                },
+                {
+                  "answer": "São atividades contínuas planejadas a longo prazo, o controle pode mudar bastante durante o tempo, sempre procurando novas oportunidades e, muitas vezes, outros resultados.",
+                  "correct": false
+                }
+              ],
+              "title": "Assinale a opção que corresponde à definição de projeto:"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Apenas o item V é falso.",
+                  "correct": true
+                },
+                {
+                  "answer": "Os itens I e II são falsos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Os itens III, IV e V são falsos",
+                  "correct": false
+                },
+                {
+                  "answer": "Todos os itens são falsos.",
+                  "correct": false
+                },
+                {
+                  "answer": "Todos os itens são verdadeiros.",
+                  "correct": false
+                }
+              ],
+              "title": "Julgue os itens abaixo e escolha a opção correta:\r\n\r\nI.Para identificar um projeto é necessário considerar a política organizacional, uma vez que a criação depende da natureza do projeto, do estilo da equipe ou da organização executora dele. O planejamento estratégico orienta e prioriza as diversas iniciativas da organização, esse é um aspecto importante na criação de um projeto.\r\n\r\nII.O planejamento estratégico orienta e prioriza as diversas iniciativas da organização, esse é um aspecto importante na criação de um projeto: o alinhamento com o plano estratégico. É importante observar a contribuição positiva dos objetivos do projeto no alcance das metas estratégicas definidas e os riscos inerentes ao projeto.\r\n\r\nIII.Partes Interessadas (stakeholders) geralmente são pessoas e organizações, como clientes, patrocinadores, organizações executoras e o público, que estejam ativamente envolvidas no projeto ou cujos interesses podem ser afetados de forma positiva ou negativa pelo projeto. \r\n\r\nIV.Algumas perguntas podem ajudar o gestor a descobrir o projeto real, dentre elas: Qual a necessidade real ou o propósito do que estamos tentando fazer?\r\n\r\nV.Para criar um projeto é necessário somente definir, antes de aprová-lo, o local onde a equipe de projeto ficará, qual será a remuneração do gerente e qual o nome do projeto."
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "Controle",
+                  "correct": false
+                },
+                {
+                  "answer": "Estratégico",
+                  "correct": true
+                },
+                {
+                  "answer": "Suporte",
+                  "correct": false
+                },
+                {
+                  "answer": "Gerencial",
+                  "correct": false
+                },
+                {
+                  "answer": "Metodológico",
+                  "correct": false
+                }
+              ],
+              "title": "O escritório de projetos de uma grande empresa de telemarketing atua identificando, priorizando e selecionando os projetos que devem ser executados na empresa. Desta forma, ele busca alinhar os projetos à estratégia corporativa. Além disso, ministra cursos e palestras em Gerenciamento de Projetos, fornecendo educação continuada aos gestores de projetos da empresa. É possível afirmar que este escritório de projetos é do tipo:"
+            }
+          ]
+        ],
+        "directions": "\r\n<p>Avaliação</p>\r\n",
+        "random_order": true,
+        "allow_repetition": true,
+        "one_question_per_page": false
+      },
+      "learningmodule_folder": "\r\n<p></p>\r\n",
+      "published_date": "27/02/2015 10:23:00",
       "scorm": {
-        "folder": "/opt/zope298/courses/video-estilo-2014-01-20/",
-        "title": "Video Estilo 2014/01/20"
+        "folder": "/opt/zope298/courses/fgp_m1_20150129/",
+        "title": "fgp_m1_20150129"
       },
       "max_number_attempt_assessment": [
-        "1"
+        "3"
       ],
-      "id": "videoaula-o-estilo-do-lider-caixa"
+      "id": "fgp-m1"
     }
   ]
 }
