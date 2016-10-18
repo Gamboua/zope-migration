@@ -185,13 +185,15 @@ index 9743597..e8ab3f1 100644
          }
  
 diff --git a/pluginfile.php b/pluginfile.php
-index 8cc0877..77e6d84 100644
+index 8cc0877..b21c549 100644
 --- a/pluginfile.php
 +++ b/pluginfile.php
-@@ -34,4 +34,6 @@ $relativepath = get_file_argument();
+@@ -34,4 +34,8 @@ $relativepath = get_file_argument();
  $forcedownload = optional_param('forcedownload', 0, PARAM_BOOL);
  $preview = optional_param('preview', null, PARAM_ALPHANUM);
  
-+$relativepath = pathinfo($relativepath, PATHINFO_EXTENSION) == 'js' ? strtolower($relativepath) : $relativepath ;
++$types = array('js', 'html', 'css', 'htm');
++
++$relativepath = in_array(pathinfo($relativepath, PATHINFO_EXTENSION), $types) ? strtolower($relativepath) : $relativepath ;
 +
  file_pluginfile($relativepath, $forcedownload, $preview);
