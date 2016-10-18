@@ -3,29 +3,29 @@
     {
       "status": "published",
       "type": "a-distancia",
-      "description": "",
-      "title": "Fundamentos do Gerenciamento de Projetos - Módulo I ",
-      "expiration_date": "31/12/2020 00:00:00",
+      "description": "Curso virtual, em formato de vídeo para conscientizar empregados sobre Responsabilidade Socioambiental e facilitar a implementação da PRSA, auxiliando na identificação, avaliação, mitigação e monitoramento dos riscos, bem como na identificação de oportunidades de negócios. O curso está de acordo com a RESOLUÇÃO BACEN Nº 4.327, DE 25 DE ABRIL DE 2014 - PRSA para as Instituições Financeiras. ",
+      "title": "Introdução a Responsabilidade Socioambiental no Sistema Financeiro",
+      "expiration_date": "30/12/2019 00:00:00",
       "activity": {
         "knowledge_area": "1|ADMINISTRACAO",
         "visibility": "None",
         "methodology": "3|A DISTANCIA",
-        "activity": "04135201|Gerenciamento de Projeto",
-        "concentration_area": "1|ADMINISTRACAO",
+        "activity": "04167200|IntroduÃ§Ã£o Ã  Responsabilidade Socioambiental no Sistema Financeiro",
+        "concentration_area": "244|RESPONSABILIDADE SOCIAL",
         "modality": "12|TREINAMENTO"
       },
       "quiz": {
         "number_of_random_questions": 10,
         "signature_manager": false,
-        "title": "Avaliação",
+        "title": "Avaliação de Aprendizagem",
         "grading_scale": [
           {
-            "grade": "Parabéns",
+            "grade": "Parabéns! Você foi aprovado!",
             "gradeinfo": "",
             "score": "70"
           },
           {
-            "grade": "Revise o conteúdo e tente novamente",
+            "grade": "Revise o conteúdo e tente novamente.",
             "gradeinfo": "",
             "score": ""
           }
@@ -36,470 +36,994 @@
             {
               "alternatives": [
                 {
-                  "answer": "Os itens I e V são falsos.",
+                  "answer": "\r\n<p>I – V; II – V; III – F; IV – F</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Todos os itens são verdadeiros.",
+                  "answer": "\r\n<p>I – F; II – F; III – V; IV – F</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Todos os itens são falsos.",
+                  "answer": "\r\n<p>I – F; II – F; III – V; IV – V</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Apenas o item V é falso.",
-                  "correct": false
-                },
-                {
-                  "answer": "Os itens II, III e IV são falsos",
+                  "answer": "\r\n<p>I – V; II – V; III – V; IV – V</p>\r\n",
                   "correct": true
                 }
               ],
-              "title": "Julgue os itens abaixo e assinale a opção correta.\r\n\r\nI. A realização de projetos ao longo do tempo demandou das organizações o aprimoramento das metodologias e da conceituação de \"Gerenciamento de projeto\".\r\n\r\nII. O aprendizado com a realização de projetos também permitiu notar que eles não apresentam características que sejam comuns a todos.\r\n\r\nIII. Projeto é um esforço permanente empreendido para criar um produto, serviço ou resultado exclusivo.\r\n\r\nIV. A realização de projetos para resolver determinados problemas se restringe a empreendimentos grandiosos.\r\n\r\nV. O crescimento da demanda por novos negócios e a competitividade do mercado faz com que as organizações busquem estruturar suas ações em forma de projetos."
+              "title": "\r\n<p align=\"left\">Uma empresa multinacional está envolvida em um escândalo porque seus fornecedores, de um país em desenvolvimento, estão sendo acusados de manter seus trabalhadores em condições análogas à de trabalho escravo. O escândalo toma proporções globais graças a ONGs que espalham o fato e fazem a denúncia usando mídias sociais. O que pode acontecer com esta empresa? Julgue se as afirmativas abaixo são verdadeiras (V) ou falsas (F):</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">I. Suas ações na bolsa podem cair de valor.<br />II. Perder mercado visto que consumidores podem se sentir impulsionados a boicotar a empresa e não comprar seus produtos.<br />III. Ter de gastar muito dinheiro investindo em ações de marketing para tentar limpar sua imagem perante o público. E isso pode levar bastante tempo para surtir efeito.<br />IV. Ser multada e processada por não respeitar as leis trabalhistas naquele país.<br />  </p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "2, 4, 1 e 3.",
+                  "answer": "\r\n<p align=\"left\">Eles têm impacto sobre o risco de crédito, ou seja, sobre a capacidade do tomador de crédito pagar suas dívidas.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "3, 1, 4 e 2.",
+                  "answer": "\r\n<p align=\"left\">Eles estão presentes quando uma instituição financeira recebe uma área contaminada como garantia.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "1, 4, 3 e 2.",
-                  "correct": false
-                },
-                {
-                  "answer": "1, 4 , 2 e 3.",
-                  "correct": false
-                },
-                {
-                  "answer": "2, 1, 4 e 3.",
+                  "answer": "\r\n<p align=\"left\" style=\"text-align: justify;\" class=\"western\"><span>Os produtos de empresas com imagem ruim do ponto de vista social e ambiental não perdem o valor de mercado, perdem o valor de sua marca. </span></p>\r\n",
                   "correct": true
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Eles existem quando uma instituição financia empresas envolvidas em escândalos sociais: trabalho em condições análogas à de escravo, trabalho infantil, corrupção, discriminação racial etc.<br /></p>\r\n",
+                  "correct": false
                 }
               ],
-              "title": "Enumere a segunda coluna de acordo com a primeira, em seguida, marque a opção que indica a seqüência correta.\r\n\r\n1.Programa\r\n2.Projetos\r\n3.Subprojetos\r\n4.Portfólio de projetos\r\n\r\n(    ) é original, visando gerar um produto ou serviço único.\r\n(    ) é um grupo de projetos gerenciados de forma coordenada, visando obter benefícios e controles que dificilmente seriam alcançados quando gerenciados isoladamente.\r\n(    ) refere-se a um conjunto de projetos ou programas e outros trabalhos, agrupados para facilitar o gerenciamento eficaz desses elementos a fim de atingir objetivos estratégicos de negócio.\r\n(    ) é um subconjunto de um projeto maior que foi dividido para facilitar o seu gerenciamento, pode ser gerenciado por um membro da equipe, empresa externa, ou uma unidade funcional."
+              "title": "\r\n<p align=\"left\">Em relação aos riscos socioambientais, escolha a alternativa ERRADA:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "Determinar que o desligamento diário das luzes e aparelhos eletrônicos ocorra a partir das 20h.",
+                  "answer": "\r\n<p>I – V; II – V; III – F; IV – F</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Utilizar o metrô em vez de táxi para deslocamentos de reuniões de trabalho.",
+                  "answer": "\r\n<p>I – F; II – F; III – V; IV – V</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Uma proposta de redução de 10% na realização de horas extras para os próximos três meses.",
+                  "answer": "\r\n<p>I – V; II – V; III – V; IV – V</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "O uso contínuo de folhas de rascunho para produzir blocos de papel.",
-                  "correct": false
-                },
-                {
-                  "answer": "Utilizar copos de vidro que já existem na copa ao invés de copos de plástico.",
+                  "answer": "\r\n<p>I – F; II – F; III – V; IV – F</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "Gonçalves, o gerente de Projetos de uma empresa de produção de softwares, precisa elaborar um projeto para diminuir os gastos em sua empresa. Auxilie Gonçalves, marcando a opção que corresponde a um projeto:"
+              "title": "\r\n<p style=\"text-align: justify;\" class=\"western\"><span><span>Existe um sistema inovador para aquecimento da água do chuveiro, que consiste em direcionar o calor perdido no resfriamento da geladeira para aquecer a água, reduzindo o consumo de energia em 70%. Esse projeto precisa de financiamento para ser colocado em produção e comercializado. A instituição financeira XX é procurada e aceita financiar o projeto. O que a instituição financeira poderá ganhar com esse negócio?<br />Julgue as afirmativas abaixo como verdadeiras (V) ou falsas (F) e escolha a melhor resposta:</span></span></p>\r\n<p style=\"text-align: justify;\" class=\"western\"><span><span><br />I. Abrir uma nova frente de negócios.<br />II. Ganhar um novo e próspero cliente, no caso de o produto dar certo e fazer sucesso.<br />III. Ajudar a cumprir a sua responsabilidade social e ambiental.<br />IV. Melhorar sua imagem perante a sociedade, como instituição financeira que atua de forma responsável e que busca incentivar práticas ecológicas inovadoras.<br /></span></span></p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "Gestão de Projetos, somente no planejamento do projeto, dos resultados produzidos.",
-                  "correct": false
-                },
-                {
-                  "answer": "Gestão funcional, nas atividades rotineiras para produzir produto ou serviço único, dos resultados produzidos.",
-                  "correct": false
-                },
-                {
-                  "answer": "Gerenciamento de Projetos, nas atividades do projeto, dos resultados produzidos.",
+                  "answer": "\r\n<p align=\"left\">Tendo em vista que o curtume é uma atividade altamente poluente, o banco deveria ter feito uma avaliação da gestão ambiental do tomador antes de aceitar o sítio industrial como garantia.</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "Gerenciamento de Projetos, somente no monitoramento e controle do projeto, dos resultados produzidos.",
+                  "answer": "\r\n<p align=\"left\">Esse banco fez tudo o que deveria fazer, problema ambiental não é problema de instituição financeira.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Gerenciamento de Projetos, somente na execução do projeto, dos resultados produzidos.",
+                  "answer": "\r\n<p>Nesse caso, o banco não vai ter qualquer prejuízo, esse passivo ambiental não reduz o preço do sítio industrial, afinal a descontaminação da área é obrigação do Estado.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Esse banco agiu corretamente, ele possui sistema de avaliação de risco socioambiental para financiamentos de grandes projetos de infraestrutura, o único tipo de operação em que há risco socioambiental.</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "_____________________ envolve a aplicação de conhecimentos, habilidades, ferramentas e técnicas _______________ a fim de atender aos seus requisitos. Além disso, visa garantir a internalização e a perenidade ____________."
+              "title": "\r\n<p align=\"left\">Em 2002, um grande banco no Brasil recebeu como garantia de um empréstimo o sítio industrial de um curtume. Tempos depois o curtume faliu e não honrou seus compromissos com o banco e este executou a dívida, recebendo o curtume em pagamento. Desse modo, a área industrial do curtume passou a fazer parte do seu patrimônio. O banco descobriu, ao tentar vender a área do curtume, que ela estava totalmente contaminada e com enorme passivo ambiental.</p>\r\n<p></p>\r\n<p align=\"left\">Em relação a esse caso, pode-se afirmar:<br /></p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "O \"Meu filho bem cuidado\" pode ser um projeto e \"Meu filho bem cuidado até os três\" e \"Meu filho bem cuidado dos três aos seis\" seus subprojetos.",
+                  "answer": "\r\n<p>Apesar de ser uma atividade ambientalmente arriscada, o analista de crédito do financiamento não pediu a licença ambiental. Quem deve pedir a licença ambiental é apenas polícia ambiental.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Essa carvoaria já pediu vários financiamentos, inclusive para comprar máquinas de cortar madeira e sempre pagou. Esse aspecto é o único que interessa a uma instituição financeira, ou seja, receber seu dinheiro de volta.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>A carvoaria vende muito carvão e devido aos baixos custos de produção, ela é muito lucrativa e, portanto, ótima cliente. O gerente da conta nunca se preocupou em avaliar a gestão socioambiental de seu cliente. Afinal, isso não é problema da instituição financeira.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>A instituição financeira deveria conhecer melhor seu cliente, uma vez que sabia ser carvoaria uma atividade econômica ambientalmente arriscada. Com o escândalo, a instituição que financiou as máquinas pode ter sua reputação prejudicada e corre o risco de não receber o financiamento, porque a empresa foi fechada e multada.</p>\r\n",
                   "correct": true
-                },
-                {
-                  "answer": "O \"Meu filho bem cuidado\" é um portfólio e \"Meu filho bem cuidado até os três\" e \"Meu filho bem cuidado dos três aos seis\" compõem outro portfólio.",
-                  "correct": false
-                },
-                {
-                  "answer": "O \"Meu filho bem cuidado\" é um subprograma e \"Meu filho bem cuidado até os três\" e  \"Meu filho bem cuidado dos três aos seis\" subprojetos.",
-                  "correct": false
-                },
-                {
-                  "answer": "O \"Meu filho bem cuidado\" é com certeza um programa e \"Meu filho bem cuidado até os três\" e \"Meu filho bem cuidado dos três aos seis\" seus subprogramas.",
-                  "correct": false
-                },
-                {
-                  "answer": "O \"Meu filho bem cuidado\" é um projeto e \"Meu filho bem cuidado até os três\" é um programa e \"Meu filho bem cuidado dos três aos seis\" um subprojeto.",
-                  "correct": false
                 }
               ],
-              "title": "Para a ONG em que Ademir é voluntário, foi disponibilizada verba para atender mães de comunidades carentes, que trabalham e não têm com quem deixar seus filhos pequenos. Ademir, que também é Gerente de Projetos, lançou o \"Meu filho bem cuidado\", que tem como objetivo prover creches nessas comunidades  no prazo de três meses. Como foi identificada a necessidade de dividir o \"Meu filho bem cuidado\", foram criados o \"Meu filho bem cuidado até os três\", que atende crianças de até três anos de idade e o \"Meu filho bem cuidado dos quatro aos seis\", que atende crianças de até seis anos. Tendo como base este texto de apoio, marque a alternativa correta:"
+              "title": "\r\n<p>Com o rosto e os braços pretos de pó de carvão, sem máscaras e luvas de proteção, uma moça trabalha em uma carvoaria, junto com outros quatro companheiros, dos quais três são menores. Além das condições análogas à de escravo, trabalho infantil, a carvoaria pratica desmatamento ilegal, provocando sérios danos ambientais. Qual a relação desse fato com a instituição financeira parceira da carvoaria?<br /></p>\r\n<p>Escolha a questão correta.</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "Administração do restaurante temático.",
-                  "correct": false
-                },
-                {
-                  "answer": "Fabricação em série de um novo carro comercial.",
-                  "correct": false
-                },
-                {
-                  "answer": "Manter e operar o sistema elétrico e de automação de um prédio comercial.",
-                  "correct": false
-                },
-                {
-                  "answer": "Plantar e colher as safras.",
-                  "correct": false
-                },
-                {
-                  "answer": "Desenhar e construir um prédio comercial.",
+                  "answer": "\r\n<p>Continuar liberando as parcelas do financiamento independentemente do cumprimento dos requisitos ambientais legais.</p>\r\n",
                   "correct": true
+                },
+                {
+                  "answer": "\r\n<p>Checar se o tomador de crédito está na “Lista Suja do Trabalho Escravo” divulgada pelo Ministério do Trabalho e Emprego.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Verificar se o projeto financiado tem licenciamento ambiental.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Checar se os bens oferecidos em garantia de uma operação de crédito possuem o tipo de passivo ambiental.</p>\r\n",
+                  "correct": false
                 }
               ],
-              "title": "Projetos têm um objetivo preciso, mensurável e resultado previsível. Os processos (atividades contínuas) são planejados a longo prazo, o controle pode mudar bastante durante o tempo. Assinale onde há um exemplo de projeto."
+              "title": "\r\n<p>Assinale a alternativa que NÃO faz parte de um sistema de gestão de risco socioambiental:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "o Plano de Gerenciamento do Tempo.",
+                  "answer": "\r\n<p>I – V; II – V; III – F; IV – F</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "o Plano de Gerenciamento de Riscos.",
+                  "answer": "\r\n<p>I – F; II – F; III – V; IV – F</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"center\">I – V; II – V; III – V; IV – V</p>\r\n<p align=\"center\"></p>\r\n<p align=\"left\"></p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "o Plano de Gerenciamento das Aquisições.",
-                  "correct": false
-                },
-                {
-                  "answer": "a EAP.",
-                  "correct": false
-                },
-                {
-                  "answer": "o Plano de Gerenciamento de RH.",
+                  "answer": "\r\n<p>I – F; II – F; III – V; IV – V</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "Florismar gerencia um projeto governamental e está elaborando um documento que demonstra como se darão os processos relativos ao gerenciamento das ameaças e oportunidades que podem ocorrer e afetar o desenvolvimento do projeto. O documento que Florismar está elaborando é:"
+              "title": "\r\n<p>As instituições financeiras são parceiras das empresas e, portanto, dependem do desempenho financeiro delas. Quanto ao risco socioambiental da empresa julgue as afirmativas abaixo como verdadeira (V) ou falsa (F) e escolha a melhor alternativa de resposta:</p>\r\n<p></p>\r\n<p>I. Compromete o valor dos seus ativos financeiros.<br />II. Reduz sua capacidade de pagamento.<br />III. Tem impacto sobre a estratégia de negócios.<br />IV. Prejudica sua reputação perante a sociedade.<br /></p>\r\n<p></p>\r\n<p></p>\r\n"
+            }
+          ],
+          [
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>As leis ambientais criam responsabilidades apenas para reparação do dano ao meio ambiente, mas não existe a figura do crime ambiental.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Problemas ambientais não afetam a sociedade e as empresas, afeta apenas a natureza.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Danos ao meio ambiente podem se tornar risco financeiro para as empresas.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>Esse caso demonstra que questões econômicas estão dissociadas das ambientais, estas devem ser tratadas apenas nas esferas públicas, não atinge a gestão dos negócios.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Há alguns anos, uma indústria de remédios provocou um grande desastre ambiental, quando um tanque contendo efluentes contaminados se rompeu, gerando um vazamento para um rio próximo. Como consequência, milhares de peixes morreram e várias cidades ficaram sem água. A empresa foi multada em milhares de dólares e gastou outros milhões com indenização às vítimas. Em relação a esse caso, escolha a alternativa correta:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "executar o Plano de Projeto, realizando tarefas, atividades e pacotes de trabalho.",
+                  "answer": "\r\n<p>Alternativas I e II corretas.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Alternativas I errada.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Alternativas II errada.</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "atuar como integrador de todas as partes do projeto.",
-                  "correct": false
-                },
-                {
-                  "answer": "coordenar a elaboração do Plano de projeto.",
-                  "correct": false
-                },
-                {
-                  "answer": "gerenciar o processo de encerramento do projeto.",
-                  "correct": false
-                },
-                {
-                  "answer": "assegurar que a execução e modificações do projeto sejam desenvolvidas conforme planejadas.",
+                  "answer": "\r\n<p>Alternativas III e IV erradas.</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "Assinale a única opção que não expressa um papel atribuído ao Gerente de projetos:"
+              "title": "\r\n<p>Sobre o Princípio do Poluidor Pagador.</p>\r\n<p><br />I. Foi adotado pela legislação brasileira há mais de 30 anos por meio da Lei de Política Nacional do Meio Ambiente.<br />II. É uma tentativa de considerar os danos ambientais como externalidades, ou seja, como consequências alheias ao poluidor.<br />III. O poluidor é responsável pela restauração da situação ambiental degradada.<br />IV. O poluidor responde por suas ações ou omissões que prejudiquem o meio ambiente.</p>\r\n<p><br />Analise as assertivas acima e escolha a melhor resposta abaixo:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "Gestão de projetos, a organização funciona, realizando somente projetos.",
+                  "answer": "\r\n<p>Esse caso demonstra que as questões ambientais estão totalmente dissociadas das econômicas.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Gerenciamento de projetos, a organização somente planeja projetos, como organização.",
+                  "answer": "\r\n<p>As leis ambientais não consideram as empresas responsáveis por eventuais danos ao meio ambiente.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Gestão Funcional, a organização funciona, como escritório de projetos.",
-                  "correct": false
-                },
-                {
-                  "answer": "Gerenciamento de projetos, a organização funciona, como organização.",
-                  "correct": false
-                },
-                {
-                  "answer": "Gestão Funcional, a organização funciona, como organização.",
+                  "answer": "\r\n<p>Riscos de danos ao meio ambiente são riscos financeiros para as empresas.</p>\r\n",
                   "correct": true
+                },
+                {
+                  "answer": "\r\n<p>Problemas ambientais não afetam a sociedade e as empresas, afetam apenas a natureza.</p>\r\n",
+                  "correct": false
                 }
               ],
-              "title": "Assinale a opção que completa as lacunas abaixo._____________________ corresponde à forma pela qual _____________________, agrega valor a seus clientes e cumpre sua finalidade ______________________, rotineiramente. É repetitiva, padronizada em passos, gerando o mesmo produto ou serviço várias vezes."
+              "title": "\r\n<p>Em Minas Gerais, um depósito de produtos químicos da fábrica de papel Indústria Cataguazes se rompeu causando aquele que foi considerado um dos maiores desastres ecológicos ocorridos no país, do qual o ecossistema precisaria de aproximadamente 15 anos para recuperar-se. O desastre afetou aproximadamente 1 milhão de pessoas, mais de meio milhão de pessoas ficaram sem abastecimento de água por vários dias e houve grandes prejuízos para os pescadores locais. <br /></p>\r\n<p>Devido a esse desastre, a fábrica foi fechada e recebeu uma multa de aproximadamente 15 milhões de dólares e o diretor administrativo e o sócio-gerente chegaram a ser presos. Em relação a esse caso, escolha a alternativa correta:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "José e Graciano não são stakeholders do projeto.",
+                  "answer": "\r\n<p>O conceito aborda questões de políticas econômicas de curto e médio prazo, seguindo a linha do economista John Maynard Keynes que disse a famosa frase: “a longo prazo todos estaremos mortos“.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "José é o cliente, Camila é gerente funcional, Aline é gerente do projeto e Graciano é membro da equipe do projeto.",
+                  "answer": "\r\n<p>O conceito aborda apenas a sustentabilidade econômica das empresas, que devem ser rentáveis em longo prazo.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "José é o patrocinador, Camila é gerente funcional, Aline é membro da equipe de projeto e Graciano é o gerente de projetos.",
+                  "answer": "\r\n<p>O conceito foi desenvolvido no início da revolução industrial quando se percebeu que o novo processo de produção trouxe o uso intensivo de recursos naturais.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "José é o cliente, Camila é a gerente do projeto, Aline é membro da equipe do projeto e Graciano é o patrocinador.",
+                  "answer": "\r\n<p>O conceito de Desenvolvimento Sustentável, apresentado no relatório “Nosso Futuro Comum”, contempla a sustentabilidade ambiental, social e econômica para as presentes e futuras gerações.</p>\r\n",
                   "correct": true
-                },
-                {
-                  "answer": "José é patrocinador, Camila é gerente do projeto, Aline é gerente funcional e Graciano não é stakeholder do projeto.",
-                  "correct": false
                 }
               ],
-              "title": "JOSÉ solicitou à agência de Publicidade \"Publicitar\" uma campanha promocional para a linha de produtos de sua empresa. CAMILA, que faz parte do corpo gerencial da área de planejamento da \"Publicitar\", elaborou um projeto para esta campanha e o coordenará. Uma de suas colaboradoras, ALINE, ficará responsável por uma das etapas operacionais do projeto, uma ação promocional. GRACIANO é o diretor da área de atendimento da \"Publicitar\" e fará o contato entre a equipe de projetos e JOSÉ, provendo apoio institucional para a execução do projeto. A respeito dos stakeholders neste projeto, marque a alternativa correta:"
+              "title": "\r\n<p>Sobre o conceito de Desenvolvimento Sustentável, pode-se afirmar:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "Planejamento.",
+                  "answer": "\r\n<p>Foi realizada no Rio de Janeiro, conhecida como Rio+20, porque ocorreu vinte anos depois da Conferência de Estocolmo, primeira Conferência das Nações Unidas para o Meio Ambiente.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>A erradicação da pobreza foi apresentada como condição para alcançar o desenvolvimento sustentável.</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "Execução.",
+                  "answer": "\r\n<p>Dessa conferência saiu o Relatório “Nosso Futuro Comum”, o primeiro a abordar o conceito de Desenvolvimento Sustentável.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Encerramento.",
-                  "correct": false
-                },
-                {
-                  "answer": "Iniciação.",
-                  "correct": false
-                },
-                {
-                  "answer": "Monitoramento e Controle.",
+                  "answer": "\r\n<p>Ocorreu em Johannesburgo, cidade da África do Sul, e não houve nenhuma contribuição significativa.</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "A empresa Construir LTDA está elaborando, para um projeto de construção de uma rodovia, o Plano de Gerenciamento do projeto, estabelecendo o escopo total do projeto definindo e refinando os seus objetivos e desenvolvendo o curso de ação necessário para alcançar esses objetivos. Este projeto está na fase de:"
+              "title": "\r\n<p>Em relação à Conferência das Nações Unidas sobre Desenvolvimento Sustentável, de 2012, pode-se afirmar:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "atuação do gestor não tem prazo definido, definição de objetivos, abrangência definida, limite da duração, recursos são alocados permanentemente e criar produto ou serviço exclusivo.",
-                  "correct": false
-                },
-                {
-                  "answer": "atuação do gestor não tem prazo definido, definição de objetivos, abrangência definida, mantém os processos produtivos estabelecidos, recursos são alocados permanentemente e criar soluções novas e ainda desconhecidas.",
-                  "correct": false
-                },
-                {
-                  "answer": "definição das responsabilidades, definição de objetivos, abrangência definida, limite da duração, recursos são alocados permanentemente e criar soluções novas e ainda desconhecidas.",
-                  "correct": false
-                },
-                {
-                  "answer": "definição das responsabilidades, definição de objetivos, abrangência definida, limite da duração, recursos alocados temporariamente e criar produto ou serviço exclusivo.",
+                  "answer": "\r\n<p>Empresas devem perseguir um desenvolvimento que gere ganhos sociais e econômicos com o mínimo de dano ao meio ambiente.</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "definição das responsabilidades, definição de objetivos, abrangência definida, linha de produção gerando sempre o mesmo produto, recursos são alocados permanentemente e criar soluções novas e desconhecidas.",
+                  "answer": "\r\n<p>Empresas devem perseguir modelos de negócios que foquem essencialmente os interesses financeiros de seus acionistas.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Empresas devem tomar suas decisões baseadas considerando, basicamente, a ideia do famoso economista americano Milton Friedman que defendia que o negócio do negócio é o negócio.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Empresas devem considerar quaisquer danos sociais e/ou ambientais causados por suas operações como externalidades negativas, portanto, sem contabilização em seus custos.</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "Assinale a opção em que todos os itens são características básicas de um projeto:"
+              "title": "\r\n<p>A Comissão de Brundtland, no Relatório Nosso Futuro Comum, definiu Desenvolvimento Sustentável como sendo “aquele que atende às necessidades do presente, sem comprometer a capacidade das futuras gerações suprir suas próprias necessidades”. Como este conceito pode ser aplicado ao mundo corporativo?</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "Pesquisar planta resistente a determinado tipo de praga.",
-                  "correct": false
-                },
-                {
-                  "answer": "Plantar e colher safras de arroz.",
+                  "answer": "\r\n<p>Itens I, II, III e IV estão corretos.</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "Desenhar e construir um prédio comercial.",
+                  "answer": "\r\n<p>Somente itens I e II estão corretos.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "A criação de um novo modelo de carro.",
+                  "answer": "\r\n<p>Somente itens II, III e IV estão corretos.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Redação de um livro.",
+                  "answer": "\r\n<p>Somente Item IV está correto.</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "Os processos (atividades contínuas) são planejados a longo prazo, o controle pode mudar bastante durante o tempo. Projetos têm um objetivo preciso, mensurável e resultado previsível. Assinale a opção onde há um exemplo de atividade continua."
+              "title": "\r\n<p>Nas últimas décadas, a sociedade vem se organizando para discutir sobre como alcançar o desenvolvimento sustentável.</p>\r\n<p> <br />I. A publicação do livro Primavera Silenciosa, de Rachel Carson, que chama a atenção para o efeito nocivo dos pesticidas para o meio ambiente.<br />II. A publicação do relatório “Limites do Crescimento”, em 1972, que traz um modelo tentando mostrar as consequências do rápido crescimento econômico e populacional frente aos recursos naturais limitados.<br />III. O relatório Nosso Futuro Comum, o pioneiro na definição de Desenvolvimento Sustentável.<br />IV. A Primeira Conferência das Nações Unidas para o Meio Ambiente, na Suécia, em 1972, conhecida como Conferência de Estocolmo.</p>\r\n<p><br />Analise as assertivas acima e marque a resposta correta quanto aos marcos do processo de desenvolvimento sustentável.</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "É temporal, ou seja, acontece durante um período de tempo com início e fim definidos.",
-                  "correct": false
-                },
-                {
-                  "answer": "Os recursos são alocados temporariamente e desmobilizados ao seu término.",
-                  "correct": false
-                },
-                {
-                  "answer": "É original, ou seja, gera um produto ou serviço único.",
-                  "correct": false
-                },
-                {
-                  "answer": "Gerar mudança nos processos produtivos estabelecidos, ou seja, é desestabilizador da ordem.",
-                  "correct": false
-                },
-                {
-                  "answer": "Tendência de manter uma rotina previsível.",
+                  "answer": "\r\n<p>A inclusão de temas como direitos humanos, crescimento populacional, direitos das mulheres e crianças e assentamentos humanos.</p>\r\n",
                   "correct": true
+                },
+                {
+                  "answer": "\r\n<p>O foco no crescimento econômico que, depois de atingido, automaticamente traz desenvolvimento social e ambiental.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>A inclusão das questões ambientais na agenda, já que inicialmente somente as questões sociais estavam sendo discutidas.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>O consenso de que a sociedade civil não deveria fazer parte das discussões dos movimentos relacionados à sustentabilidade.</p>\r\n",
+                  "correct": false
                 }
               ],
-              "title": "Assinale a opção que descreve uma característica da gestão funcional que a diferencia do gerenciamento de projetos:"
+              "title": "\r\n<p>Em 1992, aconteceu a segunda grande conferência da ONU no Rio de Janeiro, conhecida como Rio-92. Essa conferência trouxe alguns avanços nas discussões sobre Desenvolvimento Sustentável, entre elas:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "I e II.",
+                  "answer": "\r\n<p>IV e V estão errados.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>II está errado.</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "III e IV.",
+                  "answer": "\r\n<p>I e II estão errados.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "I e III.",
-                  "correct": false
-                },
-                {
-                  "answer": "I, II e III.",
-                  "correct": false
-                },
-                {
-                  "answer": "II e III.",
+                  "answer": "\r\n<p>IV está errado.</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "A editora Publica S.A. possui várias iniciativas estratégicas em seu Plano Estratégico, dentre as quais podemos citar: \r\n\r\nI.\"Ser uma empresa reconhecida como socialmente responsável perante seu público\".\r\n\r\nII.\"Desenvolver produtos com o máximo de economia\"\r\n\r\nIII.\"Aprimorar o conhecimento em gestão de recursos humanos de seu corpo gerencial\".\r\n\r\nIV.\"Desenvolver produtos para o público infantil\"\r\n\r\nUm dos projetos da empresa consiste em publicar, dentro de um ano, um novo romance com material reciclável. Considerando que no ambiente organizacional, o planejamento estratégico orienta e prioriza as diversas iniciativas da organização, sendo um aspecto importante na criação de um projeto, pode-se afirmar que este projeto está diretamente alinhado com as seguintes iniciativas estratégicas do Plano Estratégico da editora:"
+              "title": "\r\n<p>O período pós-Segunda Guerra Mundial foi marcado pela presença do Estado traçando os rumos para o crescimento da economia. No fim dos anos 1960 e início de 1970 ocorreram muitas mudanças na sociedade.</p>\r\n<p><br />I. O contínuo crescimento econômico, com o uso intensivo dos recursos naturais, trouxe sérios danos ao meio ambiente.<br />II. Os danos causados ao meio ambiente e a exclusão social foram ignorados pelas ONGs, uma vez que é um mal necessário para gerar o crescimento econômico. <br />III. O modelo econômico de contínuo crescimento econômico não trouxe apenas vantagens, trouxe também exclusão social, além dos problemas ambientais.<br />IV. A sociedade civil passou a se organizar por meio das ONGs para protestar contra os problemas ambientais, esquecidos pelos governos e gerados pelas atividades humanas.<br />V. As pressões da sociedade sobre os governos e sobre as empresas que causam danos ao meio ambiente resultou em leis ambientais para regular o uso dos recursos naturais.</p>\r\n<p><br />Analise os itens acima e escolha uma das respostas:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "Conjunto de atividades de ciclo contínuo para serem realizadas no âmbito de uma unidade organizacional, a fim de produzir diversas vezes um mesmo produto ou serviço.",
+                  "answer": "\r\n<p>O foco das discussões foi no crescimento econômico que, no longo prazo, traz automaticamente inclusão social e preservação ambiental.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "É um processo que consiste em um grupo de atividades controladas e coordenadas empreendidas para alcance de um objetivo conforme requisitos específicos, incluindo tempo, custo e recursos ilimitados.",
+                  "answer": "\r\n<p>O foco das discussões foi nos problemas ambientais e menos nos sociais para evitar grandes manifestações dos moradores das favelas.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "É um empreendimento de rotina com diversas atividades repetitivas e de ciclo contínuo planejadas antecipadamente.",
-                  "correct": false
-                },
-                {
-                  "answer": "Conjunto de atividades ou medidas planejadas para serem realizadas com responsabilidade de execução definida, a fim de alcançar determinados objetivos, dentro de uma abrangência definida, num prazo de tempo limitado e com recursos específicos para criar soluções novas.",
+                  "answer": "\r\n<p>A conclusão de que as Mudanças Climáticas são um tema muito importante, que impacta diretamente a economia.</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "São atividades contínuas planejadas a longo prazo, o controle pode mudar bastante durante o tempo, sempre procurando novas oportunidades e, muitas vezes, outros resultados.",
+                  "answer": "\r\n<p>A exclusão de temas como direitos humanos, crescimento populacional, direitos das mulheres e crianças e assentamentos humanos.</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "Assinale a opção que corresponde à definição de projeto:"
+              "title": "\r\n<p>Em 1992, aconteceu a segunda grande conferência da ONU no Rio de Janeiro, conhecida como Rio-92. Essa conferência trouxe alguns avanços nas discussões sobre Desenvolvimento Sustentável. Entre eles:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "Apenas o item V é falso.",
+                  "answer": "\r\n<p>São organizações que surgiram nos últimos anos com objetivo de provocar grande instabilidade política e financeira para os Estados.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>A sociedade civil se organizou, por meio das ONGs, nos últimos anos, para se posicionar politicamente contra os danos sociais e ambientais causados por ações e omissões das empresas e dos próprios governos.</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "Os itens I e II são falsos.",
+                  "answer": "\r\n<p>São organizações voltadas exclusivamente à filantropia, ou seja, ajudam na arrecadação e distribuição de recursos para famílias carentes.<br /></p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Os itens III, IV e V são falsos",
-                  "correct": false
-                },
-                {
-                  "answer": "Todos os itens são falsos.",
-                  "correct": false
-                },
-                {
-                  "answer": "Todos os itens são verdadeiros.",
+                  "answer": "\r\n<p>As ONGs surgiram a partir dos anos 1950, no pós-Segunda Guerra Mundial, com o objetivo de auxiliar as empresas a aumentarem seus lucros.</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "Julgue os itens abaixo e escolha a opção correta:\r\n\r\nI.Para identificar um projeto é necessário considerar a política organizacional, uma vez que a criação depende da natureza do projeto, do estilo da equipe ou da organização executora dele. O planejamento estratégico orienta e prioriza as diversas iniciativas da organização, esse é um aspecto importante na criação de um projeto.\r\n\r\nII.O planejamento estratégico orienta e prioriza as diversas iniciativas da organização, esse é um aspecto importante na criação de um projeto: o alinhamento com o plano estratégico. É importante observar a contribuição positiva dos objetivos do projeto no alcance das metas estratégicas definidas e os riscos inerentes ao projeto.\r\n\r\nIII.Partes Interessadas (stakeholders) geralmente são pessoas e organizações, como clientes, patrocinadores, organizações executoras e o público, que estejam ativamente envolvidas no projeto ou cujos interesses podem ser afetados de forma positiva ou negativa pelo projeto. \r\n\r\nIV.Algumas perguntas podem ajudar o gestor a descobrir o projeto real, dentre elas: Qual a necessidade real ou o propósito do que estamos tentando fazer?\r\n\r\nV.Para criar um projeto é necessário somente definir, antes de aprová-lo, o local onde a equipe de projeto ficará, qual será a remuneração do gerente e qual o nome do projeto."
+              "title": "\r\n<p>Sobre o papel da sociedade civil organizada, por meio das ONGs, pode-se afirmar:</p>\r\n"
             },
             {
               "alternatives": [
                 {
-                  "answer": "Controle",
+                  "answer": "\r\n<p>Tenta mostrar que o crescimento econômico pode ser contínuo, porque os recursos naturais são infinitos.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Estratégico",
+                  "answer": "\r\n<p>Foi um relatório sem qualquer importância para a consciência dos problemas ambientais, uma vez que foi escrito há muitos anos.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Foi publicado em 2012, na última Conferência das Nações Unidas para o Desenvolvimento Sustentável, e trouxe, pela primeira vez, o conceito de desenvolvimento sustentável.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Traz um modelo tentando mostrar as consequências do rápido crescimento econômico e populacional frente aos recursos naturais limitados.</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Em relação ao relatório “Limites do Crescimento”, pode-se afirmar:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>Empresas devem gerir seus negócios visando lucro, mas ao mesmo tempo gerando inclusão social e com o mínimo de dano ao meio ambiente.</p>\r\n",
                   "correct": true
                 },
                 {
-                  "answer": "Suporte",
+                  "answer": "\r\n<p>Empresas devem considerar quaisquer danos sociais e/ou ambientais causados por suas operações como externalidades negativas, fora do seu sistema de custos.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Gerencial",
+                  "answer": "\r\n<p>Empresas devem perseguir modelos de negócios que foquem resultados imediatos, gerando lucro para dividendos para os acionistas e bônus atrativos para os executivos.</p>\r\n",
                   "correct": false
                 },
                 {
-                  "answer": "Metodológico",
+                  "answer": "\r\n<p>Empresas devem buscar obter o máximo de lucro com o mínimo de custo sem se preocupar com questões externas como danos ambientais ou responsabilidade social.</p>\r\n",
                   "correct": false
                 }
               ],
-              "title": "O escritório de projetos de uma grande empresa de telemarketing atua identificando, priorizando e selecionando os projetos que devem ser executados na empresa. Desta forma, ele busca alinhar os projetos à estratégia corporativa. Além disso, ministra cursos e palestras em Gerenciamento de Projetos, fornecendo educação continuada aos gestores de projetos da empresa. É possível afirmar que este escritório de projetos é do tipo:"
+              "title": "\r\n<p>Sobre a responsabilidade socioambiental das empresas, é correto afirmar:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>É o princípio em que todos aqueles que se sentem prejudicados pela poluição se tornam responsáveis pela restauração da situação ambiental degradada.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>É uma tentativa de externalizar os danos provocados ao meio ambiente, compartilhando os custos com toda a sociedade.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>É o princípio em que o governo é responsável pela restauração ambiental provocada por qualquer ação ou omissão de terceiros, visto que a questão ambiental é um problema da sociedade.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>É o princípio em que o poluidor responde por suas ações e omissões que prejudiquem o meio ambiente.</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>O que é o Princípio do Poluidor Pagador?</p>\r\n"
+            }
+          ],
+          [
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">É responsabilidade exclusiva do Banco Central e demais órgãos do governo.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>É a responsabilidade social da instituição financeira ofertar produtos e serviços financeiros adequados às necessidades da população, contribuindo para sua qualidade de vida.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Significa incluir em seu corpo funcional pessoas de diferentes etnias e grupos sociais.<br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Trata-se de um ato de filantropia por parte da instituição financeira.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p style=\"text-align: justify;\"><span><span><span> </span></span></span><span>Sobre inclusão financeira é correto afirmar:</span></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>I – F; II – V; III – F; IV – V</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>I – V; II – V; III – F; IV – V</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>I – V; II – V; III – V; IV – V</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>I – F; II – F; III – F; IV – F</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p align=\"left\" style=\"text-align: justify;\" class=\"western\"><span>       Há cerca de 10 anos uma empresa brasileira de cosméticos, que trabalha dentro do conceito de sustentabilidade social e ambiental, solicitou empréstimo ao Banco XX para construção de um novo sítio industrial adotando padrões de sustentabilidade ambiental. O banco ao analisar a proposta considerou que o projeto era muito caro e que a empresa não teria retorno financeiro suficiente para honrar os compromissos apostando no seu diferencial de sustentabilidade e recusou o pedido de financiamento.</span></p>\r\n<p style=\"text-align: justify;\"><span>O Banco YY, que já possuía Política Socioambiental, decidiu financiar a empresa. A fábrica foi construída, a empresa ficou muito bem no mercado, abriu seu capital e se tornou grande parceira do banco financiador. Em relação a esse caso julgue as afirmativas abaixo como Verdadeiras (V) ou Falsas (F):</span></p>\r\n<p style=\"text-align: justify;\"><span></span></p>\r\n<p style=\"text-align: justify;\" class=\"western\"><span><span><span>                 </span>I.<span>          </span></span></span><span>O Banco XX perdeu esse bom negócio por desconhecer que questões ambientais podem se tornar oportunidades de negócio.</span></p>\r\n<p style=\"text-align: justify;\" class=\"western\"><span><span><span>               </span>II.<span>          </span></span></span><span>O Banco YY aproveitou a oportunidade de negócio porque sabia que questões ambientais e sociais fazem parte dos negócios de uma instituição financeira.</span></p>\r\n<p style=\"text-align: justify;\" class=\"western\"><span><span><span>              </span>III.<span>          </span></span></span><span>O Banco XX agiu corretamente uma vez que o projeto era muito caro e de longo prazo, e já existem muitas empresas de cosméticos no mercado, além do que os consumidores não se importam com questões ambientais.</span></p>\r\n<p style=\"text-align: justify;\" class=\"western\"><span><span><span>              </span>IV.<span>          </span></span></span><span>O Banco XX subestimou o quanto sustentabilidade socioambiental agrega valor aos produtos.</span></p>\r\n<p></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">Esses bancos decidiram não financiar o projeto porque perceberam que os eventuais ganhos com o financiamento do projeto não valem os riscos de imagem envolvidos.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Esses bancos demonstraram estar cientes do risco reputacional envolvido em financiar projetos de alto risco ambiental.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Esse episódio demonstra que a sociedade civil está atenta e pressionando as instituições financeiras a serem mais social e ambientalmente responsáveis.<br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Esse episódio demonstra que questões ambientais não impactam os negócios das empresas e esses bancos apenas perderam a oportunidade de ganhar dinheiro.<br /></p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p style=\"text-align: justify;\" class=\"western\"><span>       Em 2014, quatro grandes bancos globais, líderes em investimentos na indústria do carvão, decidiram não financiar a expansão do Porto Abbot Point na região da Grande Barreira de Corais na Austrália. Esses bancos alegam que os riscos ambientais associados são muito altos. Esse projeto vem sendo acompanhado de perto por ONGs ambientalistas que estão divulgando publicamente os nomes das instituições financeiras envolvidas. Com relação a isso, uma das afirmativas abaixo é INCORRETA: </span></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">Operações de crédito com adicionalidade ambiental como os financiamentos de energia eólica estão limitadas aos bancos de atacado como é o caso do Scotia Capital.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">O apoio que o Scotia Capital vem oferecendo às energias renováveis está na contramão do desenvolvimento tecnológico, uma vez que energias fósseis, como carvão, são mais eficientes.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">O financiamento realizado pelo Scotia Capital é um bom exemplo de ação a ser adotada em uma Política de Responsabilidade Socioambiental que gera retorno financeiro para a instituição financeira.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">O Scotia Capital é um banco de atacado, trabalha com grandes investimentos e por isso pode fazer esse tipo de operação ambientalmente sustentável. <br /></p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p style=\"text-align: justify;\"><span>       Scotia Capital, que representa o banco de atacado do Grupo Scotiabank, apoia ativamente o desenvolvimento das energias renováveis, por meio do financiamento de energia eólica, hídrica, solar, geotérmica e outros projetos de energia limpa. Em 2009, Scotia Capital participou de uma operação de 202 milhões de dólares para financiar três parques eólicos localizados no Texas, Nebraska e Novo México, com capacidade de gerar 305 Mega Watts. Sobre essa operação de crédito é CORRETO afirmar:</span></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">O SGRA é um sistema adotado apenas nas indústrias altamente poluidoras, como química, papel e celulose e outras, para a indústria financeira, não cabe um SGRA.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">A adoção de um SGRA é algo a ser adotado no Brasil muito a longo prazo, tendo em vista que nosso país não possui problemas ambientais. <br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">O SGRA em uma instituição financeira deve ser adotado apenas em suas operações financeiras, como, por exemplo, nas operações de crédito porque é importante para a mitigação do risco socioambiental nessas operações.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">O SGRA deve ser adotado nas instituições financeiras como um bom processo de gestão em diversas áreas: na área operacional para otimizar o consumo de recursos – água, energia, papel, gerando redução das despesas; nas operações financeiras, como nas operações de crédito, mitigando os riscos e reduzindo as provisões de crédito; no relacionamento com os fornecedores, mitigando os riscos e reduzindo os passivos contingentes; e em outras operações, como por exemplo, nos investimentos.</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p align=\"left\">Assinale a alternativa correta sobre Sistema de Gestão de Risco Socioambiental (SGRA) nas instituições financeiras:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>A construtora que forneceu a mão de obra para reforma da escola também terá prejuízo porque vai pagar seus funcionários pelo serviço prestado.<br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>O programa de voluntariado faz parte da Política Socioambiental da instituição financeira, o que gerará valor para ela ao melhorar sua imagem perante a sociedade, especialmente, perante a comunidade local.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>O programa de voluntariado só traz custo para a instituição financeira porque as horas gastas com o trabalho voluntário são pagas como horas trabalhadas na instituição.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Essa é uma ação de filantropia dos funcionários da instituição financeira e o único benefício é deixá-los mais felizes.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>A instituição financeira XX possui um programa de voluntariado no qual seus funcionários podem dispender algumas horas do mês para ajudar em projetos sociais. Esse grupo atua em um projeto de uma escola pública local, que necessita urgentemente ser reformada uma vez que seus banheiros, salas de aula e refeitório estão em condições precárias. Para solucionar o problema, o grupo de funcionários contata uma grande construtora, que com recursos da instituição financeira XX vão reformar a escola. <br /></p>\r\n<p>Sobre esse caso, é correto afirmar:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>É responsabilidade exclusiva do Banco Central e demais órgãos do governo.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Trata-se de um ato de filantropia por parte da instituição financeira.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Significa incluir em seu corpo funcional pessoas de diferentes etnias e grupos sociais.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>É a responsabilidade social da instituição financeira de ofertar produtos e serviços financeiros adequados às necessidades da população, contribuindo para sua qualidade de vida.</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Sobre inclusão financeira, pode-se afirmar:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\"> – V; II – F; III- V; IV - F</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">I – F; II – F; III – F; IV – V</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">I – V; II – V; III – V; IV – V</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">I – F; II – V; III – F; IV – F</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p align=\"left\">O Yes Bank, um banco comercial da Índia, forneceu financiamentos de sistema de irrigação com gotejamento, mais eficiente na utilização de água (recurso cada vez mais escasso), para 25 mil famílias de produtores rurais, num montante de 15 milhões de Euros, uma média de 594 Euros para cada família. Sobre essa prática desenvolvida pelo Yes Bank, analise as afirmativas abaixo como Verdadeiras (V) ou Falsas (F):</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">I. O banco criou uma oportunidade de negócio sustentável.<br />II. Com esse financiamento, o banco reduziu seu risco de crédito ao aumentar as chances de sucesso de produção rural.<br />III. O financiamento gerou ganhos sociais importantes ao aumentar as chances de aumento de renda dos produtos rurais.<br />IV. O financiamento ajudou o meio ambiente porque o novo sistema reduz o uso de água na irrigação.<br /></p>\r\n"
+            }
+          ],
+          [
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">O CMN tem regulado apenas os aspectos ambientais e não há preocupação com o Social.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">É possível que no futuro o CMN e o Banco Central do Brasil publiquem normas regulando os aspectos socioambientais, como já acontece em outros países, mas até o momento as normas estão limitadas à legislação federal e estadual e às normas do CONAMA. <br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">As resoluções com preocupação ambiental tentam apenas coibir danos ambientais estabelecendo regras para o uso do crédito rural. O CMN não tem publicado normas incentivando atividades ambientalmente sustentáveis.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">A Resolução 3545, de 2008, é um exemplo de regulação com o objetivo de reduzir danos ambientais.<br /></p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p style=\"text-align: justify;\" class=\"western\"><span><span><span> </span></span></span><span>Sobre a regulação socioambiental, pode-se afirmar:</span></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">I – F; II – F; III – F; IV – V; V - F</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">I – V; II – V; III-V; IV – V; V – F</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">I – V; II – F; III – V; IV – V; V- F</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">I – V; II – V; III – F; IV – F; V – V</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p align=\"left\">Da mesma maneira que existe o Sistema Financeiro Nacional (SFN) para o setor financeiro, existe o Sisnama para o meio ambiente. O Sisnama, criado pela Lei nº 6.938/81, é formado pelos órgãos e entidades da União, do Distrito Federal, dos estados e dos municípios responsáveis pela proteção, melhoria e recuperação da qualidade ambiental no Brasil. Analise se afirmativas abaixo são Verdadeiras (V) ou Falsas (F):</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">I. O SFN é composto por diversas instituições financeiras que operam os serviços e produtos financeiros e são reguladas pelo Conselho Monetário Nacional (CMN) e pelo Banco Central do Brasil (BCB).</p>\r\n<p align=\"left\"><br />II. A Lei 6.938 da Política Nacional do Meio Ambiente estabelece responsabilidades e obrigações ambientais para instituições financeiras.</p>\r\n<p align=\"left\"><br />III. No Sisnama existe o CONAMA, órgão consultivo e deliberativo, que tem como uma de suas competências o estabelecimento de normas e padrões nacionais que visem à proteção ambiental e ao uso sustentável dos recursos ambientais.</p>\r\n<p align=\"left\"><br />IV. A Lei de Política Nacional do Meio Ambiente, Lei 6.938, estabelece todas as entidades e órgãos de financiamento e incentivos governamentais condicionarão a aprovação de projetos habilitados a esses benefícios ao licenciamento e ao cumprimento das normas, dos critérios e dos padrões expedidos pelo CONAMA.</p>\r\n<p align=\"left\"><br />V. O SFN difere do Sisnama porque no SFN existe o CMN responsável por expedir normas e diretrizes gerais para o bom funcionamento do sistema, enquanto que no Sisnama toda a regulação está contida na legislação (leis) estaduais e municipais.</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">Somente a alternativa IV é verdadeira</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Somente a alternativa II é falsa</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Somente as alternativas I e III são verdadeiras</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Somente as alternativas II e III são falsas</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p align=\"left\">Com os crescentes problemas ambientais e sociais, a sociedade civil se organizou para pressionar as empresas a se tornarem ambiental e socialmente mais responsáveis. Sobre isso julgue as alternativas Verdadeiras (V) ou Falsas (F):</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">I. A pressão da sociedade sensibilizou e conscientizou os governos sobre a necessidade de regulamentar as questões ambientais.<br /> <br />II. Diversos setores desenvolveram sua própria regulação socioambiental, ou seja, uma autorregulação, exceto o setor financeiro.<br /> <br />III. O setor privado desenvolveu sua própria regulação e em muitos casos a exigência vai além das exigências regulamentares.</p>\r\n<p align=\"left\"></p>\r\n<p align=\"left\">IV. A autorregulação, embora não contemple normas de cumprimento obrigatório, ajudou a disseminar em diversos setores da economia boas práticas socioambientais.</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">Os órgãos reguladores das instituições financeiras, tais como agências reguladoras, bancos centrais e outros, regulam, exclusivamente, aspectos financeiros, nenhum regulador financeiro chegou a regular questões sociais e ambientais.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">As instituições financeiras por trabalharem com ativos financeiros que não causam problemas ambientais e sociais não devem se preocupar com aspectos sociais e ambientais.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Aspectos sociais e ambientais nunca ofereceram risco para as instituições financeiras, por isso nunca foram tema de regulação para os reguladores do setor financeiro.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">No Brasil, o órgão superior do Sistema Financeiro Nacional é Conselho Monetário Nacional (CMN) e tem por objeto a estabilidade da moeda e o desenvolvimento econômico e social do País. Este órgão já vem emitindo regulação envolvendo aspectos sociais e ambientais para as instituições financeiras.</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p style=\"text-align: justify;\" class=\"western\"><span><span>1.<span>      </span></span></span><span>A preocupação das organizações com as questões sociais e ambientais pode surgir por diversos motivos:</span></p>\r\n<p style=\"text-align: justify;\"><span><span>­<span>   </span></span></span><span>Pressão da sociedade, expondo-as ao risco de reputação;</span></p>\r\n<p style=\"text-align: justify;\"><span><span>­<span>   </span></span></span><span>Legislação ambiental;</span></p>\r\n<p style=\"text-align: justify;\"><span><span>­<span>   </span></span></span><span>Problemas ambientais e sociais que acabam impactando o desempenho econômico, como por exemplo a falta de água e de outros recursos naturais,e mesmo boicotes a produtos, greves, manifestações etc.</span></p>\r\n<p style=\"text-align: justify;\" class=\"western\"><span></span></p>\r\n<p style=\"text-align: justify;\" class=\"western\"><span>Sobre isso, assinale a alternativa correta: </span></p>\r\n<p></p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>Para a legislação, a instituição só tem a responsabilidade e o dever de economizar água e energia elétrica em suas instalações.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Tendo em vista que as instituições financeiras têm como principal atividade a intermediação financeira, a legislação no Brasil e em outros países não cria obrigações e responsabilidades para essas instituições.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Quando uma instituição financeira financia um projeto em desconformidade com as leis ambientais, ela pode ser responsabilizada.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>As atividades dos bancos e de demais instituições financeiras não causam grande impacto negativo ao meio ambiente.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>A legislação ambiental no Brasil e no mundo adota o Princípio do Poluidor Pagador, ou seja, quem polui deve pagar. Sobre isso podemos afirmar:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>Programa das Nações Unidas para o Meio Ambiente (PNUMA) contribui para desenvolver a autorregulação socioambiental para as instituições do setor financeiro e obteve adesão de instituições de diversos países.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>Não existe autorregulação no nível global, cada país deve desenvolver sua própria autorregulação, sendo proibido discutir essas normas voluntárias em outros países.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>A autorregulação é um tipo de movimento que ajuda as empresas a praticarem filantropia. <br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Não existe autorregulação genérica que possa ser adotada por qualquer empresa de qualquer setor da economia.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Sobre a autorregulação podemos afirmar:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">De acordo com a regulação ambiental do Brasil, apenas os investidores, ou seja, os acionistas podem ser responsabilizados por eventual dano ambiental.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">A regulação ambiental não envolve a indústria financeira porque a intermediação financeira não é uma atividade poluidora. <br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">Não existe regulação ambiental no Brasil que crie responsabilidade para o financiador ou investidor de uma atividade econômica.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">A regulação ambiental direta e indiretamente cria responsabilidades para os investidores e financiadores do setor produtivo.</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p align=\"left\">À medida que os problemas ambientais foram se agravando, a sociedade começou a fazer pressão para que as empresas assumissem a responsabilidade pelos danos ambientais causados em suas atividades. Entendendo a gravidade do problema, ou seja, reconhecendo que os prejuízos com os danos ambientais estavam sendo socializados e os lucros auferidos pelas empresas privatizados, os governos passaram a regular a forma das empresas tratarem o meio ambiente. Em relação ao setor financeiro podemos afirmar:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p align=\"left\">Em São Paulo está concentrado o maior número de instituições financeiras do País, por isso é considerada como o coração financeiro; a Resolução 4.327, que trata de PRSA, embora destinada a todas as instituições do Sistema Financeiro Nacional, foi editada e publicada pelo COSEMA - Conselho Estadual do Meio Ambiente do Estado de São Paulo.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">De acordo com a Resolução 4.327, as instituições financeiras devem estabelecer e implementar uma Política de Responsabilidade Socioambiental (PRSA) levando em conta dois princípios: da relevância e da proporcionalidade.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">A resolução foi publicada pelo CONAMA, Conselho Nacional do Meio Ambiente, e deve ser estabelecida e implementada por todas as empresas com alto potencial de dano ambiental.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p align=\"left\">De acordo com a Resolução 4.327, as instituições financeiras devem estabelecer e implementar uma Política de Responsabilidade Socioambiental (PRSA) levando em conta dois princípios: da igualdade e do direito à vida.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p align=\"left\">Sobre a Política de Responsabilidade Socioambiental (PRSA) de que trata a Resolução 4.327, pode-se afirmar:</p>\r\n"
+            }
+          ],
+          [
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>A responsabilidade socioambiental das empresas é a geração de emprego por isso elas são sempre bem vindas às comunidades locais.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Podemos pescar os peixes da lagoa além de sua capacidade de regeneração porque os peixes são recursos naturais renováveis.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Existe uma preocupação crescente da sociedade com a escassez dos recursos naturais, mas os governos não se preocupam com esse problema porque criar regras para seu uso pode reduzir as atividades econômicas.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Descaracterização de uma paisagem - como destruição de um monumento histórico ou construção de grandes viadutos - pode ser considerado um dano ambiental pela comunidade afetada e se tornar fator impeditivo para a instalação de uma empresa.</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Em relação ao meio ambiente e a economia, pode-se afirmar:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>Recursos naturais são essenciais para o funcionamento da economia.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>Recursos naturais renováveis podem ser usados em ritmo superior à sua capacidade de renovação.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Recursos naturais não renováveis são infinitos.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Recursos naturais renováveis se renovam constantemente e, portanto, não há necessidade de serem preservados.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Escolha a alternativa correta:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>I – F; II – F; III – V; IV – V</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>I – V; II – F; III – V; IV - V</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>I – F; II – V; III – F; IV – F</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>I – V; II – V; III – V; IV - V</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Analise os itens abaixo como V (verdadeiro) ou F (falso):<br /></p>\r\n<p>I. Não há desenvolvimento econômico sem os recursos naturais.<br />II. Não preservar os recursos naturais e a biodiversidade é destruir o futuro.<br />III. As empresas que pensam apenas no lucro imediato, sem considerar as questões sociais e ambientais, estão comprometendo seu futuro.<br />IV. A sociedade e o próprio mercado exigem atitude e ações social e ambientalmente responsáveis.</p>\r\n<p></p>\r\n<p>De acordo com a análise dos itens acima, escolha a melhor resposta:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>I – F; II – F; III – V; IV – V</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>I – F; II – V; III – F; IV – F<br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>I – V; II – F; III – V; IV - V</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>I – V; II – V; III – V; IV - F</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Analise os itens abaixo como V (verdadeiro) ou F (falso):</p>\r\n<p><br />I. As empresas podem sofrer sérios riscos financeiros por manterem seus trabalhadores em situação degradante, em condições semelhantes às de escravo.<br />II. Os problemas ambientais podem causar prejuízos para as empresas e para as pessoas individualmente, como por exemplo, a falta de água. <br />III. Recursos naturais são essenciais para o funcionamento da economia.<br />IV. Existe um exagero da mídia em relação aos problemas ambientais, os ecossistemas e a biodiversidade nunca estiveram tão controlados. <br /></p>\r\n<p>De acordo com a análise dos itens acima, escolha a melhor resposta:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>Somente o item I é errado.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Somente o item III é errado.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>Somente o item IV é correto.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Somente o item V é correto.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Analise os itens abaixo:<br /></p>\r\n<p>I. Deve-se pensar em alternativas para substituir os recursos naturais não renováveis.<br />II. Recursos naturais renováveis não podem ser usados em ritmo superior à sua capacidade de renovação.<br />III. Recursos naturais renováveis não precisam ser preservados.<br />IV. Recursos naturais são essenciais para o funcionamento da economia.<br />V. Recursos naturais não renováveis são finitos.</p>\r\n<p><br />Com relação aos itens acima, escolha a resposta correta:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>Questões ambientais são assuntos exclusivos dos órgãos ambientais do governo, como o Ministério do Meio Ambiente.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>A economia precisa dos recursos naturais para continuar prosperando.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Questões ambientais são relevantes e podem gerar riscos para as empresas e para a economia em geral.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Um dano ambiental em uma região pode causar problemas em outra, visto que o meio ambiente está todo interligado.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>O desmatamento na Amazônia é considerado uma das causas da seca que atinge os estados de São Paulo e Minas Gerais. Essa seca vem gerando diversos problemas sociais, ambientais e econômicos. As atividades econômicas como, por exemplo, agricultura e pecuária, estão sendo prejudicadas. Pessoas estão sofrendo com a falta de água para atividades básicas, como banho. Neste contexto, escolha a alternativa incorreta.</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>Usar mão de obra infantil é uma prática socialmente responsável, pois tira as crianças da rua, reduz os custos trabalhistas e gera melhores resultados financeiros para as empresas.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Não há relação entre eventos sociais e/ou ambientais com o mundo corporativo já que essas questões devem ser tratadas exclusivamente pelo setor público. </p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>As acusações são infundadas visto que as empresas, desde que gerem empregos para a comunidade local com resultados econômicos positivos para seus proprietários, não podem ser consideradas criminosas.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Pelo Princípio do Poluidor Pagador, quem polui deve pagar, nesse caso, a empresa poluidora pode ser considerada como praticante de crime ambiental.</p>\r\n",
+                  "correct": true
+                }
+              ],
+              "title": "\r\n<p>Empresas vêm sendo acusadas de diversos crimes ambientais e sociais ao redor do mundo como, por exemplo, utilizar mão de obra infantil em suas fábricas ou deliberadamente poluir rios que são fonte de água e de pesca para comunidades locais. Sobre isso é correto afirmar: </p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>A ideia de uma economia verde é restrita a um pequeno grupo de ONGs ambientalistas e nenhum Estado tem oficialmente entrado nessa discussão. <br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Todas as tentativas de adoção de uma economia verde se frustraram porque gerou custos altíssimos para o Estado.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>É aquela que resulta em aumento do bem estar da humanidade com igualdade social, ao mesmo tempo em que reduz significativamente riscos ambientais e escassez ecológica.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>Não há notícias de países que tenham adotado políticas públicas de estímulo à economia verde.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>Em relação à “Economia Verde”, pode-se afirmar:</p>\r\n"
+            },
+            {
+              "alternatives": [
+                {
+                  "answer": "\r\n<p>Questões ambientais impactam a economia de forma profunda visto que a economia precisa dos recursos naturais para continuar crescendo.</p>\r\n",
+                  "correct": true
+                },
+                {
+                  "answer": "\r\n<p>Problemas ambientais não têm alcance global, são apenas locais, como poluição de um rio ou um desmatamento.</p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>O que as pessoas consomem não afeta o meio ambiente, pois basta possuir recursos financeiros para consumir.<br /></p>\r\n",
+                  "correct": false
+                },
+                {
+                  "answer": "\r\n<p>Questões ambientais não impactam na economia visto que essa não depende da natureza para funcionar.</p>\r\n",
+                  "correct": false
+                }
+              ],
+              "title": "\r\n<p>As atividades econômicas, bem como o consumo exacerbado, vêm sendo acusados de provocar sérios problemas ao meio ambiente. Como esses problemas ambientais se relacionam com a economia do planeta?</p>\r\n"
             }
           ]
         ],
-        "directions": "\r\n<p>Avaliação</p>\r\n",
+        "directions": "\r\n<p>Prezado Aprendiz,</p>\r\n<p></p>\r\n<p></p>\r\n<p>Esta é a avaliação de aprendizagem do curso Introdução à Responsabilidade Socioambiental no Sistema Financeiro. Ela é composta de 10 questões relacionadas aos conteúdos abordados na ação educacional.</p>\r\n<p></p>\r\n<p>A avaliação é um instrumento que poderá auxiliá-lo a verificar seu aproveitamento quanto aos estudos realizados, fornecendo também, à Universidade CAIXA, insumos para analisar a efetividade de suas ações educacionais.</p>\r\n<p></p>\r\n<p>É necessário obter um aproveitamento mínimo de 70% para concluir o módulo e tê-lo registrado em seu currículo.</p>\r\n<p></p>\r\n<p>Caso não obtenha o percentual mínimo indicado, você será orientado a rever o conteúdo e a refazer a avaliação.<br /><br /></p>\r\n",
         "random_order": true,
         "allow_repetition": true,
         "one_question_per_page": false
       },
-      "learningmodule_folder": "\r\n<p></p>\r\n",
-      "published_date": "27/02/2015 10:23:00",
+      "learningmodule_folder": "\r\n<p><b><br />Prezado (a) Participante: Para cada unidade você acessará o TV CAIXA. Favor utilizar o Internet Explorer.</b><br /><br /></p>\r\n",
+      "published_date": "09/06/2016 15:58:00",
       "scorm": {
-        "folder": "/opt/zope298/courses/fgp_m1_20150129/",
-        "title": "fgp_m1_20150129"
+        "folder": "/opt/zope298/courses/irsamp4_20160622/",
+        "title": "irsamp4_20160622"
       },
       "max_number_attempt_assessment": [
         "3"
       ],
-      "id": "fgp-m1"
+      "id": "responsabilidade-socioambiental"
     }
   ]
 }
