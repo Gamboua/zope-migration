@@ -6,10 +6,10 @@ MOOSH_COMMAND = 'moosh -n -p %s' % MOODLE_ROOT
 
 ####
 # DATABASE CONFIGURATION
-BASE = 'moodle31'
+BASE = 'basename'
 HOST = 'localhost'
-USER = 'postgres'
-PASS = '123456'
+USER = 'baseuser'
+PASS = 'basepass'
 PORT = 5432
 
 ####
@@ -19,6 +19,6 @@ QUESTIONS_XML = '/tmp/quiz.xml'
 
 ####
 # SCORM SERVER
-REMOTE_SCORM_SERVER = '172.17.0.3'
-REMOTE_SCORM_USER = 'root'
+REMOTE_SCORM_SERVER = 'scormserver'
+REMOTE_SCORM_USER = 'scormserveruser'
 REMOTE_SCORM_PORT = 22
