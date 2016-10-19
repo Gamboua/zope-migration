@@ -39,7 +39,7 @@ class Scorm:
         return ' '.join(params)
 
     def scorm_zip(self):
-        os.system('zip -r /tmp/scorm_dir.zip %s*')
+        os.system('zip -r /tmp/scorm_dir.zip %s*' % self.folder)
 
     def scorm_import_folder(self):
         client = paramiko.SSHClient()
