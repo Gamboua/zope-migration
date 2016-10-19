@@ -56,6 +56,19 @@ Dashboard > Site administration > Plugins > Repositories > Manage repositories
         - Name: scorm
         - Allow relative files: checked
 
+### UPLOAD
+Alterar no php.ini as configurações de upload de arquivo:
+
+post_max_size = 100M
+upload_max_filesize = 100M
+max_execution_time = 600
+
+Reiniciar apache:
+service apache2 restart
+
+Dashboard > Site administration > Security > Site Policies > Maximum uploaded file size
+Estará com o novo tamanho máximo, é interessante conferir para ver se está ok.
+
 Criar diretório dentro do moodledata
 ```
 mkdir moodledata/repository/scorm -p
@@ -63,6 +76,7 @@ mkdir moodledata/repository/scorm -p
 ### Ambiente
 Pacotes que devem ser garantidos
 #### Pacotes e dependências
+- zip
 - Python 2.7 (apt-get)
   - libpq-dev
   - python-dev
