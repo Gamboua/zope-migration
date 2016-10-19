@@ -22,6 +22,7 @@ class Scorm:
 
     def scorm_add(self):
         self.scorm_import_folder()
+        self.scorm_zip()
         Command.command_execute(Command.activity_create_command(
             options=self.get_scorm_options(), type=self.type, id=self.course.id
         ))
@@ -33,9 +34,12 @@ class Scorm:
         if self.title:
             params.append('--name "%s"' % self.title)
 
-        params.append('--filepath %simsmanifest.xml' % self.folder)
+        params.append('--filepath /tmp/scorm_dir.zip')
 
         return ' '.join(params)
+
+    def scorm_zip(self):
+        os.system('zip -r /tmp/scorm_dir.zip %s*')
 
     def scorm_import_folder(self):
         client = paramiko.SSHClient()
@@ -47,12 +51,8 @@ class Scorm:
 
         os.makedirs(self.folder)
         scp.get(
-            '%simsmanifest.xml' % self.folder,
-            self.folder
-        )
-        scp.get(
-            self.folder[:-1],
-            MOODLE_SCORM_REPOSITORY,
+            self.folder,
+            self.folder,
             recursive=True
         )
 
