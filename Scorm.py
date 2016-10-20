@@ -3,6 +3,7 @@ import os
 from scp import SCPClient
 from config import *
 from Command import Command
+import random, string
 
 
 class Scorm:
@@ -22,26 +23,30 @@ class Scorm:
 
     def scorm_add(self):
         self.scorm_import_folder()
-        self.scorm_zip()
+        zip_name = self.scorm_zip()
         Command.command_execute(Command.activity_create_command(
-            options=self.get_scorm_options(), type=self.type, id=self.course.id
+            options=self.get_scorm_options(zip_name), type=self.type, id=self.course.id
         ))
 
-    def get_scorm_options(self):
+    def get_scorm_options(self, name):
         params = []
         if self.section is not None:
             params.append('--section %s' % self.section)
         if self.title:
             params.append('--name "%s"' % self.title)
 
-        params.append('--filepath /tmp/scorm_dir.zip')
+        params.append('--filepath /tmp/%s.zip' % name)
 
         return ' '.join(params)
 
     def scorm_zip(self):
+        name = ''.join(random.choice(string.ascii_letters) for x in range(8))
+
         os.chdir(self.folder)
-        os.system('zip -r /tmp/scorm_dir.zip *')
+        os.system('zip -r /tmp/%s *' % name)
         os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+        return name
 
     def scorm_import_folder(self):
         client = paramiko.SSHClient()
