@@ -39,7 +39,9 @@ class Scorm:
         return ' '.join(params)
 
     def scorm_zip(self):
-        os.system('zip -r /tmp/scorm_dir.zip %s*' % self.folder)
+        os.chdir(self.folder)
+        os.system('zip -r /tmp/scorm_dir.zip *')
+        os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
     def scorm_import_folder(self):
         client = paramiko.SSHClient()
@@ -49,10 +51,12 @@ class Scorm:
 
         scp = SCPClient(client.get_transport())
 
-        os.makedirs(self.folder)
+        if not os.path.isdir('/opt/zope298/courses'):
+            os.makedirs('/opt/zope298/courses')
+
         scp.get(
             self.folder,
-            self.folder,
+            '/opt/zope298/courses/',
             recursive=True
         )
 
