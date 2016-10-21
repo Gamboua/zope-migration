@@ -40,7 +40,7 @@ class Scorm:
         return ' '.join(params)
 
     def scorm_zip(self):
-        name = ''.join(random.choice(string.ascii_letters) for x in range(8))
+        name = (self.folder).split("/")[-2]
 
         os.chdir(self.folder)
         os.system('zip -r /tmp/%s *' % name)
@@ -52,7 +52,7 @@ class Scorm:
         client = paramiko.SSHClient()
         client.load_system_host_keys()
         client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-        client.connect(REMOTE_SCORM_SERVER, REMOTE_SCORM_PORT, REMOTE_SCORM_USER)
+        client.connect(REMOTE_SCORM_SERVER, REMOTE_SCORM_PORT, REMOTE_SCORM_USER, REMOTE_SCORM_PASS)
 
         scp = SCPClient(client.get_transport())
 
