@@ -34,6 +34,6 @@ $relativepath = get_file_argument();
 $forcedownload = optional_param('forcedownload', 0, PARAM_BOOL);
 $preview = optional_param('preview', null, PARAM_ALPHANUM);
 
-$relativepath = pathinfo($relativepath, PATHINFO_EXTENSION) == 'js' ? strtolower($relativepath) : $relativepath ;
+$relativepath = preg_match("/mod_scorm/i", $relativepath) ? strtolower($relativepath) : $relativepath ;
 
 file_pluginfile($relativepath, $forcedownload, $preview);
