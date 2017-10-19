@@ -1,5 +1,7 @@
-![4|Linux](http://certificados.4linux.com.br/logo-top.png)
-##Migração ZoDB p/ Moodle
+## Migração ZoDB p/ Moodle
+
+Esse script trabalha em cima de um json extraido do ZoDB. Os arquivos scorm também foram fornecidos para a migração.
+
 ### Moodle config
 Para que a migração funcione, alguns parâmetros no moodle devem ser configurados antes.
 #### Categorias
