@@ -1,6 +1,6 @@
 ## Migração ZoDB p/ Moodle
 
-Esse script trabalha em cima de um json extraido do ZoDB. Os arquivos scorm também foram fornecidos para a migração.
+Esse script trabalha em cima de um json extraido do ZoDB. Os arquivos scorm também foram fornecidos para a migração. Essa migração não é genérica. Muitas modificações foram feitas apenas para um ambiente em específico.
 
 ### Moodle config
 Para que a migração funcione, alguns parâmetros no moodle devem ser configurados antes.
